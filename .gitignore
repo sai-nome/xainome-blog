@@ -1,0 +1,19 @@
+# Hugo build
+public/
+resources/_gen/
+# Hugo lock
+.hugo_build.lock
+# Windows
+Thumbs.db
+Desktop.ini
+# VSCode
+.vscode/
+# Codex
+.codex/
+# AI Agent
+agents/
+# Logs
+*.log
+# Temporary
+tmp/
+temp/

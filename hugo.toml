@@ -1,0 +1,21 @@
+baseURL = 'https://xainome.blog/'
+title = 'Xainome Blog'
+theme = 'PaperMod'
+defaultContentLanguage = 'ja'
+
+[params]
+disableSpecial1stPost = true
+
+[pagination]
+pagerSize = 10
+
+[languages]
+  [languages.ja]
+    locale = 'ja-JP'
+    label = 'Japanese'
+    weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
