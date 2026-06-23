@@ -11,6 +11,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-3-cover.webp"
+  relative: true
 ---
 
 このpartで目標としていた基本形は作れたことになります。簡単な質問で"タイトル"と"内容"が返ってくるものになります。

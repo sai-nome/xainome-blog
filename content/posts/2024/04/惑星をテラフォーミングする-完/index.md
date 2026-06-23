@@ -11,6 +11,7 @@ tags:
   - "プラネットクラフター"
 cover:
   image: "images/the-planet-crafter-terraforming-complete-cover.png"
+  relative: true
 ---
 
 "The Planet Crafter"ほぼ完クリしました！実績はこんな感じ

@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/prefect-bigquery-cover.png"
+  relative: true
 ---
 
 ## 副業でのPrefect CloudとBigQueryの使用

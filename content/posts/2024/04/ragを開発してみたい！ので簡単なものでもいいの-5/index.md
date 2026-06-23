@@ -14,6 +14,7 @@ tags:
   - "質問入力フォーム"
 cover:
   image: "images/build-rag-app-part-5-cover.png"
+  relative: true
 ---
 
 さて前回までやったこととしては

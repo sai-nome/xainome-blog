@@ -11,6 +11,7 @@ tags:
   - "ヨーグルトメーカー"
 cover:
   image: "images/homemade-yogurt-with-yogurt-maker-cover.png"
+  relative: true
 ---
 
 "QOL"を意識して生活をしていますか？

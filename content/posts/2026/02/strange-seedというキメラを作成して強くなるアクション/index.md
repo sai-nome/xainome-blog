@@ -18,6 +18,7 @@ tags:
   - "実績コンプ"
 cover:
   image: "images/ChatGPT-Image-Feb-22-2026-11_45_39-PM.png"
+  relative: true
 ---
 
 [このゲーム](https://store.steampowered.com/app/2463690/Strange_Seed/)はアクションゲームでまずはスライムからスタートします。スライムで一部の敵を倒すと生物のパーツをもらうことがあります。これを自分にも装備してどんどん強化していくゲームになります。

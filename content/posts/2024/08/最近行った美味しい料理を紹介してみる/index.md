@@ -12,6 +12,7 @@ tags:
   - "焼肉-正剛"
 cover:
   image: "images/recent-restaurant-food-reviews-cover.png"
+  relative: true
 ---
 
 ## お盆休みに外食してみた話

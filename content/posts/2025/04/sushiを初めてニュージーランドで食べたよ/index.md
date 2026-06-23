@@ -13,6 +13,7 @@ tags:
   - "寿司"
 cover:
   image: "images/sushi-new-zealand-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

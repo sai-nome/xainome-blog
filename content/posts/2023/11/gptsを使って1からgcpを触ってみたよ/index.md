@@ -11,6 +11,7 @@ tags:
   - "gpts"
 cover:
   image: "images/gpts-1-from-gcp-review-cover.png"
+  relative: true
 ---
 
 昨今OpenAIのCEOが退任したり、復帰したりと騒がせている状況ですが、私はGPTsをうまく使えないか模索していたりします。

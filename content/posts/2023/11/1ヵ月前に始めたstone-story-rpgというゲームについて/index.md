@@ -10,6 +10,7 @@ tags:
   - "ゲーム"
 cover:
   image: "images/1-stone-story-rpg-game-cover.png"
+  relative: true
 ---
 
 今回は雑談ということでStone Story RPGというゲームについてです

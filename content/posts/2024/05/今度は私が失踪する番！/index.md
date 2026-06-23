@@ -8,6 +8,7 @@ categories:
   - "雑談"
 cover:
   image: "images/taking-a-break-from-mobile-games-cover.png"
+  relative: true
 ---
 
 ということで失踪しました。失踪したといっても物理的に失踪したわけではなくソシャゲと動画作りから失踪しました。[**うｐ主失踪**](https://dic.nicovideo.jp/a/%E3%81%86p%E4%B8%BB%E5%A4%B1%E8%B8%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)！

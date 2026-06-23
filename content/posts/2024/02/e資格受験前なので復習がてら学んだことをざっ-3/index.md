@@ -10,6 +10,7 @@ tags:
   - "e資格"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-deep-learning-fundamentals-part-2-cover.png"
+  relative: true
 ---
 
 前回の続きになります。深層学習の後編になります。もう一息です。

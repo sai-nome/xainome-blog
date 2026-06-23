@@ -12,6 +12,7 @@ tags:
   - "音声合成モデル"
 cover:
   image: "images/stylebertvits2-tutorial-cover.png"
+  relative: true
 ---
 
 [前回](/posts/2024/11/ai-voice-synthesis-aivisspeech-review/)Aivis Speechを触ってみたので自身の音声合成モデルを作ってみたいなと思い調べてみました！StyleBertVITS2は音声合成がメインになると思います。他にも学習やデータセットの作成もできます。というわけでStyleBertVITS2を使っていきます！

@@ -13,6 +13,7 @@ tags:
   - "パスキー"
 cover:
   image: "images/wordpress-passkeys-cybersecurity-cover.png"
+  relative: true
 ---
 
 ## はじめに

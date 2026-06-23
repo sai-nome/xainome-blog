@@ -11,6 +11,7 @@ tags:
   - "パスポート"
 cover:
   image: "images/japan-passport-ranking-decline-cover.png"
+  relative: true
 ---
 
 ## パスポートの順位を見たきっかけ

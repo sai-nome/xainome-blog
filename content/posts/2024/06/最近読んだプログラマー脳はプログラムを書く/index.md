@@ -13,6 +13,7 @@ tags:
   - "書籍"
 cover:
   image: "images/programmers-brain-book-review-cover.png"
+  relative: true
 ---
 
 ## 読書習慣とおすすめの一冊「プログラマー脳」

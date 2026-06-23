@@ -13,6 +13,7 @@ tags:
   - "タワーディフェンス"
 cover:
   image: "images/ChatGPT-Image-Jan-8-2026-11_32_59-PM.png"
+  relative: true
 ---
 
 ## Outhold

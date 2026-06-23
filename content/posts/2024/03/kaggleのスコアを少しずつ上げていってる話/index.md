@@ -11,6 +11,7 @@ tags:
   - "スコア"
 cover:
   image: "images/improving-kaggle-competition-score-cover.png"
+  relative: true
 ---
 
 前回から4日ほど空いてしまったのですが、Kaggleでどうやってスコアを上げるか四苦八苦してました。

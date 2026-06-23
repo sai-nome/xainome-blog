@@ -15,6 +15,7 @@ tags:
   - "バンジージャンプ"
 cover:
   image: "images/ChatGPT-Image-Jun-12-2025-11_23_59-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

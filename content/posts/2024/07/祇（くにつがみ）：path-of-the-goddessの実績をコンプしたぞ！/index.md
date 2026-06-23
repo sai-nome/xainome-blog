@@ -13,6 +13,7 @@ tags:
   - "祇（くにつがみ）"
 cover:
   image: "images/path-of-goddess-cover.png"
+  relative: true
 ---
 
 ## 初めに

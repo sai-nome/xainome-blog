@@ -3,6 +3,7 @@ title: "サイノメのプロフィール/自己紹介_2024/08/10"
 date: 2024-08-10
 cover:
   image: "images/2024-08-10-2024-08-10-cover.png"
+  relative: true
 ---
 
 ## 自己紹介

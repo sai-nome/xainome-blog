@@ -14,6 +14,7 @@ tags:
   - "読書-2"
 cover:
   image: "images/book-reviews-september-2024-cover.png"
+  relative: true
 ---
 
 ## 読書習慣を身に着けつつあるが…

@@ -14,6 +14,7 @@ tags:
   - "開発者ツール"
 cover:
   image: "images/website-performance-cover.png"
+  relative: true
 ---
 
 自身のWebサイトを立ち上げてから大体半年が経過しそうなところです。

@@ -10,6 +10,7 @@ tags:
   - "kaggle"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-kaggle-cover.png"
+  relative: true
 ---
 
 G検定に続きE資格も無事取得できたので今度は統計検定準1級やDS検定になるかと思いますが、一旦受験関係はやめて[Kaggle](https://www.kaggle.com/)に挑戦しようと思います。

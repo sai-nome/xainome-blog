@@ -12,6 +12,7 @@ tags:
   - "音声合成モデル"
 cover:
   image: "images/voice-synthesis-style-bert-vits2-tutorial-cover.png"
+  relative: true
 ---
 
 ## 音声合成モデルの作成

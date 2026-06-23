@@ -15,6 +15,7 @@ tags:
   - "仮想環境"
 cover:
   image: "images/python-virtual-environment-review-cover.png"
+  relative: true
 ---
 
 前回の続きになります。

@@ -8,6 +8,7 @@ categories:
   - "it"
 cover:
   image: "images/freecodecamp-cover.png"
+  relative: true
 ---
 
 E資格が終わって次に何しようかなと思った時にたまたま目が付いたサイト"**[freeCodeCamp](https://www.freecodecamp.org/)**"をやってみました。

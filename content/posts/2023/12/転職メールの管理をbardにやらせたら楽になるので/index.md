@@ -11,6 +11,7 @@ tags:
   - "転職"
 cover:
   image: "images/job-search-email-bard-cover.png"
+  relative: true
 ---
 
 ここのとこあまり役に立たなそうな事ばかり書いていたので変わった内容を書いてみました

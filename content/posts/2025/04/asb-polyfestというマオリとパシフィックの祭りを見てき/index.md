@@ -14,6 +14,7 @@ tags:
   - "マオリ"
 cover:
   image: "images/asb-polyfest-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

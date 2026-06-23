@@ -13,6 +13,7 @@ tags:
   - "鳥-～ゲノム解析が解き明かす新しい鳥類の系統～"
 cover:
   image: "images/bird-exhibition-cover.png"
+  relative: true
 ---
 
 ## 特別展\_鳥の生態に迫る

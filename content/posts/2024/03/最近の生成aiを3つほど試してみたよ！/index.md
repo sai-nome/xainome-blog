@@ -14,6 +14,7 @@ tags:
   - "音楽生成ai"
 cover:
   image: "images/three-generative-ai-tools-tested-cover.png"
+  relative: true
 ---
 
 OpenAIから"Sora"のお披露目があり、夏に"GPT-5"がでるという発表がありましたね。

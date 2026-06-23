@@ -11,6 +11,7 @@ tags:
   - "サンドランド"
 cover:
   image: "images/sand-land-game-review-cover.png"
+  relative: true
 ---
 
 最近はクラフト系のゲームをプレイしていたので私が好きなアクション系のゲームを探していたところ、最近発売された"SAND LAND(サンドランド)"というゲームをプレイしました。まだ10時間もたってないですが…

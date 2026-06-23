@@ -11,6 +11,7 @@ tags:
   - "仮想環境"
 cover:
   image: "images/pc-python-virtual-environment-cover.png"
+  relative: true
 ---
 
 たまには自身の仕事の環境のことでも話をしてみるのもいいかと思って記事にしました。ただ自身の疑問や考えを整理するために書いてるので、大したことは書かないかと思います。人間っぽくていいなと思います。

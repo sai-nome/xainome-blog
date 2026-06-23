@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/github-copilot-vscode-continue-cover.png"
+  relative: true
 ---
 
 ## 無料で使えるAIツール「Continue」でVSCodeにAIコード補完機能を導入する方法

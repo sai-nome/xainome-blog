@@ -11,6 +11,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/website-improvement-progress-cover.png"
+  relative: true
 ---
 
 サイトを一部修正して固定ページを追加しました！

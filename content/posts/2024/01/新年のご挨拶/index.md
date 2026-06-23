@@ -10,6 +10,7 @@ tags:
   - "元旦"
 cover:
   image: "images/new-year-greetings-2024-cover.png"
+  relative: true
 ---
 
 新年あけましておめでとうございます。今年も宜しくお願い致します。

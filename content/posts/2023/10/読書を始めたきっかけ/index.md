@@ -10,6 +10,7 @@ tags:
   - "読書-2"
 cover:
   image: "images/why-i-started-reading-cover.png"
+  relative: true
 ---
 
 前回の話で自身の将来が不安になったという話をしました。

@@ -14,6 +14,7 @@ tags:
   - "月食"
 cover:
   image: "images/mt-victoria-new-zealand-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

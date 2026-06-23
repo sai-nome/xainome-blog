@@ -14,6 +14,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/ChatGPT-Image-Jul-3-2025-11_48_01-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

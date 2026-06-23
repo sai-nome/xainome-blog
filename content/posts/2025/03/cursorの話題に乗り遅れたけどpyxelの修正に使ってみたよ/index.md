@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/cursor-pyxel-review-cover.png"
+  relative: true
 ---
 
 ## Cursorを使ってみた

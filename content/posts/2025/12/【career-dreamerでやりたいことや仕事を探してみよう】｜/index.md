@@ -14,6 +14,7 @@ tags:
   - "職業"
 cover:
   image: "images/ChatGPT-Image-Dec-14-2025-11_49_06-AM.jpg"
+  relative: true
 ---
 
 ## English\_Practice

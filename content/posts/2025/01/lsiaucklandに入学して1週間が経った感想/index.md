@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/lsi-auckland-1-review-cover.png"
+  relative: true
 ---
 
 ニュージーランドに来て[LSI(Auckland)](https://www.lsi.edu/jp/%E8%AA%9E%E5%AD%A6%E5%AD%A6%E6%A0%A1/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%95%99%E5%AD%A6/%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%95%99%E5%AD%A6%E3%81%A7%E8%8B%B1%E8%AA%9E%E8%AA%9E%E5%AD%A6%E7%A0%94%E4%BF%AE)に入り、1週間ほど経ったのでどんな感じか書いていこうと思います。

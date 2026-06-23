@@ -12,6 +12,7 @@ tags:
   - "ヒンターベルクのダンジョン"
 cover:
   image: "images/dungeons-of-hinterberg-review-cover.png"
+  relative: true
 ---
 
 ## ヒンターベルクのダンジョンについて

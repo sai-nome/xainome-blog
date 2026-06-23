@@ -15,6 +15,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/deepseek-review-cover.png"
+  relative: true
 ---
 
 ## Deepseekを試した背景

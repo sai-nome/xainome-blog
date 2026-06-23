@@ -17,6 +17,7 @@ tags:
   - "養鶏場"
 cover:
   image: "images/ChatGPT-Image-Sep-9-2025-02_44_51-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

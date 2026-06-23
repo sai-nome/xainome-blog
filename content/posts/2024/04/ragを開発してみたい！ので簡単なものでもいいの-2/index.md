@@ -12,6 +12,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-2-cover.png"
+  relative: true
 ---
 
 このpartで基本が8割がた作れました。内容としては簡単な質問をすると"タイトル"と"内容"が返ってくる程度です。まだまだ理想には遠いですね。

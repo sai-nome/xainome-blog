@@ -12,6 +12,7 @@ tags:
   - "株式会社made-in-japan"
 cover:
   image: "images/made-in-japan-from-t-cover.png"
+  relative: true
 ---
 
 2024/12/16日に[株式会社made in japan](https://shop.modein.jp/)から切れない燃えない服が発売されました。[リアルタイム](https://www.youtube.com/watch?v=2bzLdUt7Xdo)では見てないですが、終了後に見て気になったので買ってみした！

@@ -3,6 +3,7 @@ title: "お問い合わせ"
 date: 2024-08-11
 cover:
   image: "images/2024-08-11-cover.png"
+  relative: true
 ---
 
 ブログについてのご意見・ご感想など、お気軽にお問い合わせください。

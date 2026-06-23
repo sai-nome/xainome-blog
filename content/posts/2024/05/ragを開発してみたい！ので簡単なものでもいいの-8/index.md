@@ -11,6 +11,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-8-cover.png"
+  relative: true
 ---
 
 前回問題としていたベクトル化についてですが解決して、ようやく2つ目の目標が終わりました！

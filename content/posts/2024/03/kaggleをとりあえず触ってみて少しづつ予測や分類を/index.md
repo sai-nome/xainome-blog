@@ -11,6 +11,7 @@ tags:
   - "コンペ"
 cover:
   image: "images/kaggle-prediction-and-classification-basics-cover.png"
+  relative: true
 ---
 
 最初の段階で[タイタニック](https://www.kaggle.com/competitions/titanic)を触ることが普通かもしれませんが、[この書籍](https://www.amazon.co.jp/Kaggle%E3%81%A7%E5%8B%9D%E3%81%A4%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%81%AE%E6%8A%80%E8%A1%93-%E9%96%80%E8%84%87-%E5%A4%A7%E8%BC%94/dp/4297108437)でも触れてますがタイタニックは軽く触るくらいでいいと思います。

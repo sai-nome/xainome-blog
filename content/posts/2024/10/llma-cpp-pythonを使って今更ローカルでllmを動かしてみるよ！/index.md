@@ -13,6 +13,7 @@ tags:
   - "ローカル"
 cover:
   image: "images/llma-cpp-python-llm-cover.png"
+  relative: true
 ---
 
 ## llama-cpp-pythonのインストールとセットアップ

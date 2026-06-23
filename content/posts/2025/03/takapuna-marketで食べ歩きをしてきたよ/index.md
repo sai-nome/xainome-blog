@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "DALL·E-2025-03-23-21.34.09-A-dolphin-shopping-for-food-at-a-bustling-market.-The-dolphin-is-browsing-stalls-filled-with-fresh-produce-seafood-and-local-delicacies-selecting-i.png"
+  relative: true
 ---
 
 ## English\_Practice

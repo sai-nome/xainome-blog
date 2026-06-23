@@ -13,6 +13,7 @@ tags:
   - "日本刀"
 cover:
   image: "images/japanese-sword-museum-books-cover.png"
+  relative: true
 ---
 
 ## **刀剣博物館での発見：日本刀の魅力に迫る**

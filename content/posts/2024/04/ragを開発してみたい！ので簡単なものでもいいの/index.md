@@ -10,6 +10,7 @@ tags:
   - "rag"
 cover:
   image: "images/build-rag-app-part-1-cover.png"
+  relative: true
 ---
 
 大規模言語モデルが出てきてChat-GPTやGemini、Claudeが出てきましたが、"ハルシネーション"は中々解決できない問題ですね。人間でも勘違いや嘘を堂々と言うことはあるのでどっこいどっこいですが、なるべくなら減らしていきたいですね。

@@ -12,6 +12,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-6-cover.png"
+  relative: true
 ---
 
 PCが故障したという話をしたのですが、コンセントから電源が抜けてたというオチでした。

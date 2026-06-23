@@ -15,6 +15,7 @@ tags:
   - "ワイン"
 cover:
   image: "images/waiheke-island-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

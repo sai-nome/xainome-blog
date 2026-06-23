@@ -14,6 +14,7 @@ tags:
   - "英語"
 cover:
   image: "images/one-month-homestay-experience-new-zealand-cover.png"
+  relative: true
 ---
 
 ## ホームステイ生活について

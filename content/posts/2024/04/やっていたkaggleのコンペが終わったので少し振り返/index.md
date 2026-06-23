@@ -10,6 +10,7 @@ tags:
   - "kaggle"
 cover:
   image: "images/kaggle-competition-retrospective-cover.png"
+  relative: true
 ---
 
 私が参加していたコンペ([こちら](https://www.kaggle.com/competitions/playground-series-s4e3))が終わったので少し振り返ってみようと思います。

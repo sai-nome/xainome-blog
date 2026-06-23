@@ -11,6 +11,7 @@ tags:
   - "江戸東京たてもの園"
 cover:
   image: "images/edo-tokyo-open-air-architectural-museum-cover.png"
+  relative: true
 ---
 
 ## 江戸東京たてもの園に行った話

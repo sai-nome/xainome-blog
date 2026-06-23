@@ -15,6 +15,7 @@ tags:
   - "検閲"
 cover:
   image: "images/ChatGPT-Image-Feb-14-2026-11_09_27-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

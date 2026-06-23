@@ -16,6 +16,7 @@ tags:
   - "請求書"
 cover:
   image: "images/ChatGPT-Image-Apr-13-2026-10_30_20-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

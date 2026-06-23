@@ -11,6 +11,7 @@ tags:
   - "llmアプリ開発"
 cover:
   image: "images/llm-dify-review-cover.webp"
+  relative: true
 ---
 
 ## Difyを使ったLLM開発アプリの導入と設定

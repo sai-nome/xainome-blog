@@ -12,6 +12,7 @@ tags:
   - "舞台"
 cover:
   image: "images/from-review-visit-cover.png"
+  relative: true
 ---
 
 ## 舞台「ここから何処へ」を観た感想

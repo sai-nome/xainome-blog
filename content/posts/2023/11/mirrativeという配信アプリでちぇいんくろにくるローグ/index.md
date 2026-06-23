@@ -10,6 +10,7 @@ tags:
   - "mirrative"
 cover:
   image: "images/mirrative-chain-chronicle-rogue-streaming-cover.png"
+  relative: true
 ---
 
 私は最近Mirattiveというアプリ内でリリースされたちぇいんくろにくるローグというゲームをやり始めました

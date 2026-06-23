@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/southeastasia-festival-visit-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

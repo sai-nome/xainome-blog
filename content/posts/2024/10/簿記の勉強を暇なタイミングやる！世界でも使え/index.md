@@ -12,6 +12,7 @@ tags:
   - "簿記"
 cover:
   image: "images/learning-bookkeeping-for-global-career-cover.webp"
+  relative: true
 ---
 
 ## 簿記を始めたのはなぜか？

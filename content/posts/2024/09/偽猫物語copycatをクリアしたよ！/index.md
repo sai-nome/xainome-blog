@@ -13,6 +13,7 @@ tags:
   - "偽猫物語"
 cover:
   image: "images/copycat-review-cover.png"
+  relative: true
 ---
 
 ## 偽猫物語について

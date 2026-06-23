@@ -12,6 +12,7 @@ tags:
   - "森美術館"
 cover:
   image: "images/louise-bourgeois-exhibition-cover.png"
+  relative: true
 ---
 
 ## ルイーズ・ブルジョワ展の概要

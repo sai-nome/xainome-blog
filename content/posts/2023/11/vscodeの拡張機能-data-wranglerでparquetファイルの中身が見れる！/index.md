@@ -11,6 +11,7 @@ tags:
   - "vscode"
 cover:
   image: "images/parquet-vscode-data-wrangler-cover.png"
+  relative: true
 ---
 
 ## parquetファイルについて

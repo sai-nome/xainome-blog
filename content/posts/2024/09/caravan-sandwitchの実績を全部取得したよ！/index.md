@@ -13,6 +13,7 @@ tags:
   - "実績"
 cover:
   image: "images/caravan-sandwitch-achievements-cover.png"
+  relative: true
 ---
 
 ![](images/スクリーンショット-2024-09-15-122808.png)

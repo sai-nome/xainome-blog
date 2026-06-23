@@ -17,6 +17,7 @@ tags:
   - "ハウスキーパー"
 cover:
   image: "images/ChatGPT-Image-May-17-2026-01_42_33-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

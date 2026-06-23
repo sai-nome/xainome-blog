@@ -12,6 +12,7 @@ tags:
   - "仮想環境"
 cover:
   image: "images/python3-12-virtual-environment-open-interpreter-cover.png"
+  relative: true
 ---
 
 話題としては遅い気がしますが、初めてOpen Interpreterを使いました。そのことについて記載しようと思います。

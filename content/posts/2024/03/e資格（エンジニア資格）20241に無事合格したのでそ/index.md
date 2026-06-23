@@ -11,6 +11,7 @@ tags:
   - "e資格（エンジニア資格）20241"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-2024-1-to-cover.png"
+  relative: true
 ---
 
 E資格について昔話したと思いますが([こちら](https://xainome.blog/?p=214))、結果はどうだったか、どんな勉強をしたのかを話していこうかと思います。

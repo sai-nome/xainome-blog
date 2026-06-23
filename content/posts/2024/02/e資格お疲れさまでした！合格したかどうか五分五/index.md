@@ -10,6 +10,7 @@ tags:
   - "e資格"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-to-cover.png"
+  relative: true
 ---
 
 2024#1のE資格お疲れさまでした！個人的には五分五分くらいの出来でした。振り返るとあの箇所間違ってたなと思うとこもいくつかあります。

@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/leveltests-lsi-cover.png"
+  relative: true
 ---
 
 ## **English\_Practice**

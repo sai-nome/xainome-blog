@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/waitangi-day-cover.png"
+  relative: true
 ---
 
 ## Waitangi Dayとは

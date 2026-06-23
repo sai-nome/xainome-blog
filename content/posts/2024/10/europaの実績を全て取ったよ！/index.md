@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/europa-achievements-cover.png"
+  relative: true
 ---
 
 ## Europaの概要

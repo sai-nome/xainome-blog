@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/ai-agents-communicating-on-social-media-cover.png"
+  relative: true
 ---
 
 ## AI同士のやり取りを見てみたい？

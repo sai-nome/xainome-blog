@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/build-game-with-pyxel-part-3-cover.png"
+  relative: true
 ---
 
 [前回](/posts/2024/12/build-game-with-pyxel-part-2/)[pyxeleditor](https://github.com/kitao/pyxel)を使ってサウンドを作って動かすところまでやってみました。

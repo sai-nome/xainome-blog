@@ -3,6 +3,7 @@ title: "プライバシーポリシー(Privacy Policy)"
 date: 2023-10-18
 cover:
   image: "images/2023-10-18-privacy-policy-cover.png"
+  relative: true
 ---
 
 このページには、サイノメブログのプライバシーポリシー/免責事項を記載しています。

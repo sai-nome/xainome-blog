@@ -12,6 +12,7 @@ tags:
   - "テラフォーミング"
 cover:
   image: "images/planet-crafter-cover.png"
+  relative: true
 ---
 
 最近発売され2024/04/24まで"30%オフ"かつ"圧倒的に好評"のクラフトゲーム「The Planet Crafter」をやっています。

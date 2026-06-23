@@ -14,6 +14,7 @@ tags:
   - "運転免許書"
 cover:
   image: "images/ChatGPT-Image-Jun-10-2025-06_22_49-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

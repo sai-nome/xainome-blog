@@ -11,6 +11,7 @@ tags:
   - "it"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-study-cover.png"
+  relative: true
 ---
 
 私は4月頃にE資格の勉強を始めました。

@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/aivmgenerater-aivisspeech-cover.png"
+  relative: true
 ---
 
 ## AIVMGeneraterを使えるようになるまで

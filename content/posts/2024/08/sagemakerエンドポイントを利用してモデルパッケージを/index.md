@@ -12,6 +12,7 @@ tags:
   - "モデルパッケージ"
 cover:
   image: "images/sagemaker-endpoint-model-management-cover.png"
+  relative: true
 ---
 
 ## AWSを使用してAIモデルを複数管理する方法

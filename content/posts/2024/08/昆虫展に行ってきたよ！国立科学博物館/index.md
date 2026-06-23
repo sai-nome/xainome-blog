@@ -12,6 +12,7 @@ tags:
   - "昆虫-maniac"
 cover:
   image: "images/insect-exhibition-visit-national-museum-of-nature-and-science-cover.png"
+  relative: true
 ---
 
 ## 昆虫展\_注意事項

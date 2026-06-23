@@ -10,6 +10,7 @@ tags:
   - "生成ai"
 cover:
   image: "images/generative-ai-evolution-and-future-of-work-cover.png"
+  relative: true
 ---
 
 最近Inputが出来てないな～と思ったので色々調べてみたところ[この資料](https://www.nri.com/-/media/Corporate/jp/Files/PDF/knowledge/publication/chitekishisan/2024/01/cs20240104.pdf?la=ja-JP&hash=ED42BFF77381C8AD102B7792B56D2654AD7BC6D5)を見つけました。

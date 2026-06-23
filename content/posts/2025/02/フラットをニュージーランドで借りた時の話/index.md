@@ -12,6 +12,7 @@ tags:
   - "フラット"
 cover:
   image: "images/how-to-rent-a-flat-in-new-zealand-cover.png"
+  relative: true
 ---
 
 ## ニュージーランドでのフラット契約について

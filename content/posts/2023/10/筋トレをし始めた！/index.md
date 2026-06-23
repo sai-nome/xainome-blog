@@ -11,6 +11,7 @@ tags:
   - "筋トレ"
 cover:
   image: "images/starting-strength-training-cover.png"
+  relative: true
 ---
 
 ここ最近見た動画で「30歳以降は筋力が低下し始める！」、「ウォーキングだけではダメ！」という話を聞きまして、面倒だけどやらないとなと思い立ったのがきっかけです

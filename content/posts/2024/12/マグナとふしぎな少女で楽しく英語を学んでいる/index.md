@@ -13,6 +13,7 @@ tags:
   - "英語"
 cover:
   image: "images/learn-english-with-magna-game-cover.png"
+  relative: true
 ---
 
 ## マグナとふしぎな少女の概要

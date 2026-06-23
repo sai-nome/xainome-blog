@@ -10,6 +10,7 @@ tags:
   - "freecodecamp"
 cover:
   image: "images/freecodecamp-machine-learning-cover.png"
+  relative: true
 ---
 
 勉強していますか！

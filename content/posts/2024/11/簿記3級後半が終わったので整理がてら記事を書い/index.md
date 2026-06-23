@@ -11,6 +11,7 @@ tags:
   - "簿記3級"
 cover:
   image: "images/bookkeeping-level-3-post-2-cover.png"
+  relative: true
 ---
 
 ## 簿記3級後半

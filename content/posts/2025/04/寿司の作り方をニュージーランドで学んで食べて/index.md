@@ -12,6 +12,7 @@ tags:
   - "寿司"
 cover:
   image: "images/ChatGPT-Image-Apr-13-2025-10_16_25-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

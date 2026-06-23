@@ -11,6 +11,7 @@ tags:
   - "ハッキング"
 cover:
   image: "images/cybersecurity-study-tryhackme-review-cover.png"
+  relative: true
 ---
 
 最近のニュースでセキュリティに関する漏洩がよく起きている気がします。

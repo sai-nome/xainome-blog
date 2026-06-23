@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/flight-to-new-zealand-and-first-day-at-lsi-cover.png"
+  relative: true
 ---
 
 ## 国際線の出来事とLSI初日

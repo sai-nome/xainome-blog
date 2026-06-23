@@ -12,6 +12,7 @@ tags:
   - "株価予測"
 cover:
   image: "images/stock-price-prediction-part-1-cover.png"
+  relative: true
 ---
 
 [前回](/posts/2024/05/build-rag-app-part-10/)RAGシステムを作ってみてある程度できました。次に、何を作ろうかということで表題になります。

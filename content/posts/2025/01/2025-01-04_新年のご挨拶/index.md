@@ -12,6 +12,7 @@ tags:
   - "新年"
 cover:
   image: "images/image_fx_.png"
+  relative: true
 ---
 
 あけましておめでとうございます！今年も宜しくお願い致します！

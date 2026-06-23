@@ -8,6 +8,7 @@ categories:
   - "雑談"
 cover:
   image: "images/missing-friend-found-cover.png"
+  relative: true
 ---
 
 以前知人が失踪したという話があったのですが見つかったみたいです。

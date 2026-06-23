@@ -10,6 +10,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/fukuoka-trip-before-moving-abroad-cover.png"
+  relative: true
 ---
 
 本日出国するので色んな手続きを済ませてきました。その過程で親に連れられて美味しいものを食べたり、帰省前に食べたものをざっくり紹介してみます。

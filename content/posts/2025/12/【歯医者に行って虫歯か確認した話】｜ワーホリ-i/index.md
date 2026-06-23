@@ -17,6 +17,7 @@ tags:
   - "虫歯"
 cover:
   image: "images/ChatGPT-Image-Dec-27-2025-09_22_55-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

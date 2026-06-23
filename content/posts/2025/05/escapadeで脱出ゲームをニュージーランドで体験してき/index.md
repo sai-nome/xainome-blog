@@ -16,6 +16,7 @@ tags:
   - "脱出ゲーム"
 cover:
   image: "images/ChatGPT-Image-May-31-2025-08_04_55-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

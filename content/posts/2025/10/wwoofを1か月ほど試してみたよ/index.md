@@ -16,6 +16,7 @@ tags:
   - "酪農"
 cover:
   image: "images/ChatGPT-Image-Oct-25-2025-10_51_30-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

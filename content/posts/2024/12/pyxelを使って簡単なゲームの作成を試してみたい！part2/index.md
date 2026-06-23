@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/build-game-with-pyxel-part-2-cover.png"
+  relative: true
 ---
 
 ## pyxeleditorでキャラの動きやサウンド

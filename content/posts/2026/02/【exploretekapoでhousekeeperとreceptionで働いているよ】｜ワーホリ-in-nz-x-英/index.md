@@ -17,6 +17,7 @@ tags:
   - "受付"
 cover:
   image: "images/ChatGPT-Image-Feb-6-2026-01_36_59-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

@@ -12,6 +12,7 @@ tags:
   - "運動"
 cover:
   image: "images/healthy-lifestyle-changes-cover.png"
+  relative: true
 ---
 
 ## 社会人になってから健康に気を付け始めた理由

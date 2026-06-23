@@ -10,6 +10,7 @@ tags:
   - "仕事のミス"
 cover:
   image: "images/how-to-handle-mistakes-at-work-cover.png"
+  relative: true
 ---
 
 人間が管理・作業をする以上ミスをするものだと思います。その度に反省して再発防止策を考えてシステム的にミスが起きないようにします。それを怠ったら同じミスが再発するわけですが…

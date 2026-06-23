@@ -10,6 +10,7 @@ tags:
   - "e資格"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-to-1-cover.png"
+  relative: true
 ---
 
 さて約1ヵ月後にE資格が迫ってきました。そろそろ本気で取り掛からないとなと感じています。

@@ -13,6 +13,7 @@ tags:
   - "水の暇"
 cover:
   image: "images/ChatGPT-Image-Jun-26-2025-12_08_45-AM.png"
+  relative: true
 ---
 
 ## 水の暇

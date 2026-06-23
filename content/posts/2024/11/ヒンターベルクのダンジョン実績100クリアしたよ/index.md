@@ -12,6 +12,7 @@ tags:
   - "ヒンターベルクのダンジョン"
 cover:
   image: "images/achievements-3-cover.png"
+  relative: true
 ---
 
 ![ヒンターベルトのダンジョン\_実績](images/スクリーンショット-2024-11-10-221713.png)

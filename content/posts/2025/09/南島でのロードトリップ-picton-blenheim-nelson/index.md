@@ -15,6 +15,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/ChatGPT-Image-Sep-19-2025-12_13_49-PM.png"
+  relative: true
 ---
 
 ## English\_Practioce

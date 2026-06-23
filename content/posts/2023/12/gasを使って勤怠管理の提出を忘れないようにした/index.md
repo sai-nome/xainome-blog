@@ -11,6 +11,7 @@ tags:
   - "slack"
 cover:
   image: "images/gas-attendance-management-cover.png"
+  relative: true
 ---
 
 皆さんは日々の作業の中で提出物などはありますか？

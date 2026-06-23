@@ -11,6 +11,7 @@ tags:
   - "生成ai"
 cover:
   image: "images/claude-generative-ai-review-cover.png"
+  relative: true
 ---
 
 生成AIの進化がすごい昨今ですが7月頃に出たAnthropic社のClaudeという生成AIを触ってみました。

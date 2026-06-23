@@ -13,6 +13,7 @@ tags:
   - "プール"
 cover:
   image: "images/parnellbaths-pools-visit-from-cover.png"
+  relative: true
 ---
 
 ## English\_practicing

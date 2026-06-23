@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/crimescenecleaner-review-cover.png"
+  relative: true
 ---
 
 ## **CrimeSceneCleaner**のレビュー

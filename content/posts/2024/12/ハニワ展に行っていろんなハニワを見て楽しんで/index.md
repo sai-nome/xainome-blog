@@ -13,6 +13,7 @@ tags:
   - "東京国立博物館"
 cover:
   image: "images/haniwa-exhibition-visit-cover.png"
+  relative: true
 ---
 
 ## ハニワ展の感想と見どころ

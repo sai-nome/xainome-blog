@@ -13,6 +13,7 @@ tags:
   - "説明"
 cover:
   image: "images/bulk-update-bigquery-column-descriptions-cover.png"
+  relative: true
 ---
 
 ## bqコマンドを使ってカラム説明を一括入力

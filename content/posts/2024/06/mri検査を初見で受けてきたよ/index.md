@@ -12,6 +12,7 @@ tags:
   - "初めて"
 cover:
   image: "images/first-mri-scan-experience-cover.png"
+  relative: true
 ---
 
 掲題の通り本日初めてMRIを受けてきました～

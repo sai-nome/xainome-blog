@@ -11,6 +11,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-9-cover.png"
+  relative: true
 ---
 
 一旦行き詰ったのでここまでを記録として残しておきます。

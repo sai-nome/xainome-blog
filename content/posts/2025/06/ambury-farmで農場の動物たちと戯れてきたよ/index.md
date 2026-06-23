@@ -14,6 +14,7 @@ tags:
   - "ファーム"
 cover:
   image: "images/ChatGPT-Image-Jun-17-2025-10_02_39-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

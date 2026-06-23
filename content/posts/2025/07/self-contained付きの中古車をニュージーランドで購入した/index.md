@@ -14,6 +14,7 @@ tags:
   - "中古車"
 cover:
   image: "images/ChatGPT-Image-Jul-21-2025-11_35_56-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

@@ -12,6 +12,7 @@ tags:
   - "昆虫食"
 cover:
   image: "images/antcicada-cricket-ramen-review-cover.png"
+  relative: true
 ---
 
 "昆虫食"と聞いて顔をしかめる人は多いと思います。ちなみに私も積極的に食べようとは思いません。某大臣がコオロギなどの昆虫食を進めていましたが、国で進めるのはどんな意図があるんだろうと思っていましたが…

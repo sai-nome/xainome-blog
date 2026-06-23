@@ -14,6 +14,7 @@ tags:
   - "模擬試験"
 cover:
   image: "images/ChatGPT-Image-May-13-2025-08_19_34-AM.png"
+  relative: true
 ---
 
 ## English\_Practice

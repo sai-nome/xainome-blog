@@ -12,6 +12,7 @@ tags:
   - "遺伝子"
 cover:
   image: "images/dna-test-traits-and-ancestry-cover.png"
+  relative: true
 ---
 
 皆さんは遺伝子レベルの自身の特性やご先祖などがどんな人か気になったことはありますか？私はそこまで興味なかったのですが、1度くらいは見てみたいと考えてました。

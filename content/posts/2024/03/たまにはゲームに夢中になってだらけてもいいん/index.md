@@ -11,6 +11,7 @@ tags:
   - "マージサバイバル"
 cover:
   image: "images/taking-time-to-relax-with-games-cover.png"
+  relative: true
 ---
 
 ここ最近はInputはそこまでやらず、Kaggleを触っていたのですがスコアが上がったことで少し満足してゲームのほうに夢中になってました。それもスマホゲー（笑）

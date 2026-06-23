@@ -11,6 +11,7 @@ tags:
   - "退職"
 cover:
   image: "images/telling-my-company-i-will-resign-cover.png"
+  relative: true
 ---
 
 ## 退職のご報告と今後の計画

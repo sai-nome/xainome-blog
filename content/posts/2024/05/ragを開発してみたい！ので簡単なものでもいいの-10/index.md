@@ -11,6 +11,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-10-cover.png"
+  relative: true
 ---
 
 ## RAG開発の一旦終了と成果物の共有

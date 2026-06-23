@@ -14,6 +14,7 @@ tags:
   - "表慶館"
 cover:
   image: "images/tokyo-national-museum-visit-cover.png"
+  relative: true
 ---
 
 ## 東京国立博物館訪問レポート

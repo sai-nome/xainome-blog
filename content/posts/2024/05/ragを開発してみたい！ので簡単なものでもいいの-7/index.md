@@ -10,6 +10,7 @@ tags:
   - "rag"
 cover:
   image: "images/build-rag-app-part-7-cover.png"
+  relative: true
 ---
 
 目標としていた部分が完成したのでデモ版という形でお見せしようと思います。

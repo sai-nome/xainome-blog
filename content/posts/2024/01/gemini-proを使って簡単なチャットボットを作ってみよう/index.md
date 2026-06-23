@@ -11,6 +11,7 @@ tags:
   - "チャットボット"
 cover:
   image: "images/gemini-pro-tutorial-cover.png"
+  relative: true
 ---
 
 生成AIがどんどん進化していく中でGoogleが新たなモデルを出しました。それが"Gemini-pro"です。

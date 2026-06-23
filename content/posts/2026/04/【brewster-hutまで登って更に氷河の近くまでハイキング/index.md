@@ -18,6 +18,7 @@ tags:
   - "ハイキング"
 cover:
   image: "images/ChatGPT-Image-Apr-26-2026-08_12_02-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

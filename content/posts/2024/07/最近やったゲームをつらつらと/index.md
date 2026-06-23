@@ -13,6 +13,7 @@ tags:
   - "風のクロノア"
 cover:
   image: "images/recent-games-roundup-july-2024-cover.png"
+  relative: true
 ---
 
 掲題の通り最近やったゲームを少し上げてみようと思います。

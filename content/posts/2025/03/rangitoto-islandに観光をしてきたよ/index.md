@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/rangitoto-island-visit-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

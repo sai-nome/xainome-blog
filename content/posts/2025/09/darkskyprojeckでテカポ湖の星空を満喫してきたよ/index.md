@@ -16,6 +16,7 @@ tags:
   - "天体観測"
 cover:
   image: "images/ChatGPT-Image-Aug-28-2025-04_04_00-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

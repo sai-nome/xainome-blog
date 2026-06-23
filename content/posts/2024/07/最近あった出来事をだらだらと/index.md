@@ -13,6 +13,7 @@ tags:
   - "パスポート申請"
 cover:
   image: "images/recent-life-updates-cover.png"
+  relative: true
 ---
 
 個人的にいろいろあったので残すために書いておきます。

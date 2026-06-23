@@ -11,6 +11,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/build-game-with-pyxel-part-1-cover.png"
+  relative: true
 ---
 
 ## Pyxelでゲーム開発入門

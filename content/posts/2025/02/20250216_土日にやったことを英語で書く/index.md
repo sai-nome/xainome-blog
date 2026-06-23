@@ -14,6 +14,7 @@ tags:
   - "英語"
 cover:
   image: "images/weekend-diary-in-english-february-2025-cover.png"
+  relative: true
 ---
 
 ## 20250216\_Engilish\_fair

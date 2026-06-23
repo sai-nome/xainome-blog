@@ -13,6 +13,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/sailing-new-zealand-visit-cover.png"
+  relative: true
 ---
 
 ## English\_fair

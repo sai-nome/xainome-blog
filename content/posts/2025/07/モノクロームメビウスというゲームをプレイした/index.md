@@ -13,6 +13,7 @@ tags:
   - "モノクロームメビウス"
 cover:
   image: "images/ChatGPT-Image-Jul-16-2025-10_28_48-PM.png"
+  relative: true
 ---
 
 ## モノクロームメビウス\_概要

@@ -12,6 +12,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/ChatGPT-Image-Aug-2-2025-04_26_43-PM.png"
+  relative: true
 ---
 
 最近発売された[Dig out](https://store.steampowered.com/app/3672720/Prison_Escape_Simulator_Dig_Out/)というシミュレーションゲームをクリアしました。実績も全部開放しました。

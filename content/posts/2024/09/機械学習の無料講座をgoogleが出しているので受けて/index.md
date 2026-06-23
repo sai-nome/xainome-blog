@@ -13,6 +13,7 @@ tags:
   - "無料講座"
 cover:
   image: "images/machine-learning-google-cover.png"
+  relative: true
 ---
 
 ## E資格合格後に再学習を決意した理由

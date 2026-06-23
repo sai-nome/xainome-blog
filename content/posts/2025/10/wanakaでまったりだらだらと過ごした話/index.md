@@ -16,6 +16,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/ChatGPT-Image-Oct-8-2025-11_33_02-AM.png"
+  relative: true
 ---
 
 ## Enslish\_Practice

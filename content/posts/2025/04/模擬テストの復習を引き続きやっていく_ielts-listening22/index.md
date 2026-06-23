@@ -13,6 +13,7 @@ tags:
   - "模擬テスト"
 cover:
   image: "images/Apr-28-2025-01_32_29-AM.png"
+  relative: true
 ---
 
 ## English\_Practice

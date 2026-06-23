@@ -16,6 +16,7 @@ tags:
   - "ワーホリ"
 cover:
   image: "images/ChatGPT-Image-Dec-21-2025-10_07_32-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

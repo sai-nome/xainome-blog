@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/pasifika-festival-visit-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

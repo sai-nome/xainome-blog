@@ -11,6 +11,7 @@ tags:
   - "遺伝子検査"
 cover:
   image: "images/dna-test-results-review-cover.png"
+  relative: true
 ---
 
 [こちら](https://xainome.blog/?p=127)の記事で遺伝子検査について書いてみました。

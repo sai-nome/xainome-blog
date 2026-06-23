@@ -12,6 +12,7 @@ tags:
   - "農家は-replace-されました"
 cover:
   image: "images/ChatGPT-Image-Oct-19-2025-01_30_30-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

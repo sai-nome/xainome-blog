@@ -13,6 +13,7 @@ tags:
   - "海外"
 cover:
   image: "images/mutual-funds-cover.png"
+  relative: true
 ---
 
 ### 投資信託の売却と資金不足

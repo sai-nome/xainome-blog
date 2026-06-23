@@ -11,6 +11,7 @@ tags:
   - "動画編集"
 cover:
   image: "images/aviutl-video-editing-software-cover.png"
+  relative: true
 ---
 
 皆さんは動画をどのように作っているか知っていますか？最近はショート系の動画も多い気がしますがスマホで作ってる人も多いと聞きます。

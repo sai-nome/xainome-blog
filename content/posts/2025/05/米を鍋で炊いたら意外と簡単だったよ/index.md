@@ -14,6 +14,7 @@ tags:
   - "米"
 cover:
   image: "images/ChatGPT-Image-May-21-2025-11_58_06-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

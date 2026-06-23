@@ -16,6 +16,7 @@ tags:
   - "ロードトリップ"
 cover:
   image: "images/ChatGPT-Image-Aug-13-2025-01_06_56-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

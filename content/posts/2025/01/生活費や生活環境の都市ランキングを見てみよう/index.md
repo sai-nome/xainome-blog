@@ -13,6 +13,7 @@ tags:
   - "生活費"
 cover:
   image: "images/global-city-cost-of-living-ranking-cover.png"
+  relative: true
 ---
 
 ## 生活費について\_日本やニュージーランド

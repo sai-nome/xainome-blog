@@ -10,6 +10,7 @@ tags:
   - "低温調理"
 cover:
   image: "images/healthy-sous-vide-cooking-cover.webp"
+  relative: true
 ---
 
 最近、低温調理器を買いました。私が買ったのは芯温調理器になります。[こちら](https://item.rakuten.co.jp/tescom-japan/tlc70/?s-id=ph_pc_itemname)から買えますが楽天でしか扱ってません。

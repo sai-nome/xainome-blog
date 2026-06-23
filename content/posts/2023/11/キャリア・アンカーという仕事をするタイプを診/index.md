@@ -11,6 +11,7 @@ tags:
   - "診断"
 cover:
   image: "images/career-anchor-assessment-cover.png"
+  relative: true
 ---
 
 仕事についてタイプ別で分けることができるキャリア・アンカーという診断がありましたのでやってみました！

@@ -17,6 +17,7 @@ tags:
   - "面白サイト"
 cover:
   image: "images/two-interesting-websites-cover.png"
+  relative: true
 ---
 
 ## 最近見つけた面白い情報サイト

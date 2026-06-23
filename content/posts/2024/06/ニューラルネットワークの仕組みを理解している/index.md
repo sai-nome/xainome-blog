@@ -12,6 +12,7 @@ tags:
   - "ニューラルネットワーク"
 cover:
   image: "images/neural-network-game-cover.png"
+  relative: true
 ---
 
 ## 機械学習と深層学習の復習

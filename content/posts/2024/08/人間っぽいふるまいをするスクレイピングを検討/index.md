@@ -14,6 +14,7 @@ tags:
   - "利用規約"
 cover:
   image: "images/web-scraping-cover.png"
+  relative: true
 ---
 
 ## 前提：利用規約に違反しないこと

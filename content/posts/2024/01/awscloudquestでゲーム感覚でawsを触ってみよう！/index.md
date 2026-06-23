@@ -11,6 +11,7 @@ tags:
   - "awscloudquest"
 cover:
   image: "images/awscloudquest-game-aws-cover.png"
+  relative: true
 ---
 
 私の現場ではAWSを使っています。全てを1から作ったわけではないですが、StepFunctionやLambda、CodeCommitなど基本的なものは使ってますし、必要に応じて作成したりしています。

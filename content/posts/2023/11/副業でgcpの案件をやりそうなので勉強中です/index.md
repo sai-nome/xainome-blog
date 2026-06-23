@@ -10,6 +10,7 @@ tags:
   - "gcp"
 cover:
   image: "images/learning-gcp-for-freelance-project-cover.png"
+  relative: true
 ---
 
 最近、友人から副業をやらないかというお誘いがありました。とはいえAWSを使ったことはありますが、GCPを使ったことがないのでとりあえず触ってみてほしいとのことでした。

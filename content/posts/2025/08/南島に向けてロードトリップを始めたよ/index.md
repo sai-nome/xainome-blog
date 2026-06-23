@@ -14,6 +14,7 @@ tags:
   - "車中泊"
 cover:
   image: "images/ChatGPT-Image-Aug-7-2025-10_28_40-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

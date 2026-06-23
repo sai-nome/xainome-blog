@@ -12,6 +12,7 @@ tags:
   - "プラグイン"
 cover:
   image: "images/chatgpt-plus-plugins-review-cover.png"
+  relative: true
 ---
 
 最近chat-gptに課金してプラグインで遊ぶことを覚えました（笑）

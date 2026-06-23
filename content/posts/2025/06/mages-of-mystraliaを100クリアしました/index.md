@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/ChatGPT-Image-Jun-1-2025-05_22_20-PM.png"
+  relative: true
 ---
 
 最近[ゲーム](/posts/2025/05/the-werecleaner-game-review/)熱が出てきたのでMages of Mystraliaをプレイしました。相変わらず難易度は少し高いものを指定しました。一応英語でプレイをしてみましたが、そのせいでストーリーはほぼ覚えてないですね（笑）日本語版もありますので興味があればぜひやってみてください。

@@ -11,6 +11,7 @@ tags:
   - "実績"
 cover:
   image: "images/ratchet-and-clank-rift-apart-review-cover.png"
+  relative: true
 ---
 
 実績もすべて達成！

@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/new-zealand-arrival-applications-guide-cover.png"
+  relative: true
 ---
 
 [国際線](/posts/2025/01/flight-to-new-zealand-and-first-day-at-lsi/)の乗り継ぎで苦労したのですが、こっちに来てからもいくつか苦労したので振り返ってみようと思います。

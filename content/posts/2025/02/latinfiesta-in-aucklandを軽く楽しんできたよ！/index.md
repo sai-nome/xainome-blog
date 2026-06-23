@@ -13,6 +13,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/latinfiesta-in-auckland-visit-cover.png"
+  relative: true
 ---
 
 ## latinfiestaに行った感想

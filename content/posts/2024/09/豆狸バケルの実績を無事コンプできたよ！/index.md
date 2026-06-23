@@ -13,6 +13,7 @@ tags:
   - "豆狸バケル"
 cover:
   image: "images/achievements-2-cover.png"
+  relative: true
 ---
 
 ## 豆狸バケルをSteamでプレイ！ゴエモン風アクションゲームの魅力

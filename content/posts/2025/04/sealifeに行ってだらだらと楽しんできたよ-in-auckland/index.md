@@ -13,6 +13,7 @@ tags:
   - "水族館"
 cover:
   image: "images/sealife-visit-in-auckland-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

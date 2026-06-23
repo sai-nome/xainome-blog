@@ -13,6 +13,7 @@ tags:
   - "溶鉄のマルフーシャ"
 cover:
   image: "images/sentinel-girls2-review-cover.png"
+  relative: true
 ---
 
 ## 溶鉄のマルフーシャ続編をクリアした感想

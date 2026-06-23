@@ -11,6 +11,7 @@ tags:
   - "vr"
 cover:
   image: "images/meta-quest3-vr-buying-guide-cover.png"
+  relative: true
 ---
 
 皆さんは年末年始の予定はありますか？年越しそば食べたり、おせち食べたり、お汁粉食べたりすると思いますが、私はVRゲームを遊びつくしてみようかなと思います。

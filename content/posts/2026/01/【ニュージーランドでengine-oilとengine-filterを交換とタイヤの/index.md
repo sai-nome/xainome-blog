@@ -18,6 +18,7 @@ tags:
   - "空気入れ"
 cover:
   image: "images/ChatGPT-Image-Jan-25-2026-09_07_53-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

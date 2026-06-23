@@ -13,6 +13,7 @@ tags:
   - "サイバーセキュリティ"
 cover:
   image: "images/ChatGPT-Image-Dec-3-2025-10_33_00-AM.png"
+  relative: true
 ---
 
 ## English\_Practice

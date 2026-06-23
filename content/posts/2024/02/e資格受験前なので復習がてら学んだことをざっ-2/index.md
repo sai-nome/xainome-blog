@@ -10,6 +10,7 @@ tags:
   - "e資格"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-deep-learning-fundamentals-part-1-cover.png"
+  relative: true
 ---
 
 前回は応用数学や機械学習につてい振り返ったので、今回は深層学習について振り返ります。おそらく長くなりそうなので2分割しようと思います。

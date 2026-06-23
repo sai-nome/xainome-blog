@@ -13,6 +13,7 @@ tags:
   - "東洋文庫ミュージアム"
 cover:
   image: "images/toyo-bunko-museum-cover.png"
+  relative: true
 ---
 
 ## 東洋文庫ミュージアム訪問記

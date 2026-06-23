@@ -11,6 +11,7 @@ tags:
   - "生成ai"
 cover:
   image: "images/26-tips-for-generative-ai-prompts-cover.png"
+  relative: true
 ---
 
 2023年12月16日にプロンプトを使うときに最適な支持を出す「26の指針」が発表されました。

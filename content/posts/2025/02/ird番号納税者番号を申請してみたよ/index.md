@@ -13,6 +13,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/ird-application-guide-cover.png"
+  relative: true
 ---
 
 ## English\_practice

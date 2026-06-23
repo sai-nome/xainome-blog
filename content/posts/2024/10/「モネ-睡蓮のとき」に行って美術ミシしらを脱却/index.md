@@ -12,6 +12,7 @@ tags:
   - "睡蓮のとき"
 cover:
   image: "images/monet-water-lilies-exhibition-cover.png"
+  relative: true
 ---
 
 ## モネ 睡蓮のときを鑑賞した感想

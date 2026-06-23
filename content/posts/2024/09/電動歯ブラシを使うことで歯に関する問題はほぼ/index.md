@@ -11,6 +11,7 @@ tags:
   - "電動歯ブラシ"
 cover:
   image: "images/electric-toothbrush-dental-health-cover.png"
+  relative: true
 ---
 
 ## 歯磨きの重要性と電動歯ブラシの導入

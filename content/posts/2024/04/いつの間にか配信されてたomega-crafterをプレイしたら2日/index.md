@@ -11,6 +11,7 @@ tags:
   - "オメガクラフター"
 cover:
   image: "images/omega-crafter-2-9-cover.png"
+  relative: true
 ---
 
 土日にKaggleをやらずゲームをやってたのですが早期アクセスが開始されたOmega Crafterで遊んでました。ストアページは[こちら](https://store.steampowered.com/app/2262080/Omega_Crafter/?l=japanese)

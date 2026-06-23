@@ -10,6 +10,7 @@ tags:
   - "pc修理"
 cover:
   image: "images/pc-failure-paused-development-cover.png"
+  relative: true
 ---
 
 題名の通りPCが故障しました( ;∀;)

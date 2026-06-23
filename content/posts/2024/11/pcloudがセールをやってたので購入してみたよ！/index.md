@@ -13,6 +13,7 @@ tags:
   - "ブラックフライデー"
 cover:
   image: "images/pcloud-lifetime-storage-review-cover.png"
+  relative: true
 ---
 
 ## pCloud 3in1バンドルのレビュー

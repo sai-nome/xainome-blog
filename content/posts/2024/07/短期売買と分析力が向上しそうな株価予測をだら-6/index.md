@@ -11,6 +11,7 @@ tags:
   - "株価予測"
 cover:
   image: "images/stock-price-prediction-part-7-cover.png"
+  relative: true
 ---
 
 ## 前回のあらすじ

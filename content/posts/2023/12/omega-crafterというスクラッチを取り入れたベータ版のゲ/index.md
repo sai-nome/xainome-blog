@@ -10,6 +10,7 @@ tags:
   - "omega-crafter"
 cover:
   image: "images/omega-crafter-game-review-cover.png"
+  relative: true
 ---
 
 [Scratch](https://scratch.mit.edu/)というプログラミング教材を知っていますか？ゲームやアニメーションをプログラムで作ることができる教材で、以下のような画面で作ることができます。

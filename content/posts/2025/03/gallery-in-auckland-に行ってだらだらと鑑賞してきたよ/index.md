@@ -13,6 +13,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/gallery-in-auckland-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

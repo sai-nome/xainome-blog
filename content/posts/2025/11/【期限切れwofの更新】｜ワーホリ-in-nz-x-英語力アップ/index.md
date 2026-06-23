@@ -17,6 +17,7 @@ tags:
   - "車検"
 cover:
   image: "images/ChatGPT-Image-Nov-11-2025-09_04_00-AM.png"
+  relative: true
 ---
 
 ## Enslish\_Practice

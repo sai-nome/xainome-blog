@@ -11,6 +11,7 @@ tags:
   - "性格テスト"
 cover:
   image: "images/japanese-personality-test-review-cover.png"
+  relative: true
 ---
 
 性格診断テストでよく知られているのが"ビッグファイブ"と言われています。その他ストレングス・ファインダー等があると思います。

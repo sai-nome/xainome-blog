@@ -13,6 +13,7 @@ tags:
   - "未解決事件は終わらせないといけないから"
 cover:
   image: "images/recent-games-roundup-october-2024-cover.png"
+  relative: true
 ---
 
 最近ゲームに飽きつつあるのですが、直近でやったゲームを書いてみようと思います。

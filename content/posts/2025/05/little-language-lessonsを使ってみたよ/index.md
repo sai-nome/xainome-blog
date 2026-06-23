@@ -13,6 +13,7 @@ tags:
   - "言語学習"
 cover:
   image: "images/ChatGPT-Image-May-3-2025-10_15_25-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

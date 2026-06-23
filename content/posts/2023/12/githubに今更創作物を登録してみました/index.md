@@ -10,6 +10,7 @@ tags:
   - "github"
 cover:
   image: "images/publishing-personal-projects-on-github-cover.png"
+  relative: true
 ---
 
 転職をする際、エンジニアの場合自身で何か作ったものがあれば提出することがあると思います。また、転職サイトによってはGitを登録することもあると思います。

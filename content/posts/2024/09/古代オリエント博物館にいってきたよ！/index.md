@@ -11,6 +11,7 @@ tags:
   - "古代オリエント博物館"
 cover:
   image: "images/ancient-orient-museum-cover.png"
+  relative: true
 ---
 
 ## 古代オリエント博物館へ訪問

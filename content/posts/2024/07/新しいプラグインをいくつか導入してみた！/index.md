@@ -14,6 +14,7 @@ tags:
   - "プラグイン"
 cover:
   image: "images/new-wordpress-plugins-installed-cover.png"
+  relative: true
 ---
 
 私はサイト運営に対してそこまで興味がないです。

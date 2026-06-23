@@ -15,6 +15,7 @@ tags:
   - "車売却"
 cover:
   image: "images/ChatGPT-Image-Jun-18-2026-05_00_22-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

@@ -12,6 +12,7 @@ tags:
   - "実績"
 cover:
   image: "images/achievements-cover.png"
+  relative: true
 ---
 
 少し時間がかかりましたが**サンドランド(SAND LAND)**の実績をコンプしました！

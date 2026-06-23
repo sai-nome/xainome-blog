@@ -12,6 +12,7 @@ tags:
   - "最適化"
 cover:
   image: "images/ChatGPT-Image-May-24-2025-04_15_47-PM.png"
+  relative: true
 ---
 
 ## Win11Debloat

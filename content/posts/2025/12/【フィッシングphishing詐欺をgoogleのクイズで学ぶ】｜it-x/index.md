@@ -15,6 +15,7 @@ tags:
   - "フィッシング詐欺"
 cover:
   image: "images/ChatGPT-Image-Dec-10-2025-07_13_37-PM.jpg"
+  relative: true
 ---
 
 ## English\_Practice

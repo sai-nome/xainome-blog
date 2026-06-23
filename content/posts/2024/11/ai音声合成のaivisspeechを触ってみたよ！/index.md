@@ -13,6 +13,7 @@ tags:
   - "音声生成ai"
 cover:
   image: "images/ai-voice-synthesis-aivisspeech-review-cover.png"
+  relative: true
 ---
 
 まずはAudibleという形でこの記事を読み込ませてみました。今後も活用してみようと思います。

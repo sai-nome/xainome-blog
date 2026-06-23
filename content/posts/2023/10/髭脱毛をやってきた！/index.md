@@ -11,6 +11,7 @@ tags:
   - "髭脱毛"
 cover:
   image: "images/laser-beard-hair-removal-experience-cover.png"
+  relative: true
 ---
 
 ちょうど1か月前くらいに初めて髭脱毛をしました

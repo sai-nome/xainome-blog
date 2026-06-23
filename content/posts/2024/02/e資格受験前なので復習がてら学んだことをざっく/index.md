@@ -10,6 +10,7 @@ tags:
   - "e資格"
 cover:
   image: "images/jdla-deep-learning-engineer-exam-applied-mathematics-machine-learning-cover.webp"
+  relative: true
 ---
 
 E資格で出る内容として"確率や情報理論の計算"、"機械学習"、"深層学習"、"開発運用環境"があります。[こちら](https://www.jdla.org/download/e-syllabus_2022/)からシラバスをダウンロードして確認できます。LaTeXを導入してないので数式がかなり見にくいですが、よくわからなければ調べてみてください。

@@ -12,6 +12,7 @@ tags:
   - "rag開発"
 cover:
   image: "images/build-rag-app-part-4-cover.png"
+  relative: true
 ---
 
 前回で一通り作りたいものが作れたのでこの先はWebアプリ化できないかな～？という緩い感じで進めていこうと思います。

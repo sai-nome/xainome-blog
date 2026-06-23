@@ -12,6 +12,7 @@ tags:
   - "ニュージーランド"
 cover:
   image: "images/kiwidip-tutorial-cover.png"
+  relative: true
 ---
 
 ## English\_Practice

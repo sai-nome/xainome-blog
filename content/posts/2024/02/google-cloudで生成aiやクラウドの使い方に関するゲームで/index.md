@@ -10,6 +10,7 @@ tags:
   - "google-cloud"
 cover:
   image: "images/google-cloud-generative-ai-game-cover.png"
+  relative: true
 ---
 
 [こちら](https://go.qwiklabs.com/arcade)からゲームに参加することができます。

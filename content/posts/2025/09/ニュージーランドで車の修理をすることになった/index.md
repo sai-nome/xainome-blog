@@ -15,6 +15,7 @@ tags:
   - "ロードサービス"
 cover:
   image: "images/ChatGPT-Image-Sep-9-2025-01_50_06-PM.png"
+  relative: true
 ---
 
 ## English\_Practice

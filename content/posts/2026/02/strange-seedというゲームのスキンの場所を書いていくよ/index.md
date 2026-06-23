@@ -14,6 +14,7 @@ tags:
   - "サイノメ"
 cover:
   image: "images/ChatGPT-Image-Mar-3-2026-12_24_06-AM.png"
+  relative: true
 ---
 
 [strange seed](https://store.steampowered.com/app/2463690/_Strange_Seed/)でコンプ要素として生物のパーツとスキンがあります。一応アクセサリーもありますが、数の表示もないのでここでは省くことにします。アクセサリーはミニゲームのクリアや細かい場所を探索すれば見つかるので頑張って30個以上探してみると良いと思います。
