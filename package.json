@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "hugo --minify",
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.128.0"
+  }
+}

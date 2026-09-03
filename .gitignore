@@ -3,6 +3,17 @@ public/
 resources/_gen/
 # Hugo lock
 .hugo_build.lock
+# Node.js / Wrangler
+node_modules/
+.wrangler/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Local environment files
+.env
+.env.*
+!.env.example
 # Windows
 Thumbs.db
 Desktop.ini
