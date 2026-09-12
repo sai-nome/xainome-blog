@@ -1,5 +1,6 @@
 ---
 title: "AIVMGeneraterでAivisSpeechでも使えるようにしたよ！"
+description: "AIVMGeneraterでAivisSpeechでも使えるようにしたよ！前回Style-Bert-VITS2を使って音声合成モデルを作りました。今回は作ったモデルをAivis Speechでも使えるようにしようと思います。"
 date: 2024-12-18
 slug: "aivmgenerater-aivisspeech"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "惑星をテラフォーミングする ~ 完 ~"
+description: "惑星をテラフォーミングする ~ 完 ~。\"The Planet Crafter\"ほぼ完クリしました！実績はこんな感じ 1つだけ終わってないのですがこれは時間がかかる上に少し面倒なのでまだ終わってないです。"
 date: 2024-04-30
 slug: "the-planet-crafter-terraforming-complete"
 aliases:

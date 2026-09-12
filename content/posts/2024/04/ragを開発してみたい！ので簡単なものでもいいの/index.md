@@ -1,5 +1,6 @@
 ---
 title: "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part1"
+description: "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part1。大規模言語モデルが出てきてChat-GPTやGemini、Claudeが出てきましたが、\"ハルシネーション\"は中々解決できない問題ですね。"
 date: 2024-04-07
 slug: "build-rag-app-part-1"
 aliases:

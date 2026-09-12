@@ -1,5 +1,6 @@
 ---
 title: "最近発売された\"SAND LAND(サンドランド)\"をプレイしてるよ"
+description: "最近発売された\"SAND LAND(サンドランド)\"をプレイしてるよ。最近はクラフト系のゲームをプレイしていたので私が好きなアクション系のゲームを探していたところ、最近発売された\"SAND…"
 date: 2024-05-05
 slug: "sand-land-game-review"
 aliases:

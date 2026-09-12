@@ -1,5 +1,6 @@
 ---
 title: "【Waitomo Cavesで光る虫たちを観察しながら洞窟探索】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Waitomo Cavesで光る虫たちを観察しながら洞窟探索。I went to the Waitomo cave before going to the South Island. It is close to Hamilton…"
 date: 2025-08-25
 slug: "waitomo-caves-glowworms-cave-tour"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【Career Dreamerでやりたいことや仕事を探してみよう】｜雑談 × 英語力アップ／IELTS対策"
+description: "Career Dreamerでやりたいことや仕事を探してみよう。I finished learning the course of cybersecurity and I am going to introduce it which…"
 date: 2025-12-13
 slug: "career-dreamer-work"
 aliases:

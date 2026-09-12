@@ -1,5 +1,6 @@
 ---
 title: "Takapuna Marketで食べ歩きをしてきたよ"
+description: "Takapuna Marketで食べ歩きをしてきたよ。I went to Takapuna Market which is held on every Sunday. However, It's not free market.…"
 date: 2025-03-23
 slug: "takapuna-market"
 aliases:

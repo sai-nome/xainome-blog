@@ -1,5 +1,6 @@
 ---
 title: "20250216_土日にやったことを英語で書く"
+description: "20250216_土日にやったことを英語で書く。First, after waking up, I watched game commentary videos for about 30 minutes. During that…"
 date: 2025-02-17
 slug: "weekend-diary-in-english-february-2025"
 aliases:

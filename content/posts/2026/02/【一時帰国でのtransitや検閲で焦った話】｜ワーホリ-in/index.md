@@ -1,5 +1,6 @@
 ---
 title: "【一時帰国でのtransitや検閲で焦った話】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "一時帰国でのtransitや検閲で焦った話。I checked my teeth before and I came back to Japan. I am going to write what I did not know and…"
 date: 2026-02-13
 slug: "return-trip-to-japan-airport-transit-customs-inspection"
 aliases:

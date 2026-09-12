@@ -1,5 +1,6 @@
 ---
 title: "Mages of Mystraliaを100%クリアしました"
+description: "Mages of Mystraliaを100%クリアしました。最近ゲーム熱が出てきたのでMages of Mystraliaをプレイしました。相変わらず難易度は少し高いものを指定しました。"
 date: 2025-06-03
 slug: "mages-of-mystralia-achievements"
 aliases:

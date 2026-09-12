@@ -1,5 +1,6 @@
 ---
 title: "救国のスネジンカ: Sentinel Girls2をクリアしたよ"
+description: "救国のスネジンカ: Sentinel Girls2をクリアしたよ。以前溶鉄のマルフーシャをクリアした記事を書きましたが、続編をクリアしました。"
 date: 2024-09-02
 slug: "sentinel-girls2-review"
 aliases:

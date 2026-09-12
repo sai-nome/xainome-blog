@@ -1,5 +1,6 @@
 ---
 title: "【Baristaスクールに行ってラテアートの作り方を学んできたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Baristaスクールに行ってラテアートの作り方を学んできたよ。I finished my English school for 26 weeks and I learned how to create coffee at the…"
 date: 2025-07-24
 slug: "barista-latte-art-study"
 aliases:

@@ -1,5 +1,7 @@
 ---
 title: "【ロードトリップ ~ Arthurs pass から Tiamruまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+
+description: "ロードトリップ ~ Arthurs pass から Tiamruまで。I am restarting to do road trip where I am going to write. I wrote about Hanmer…"
 slug: "roadtrip-arthurs-pass-to-timaru"
 aliases:
   - "/posts/2026/06/roadtrip-athurs-pass-to-timaru/"

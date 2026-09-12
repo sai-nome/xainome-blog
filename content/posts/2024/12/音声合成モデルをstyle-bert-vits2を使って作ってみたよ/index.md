@@ -1,5 +1,6 @@
 ---
 title: "音声合成モデルをStyle-Bert-VITS2を使って作ってみたよ"
+description: "音声合成モデルをStyle-Bert-VITS2を使って作ってみたよ。前回Style-Bert-VITS2を試しに使ってみることをやってみました。今回は実際にモデルを作ることをやろうと思います。 まずは音声の収録ですね。"
 date: 2024-12-15
 slug: "voice-synthesis-style-bert-vits2-tutorial"
 aliases:

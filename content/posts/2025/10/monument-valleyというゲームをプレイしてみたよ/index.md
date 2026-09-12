@@ -1,5 +1,6 @@
 ---
 title: "【Monument Valley】｜パズルゲーム × 英語力アップ／IELTS対策"
+description: "Monument Valley。I played a video game \"Monument Valley\" which was distributed from EPIC for free. I just clicked and…"
 date: 2025-10-02
 slug: "monument-valley"
 aliases:

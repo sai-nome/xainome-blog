@@ -1,5 +1,6 @@
 ---
 title: "【Peonyファームでピッキング作業】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Peonyファームでピッキング作業。I decided next job because my WWOOF host forced to finish this job. The peony farm grows peonies. I…"
 date: 2025-11-01
 slug: "peony-farm-job-picking"
 aliases:

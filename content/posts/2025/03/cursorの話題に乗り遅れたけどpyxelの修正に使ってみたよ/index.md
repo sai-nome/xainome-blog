@@ -1,5 +1,6 @@
 ---
 title: "Cursorの話題に乗り遅れたけどpyxelの修正に使ってみたよ"
+description: "Cursorの話題に乗り遅れたけどpyxelの修正に使ってみたよ。Cursorが凄いとだいぶ前に話題になりましたが、重い腰を上げてようやく使ってみました。"
 date: 2025-03-02
 slug: "cursor-pyxel-review"
 aliases:

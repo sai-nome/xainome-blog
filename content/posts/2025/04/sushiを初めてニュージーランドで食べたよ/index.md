@@ -1,5 +1,6 @@
 ---
 title: "SUSHIを初めてニュージーランドで食べたよ"
+description: "SUSHIを初めてニュージーランドで食べたよ。I haven't eaten SUSHI since I came here so I ate it. However, I ate SUSHI of package. Salmon…"
 date: 2025-04-03
 slug: "sushi-new-zealand"
 aliases:

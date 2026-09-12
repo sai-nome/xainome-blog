@@ -1,5 +1,6 @@
 ---
 title: "偽猫物語(COPYCAT)をクリアしたよ！"
+description: "偽猫物語(COPYCAT)をクリアしたよ！最近発売された偽猫物語をクリアしました！ こちらのゲームの物語としてはおばあちゃんが保護ネコ(Dawn: ドーン)を引き取ったところから始まります。"
 date: 2024-09-21
 slug: "copycat-review"
 aliases:

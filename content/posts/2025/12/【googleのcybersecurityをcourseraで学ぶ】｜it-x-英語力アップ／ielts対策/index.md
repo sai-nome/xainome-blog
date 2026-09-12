@@ -1,5 +1,6 @@
 ---
 title: "【GoogleのCybersecurityをCourseraで学ぶ】｜IT × 英語力アップ／IELTS対策"
+description: "GoogleのCybersecurityをCourseraで学ぶ。I applyed for free lessons of Japan re-skilling consortium before. I take some…"
 date: 2025-12-02
 slug: "google-cybersecurity-coursera-study"
 aliases:

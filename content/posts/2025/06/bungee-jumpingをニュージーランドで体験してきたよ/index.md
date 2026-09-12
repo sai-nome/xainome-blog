@@ -1,5 +1,6 @@
 ---
 title: "【Bungee jumpingでドキドキの体験をしてきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Bungee jumpingでドキドキの体験をしてきたよ。My friend went back Japan suddenly and he said he wanted to do bungee jumping.…"
 date: 2025-06-13
 slug: "bungee-jumping-2"
 aliases:

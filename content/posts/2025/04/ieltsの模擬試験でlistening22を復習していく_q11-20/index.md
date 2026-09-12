@@ -1,5 +1,6 @@
 ---
 title: "IELTSの模擬試験でListening22を復習していく_Q11-20"
+description: "IELTSの模擬試験でListening22を復習していく_Q11-20。I talked about taking the mock test which isn't good score last time so I'm…"
 date: 2025-04-21
 slug: "ielts-listening-test-22-questions-11-20"
 aliases:

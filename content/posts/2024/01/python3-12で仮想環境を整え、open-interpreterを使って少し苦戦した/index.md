@@ -1,5 +1,6 @@
 ---
 title: "Python3.12で仮想環境を整え、Open Interpreterを使って少し苦戦した話"
+description: "Python3.12で仮想環境を整え、Open Interpreterを使って少し苦戦した話。話題としては遅い気がしますが、初めてOpen Interpreterを使いました。そのことについて記載しようと思います。"
 date: 2024-01-27
 slug: "python3-12-virtual-environment-open-interpreter"
 aliases:

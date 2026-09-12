@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ Motueka, Takaka, Farewell Spitまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ Motueka, Takaka, Farewell Spitまで~。I wrote about Nelson before. I will write Motueka, Takaka, Farewell…"
 date: 2025-09-23
 slug: "road-trip-motueka-takaka-farewell-spit-to"
 aliases:

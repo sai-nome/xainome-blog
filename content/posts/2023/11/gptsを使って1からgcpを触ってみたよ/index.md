@@ -1,5 +1,6 @@
 ---
 title: "GPTsを使って1からGCPを触ってみたよ"
+description: "GPTsを使って1からGCPを触ってみたよ。昨今OpenAIのCEOが退任したり、復帰したりと騒がせている状況ですが、私はGPTsをうまく使えないか模索していたりします。 そんな中でGPTsを使ってGCPの構築を手伝ってもらいました。"
 date: 2023-11-24
 slug: "gpts-1-from-gcp-review"
 aliases:

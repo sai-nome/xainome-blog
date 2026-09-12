@@ -1,5 +1,6 @@
 ---
 title: "AWSCloudQuestでゲーム感覚でAWSを触ってみよう！"
+description: "AWSCloudQuestでゲーム感覚でAWSを触ってみよう！私の現場ではAWSを使っています。全てを1から作ったわけではないですが、StepFunctionやLambda、CodeCommitなど基本的なものは使ってますし、必要に応じて…"
 date: 2024-01-30
 slug: "awscloudquest-game-aws"
 aliases:

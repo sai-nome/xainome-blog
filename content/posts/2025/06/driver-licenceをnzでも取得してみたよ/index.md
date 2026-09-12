@@ -1,5 +1,6 @@
 ---
 title: "【Driver licenceを気軽に取ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Driver licenceを気軽に取ってきたよ。I have been there for 5 months so I decided to obtain a NZ driver licence because I am going…"
 date: 2025-06-10
 slug: "driver-licence"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "ParnellBathsでプールを満喫してきたよ！それからパーティ？"
+description: "ParnellBathsでプールを満喫してきたよ！それからパーティ？We have a activity in LSI on every Fryday. Therefore, it is a number of people…"
 date: 2025-02-22
 slug: "parnellbaths-pools-visit-from"
 aliases:

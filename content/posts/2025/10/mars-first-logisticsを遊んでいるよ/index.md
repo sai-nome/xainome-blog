@@ -1,5 +1,6 @@
 ---
 title: "【Mars First Logistics】｜物運びゲーム × 英語力アップ／IELTS対策"
+description: "Mars First Logistics。I bought a saled video game because I took it easy recently. However, I did not finish getting…"
 date: 2025-10-13
 slug: "mars-first-logistics"
 aliases:

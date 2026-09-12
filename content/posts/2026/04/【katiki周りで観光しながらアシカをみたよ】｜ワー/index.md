@@ -1,5 +1,6 @@
 ---
 title: "【Katiki周りで観光しながらアシカをみたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Katiki周りで観光しながらアシカをみたよ。I went to Katiki but I looked around there a little. Firstly, it was Moeraki Boulders Beach.…"
 date: 2026-04-07
 slug: "katiki-point-seals-road-trip"
 aliases:

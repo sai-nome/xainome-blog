@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ Taupo, Palmerston North, Wellington~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ Taupo, Palmerston North, Wellington~。I have not written for one week. I didn't have a chance to do, but I…"
 date: 2025-08-13
 slug: "road-trip-taupo-palmerston-north-wellington"
 aliases:

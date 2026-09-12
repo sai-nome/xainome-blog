@@ -1,5 +1,6 @@
 ---
 title: "PrefectとBigQueryを使っているので現状やったことを書いてみる"
+description: "PrefectとBigQueryを使っているので現状やったことを書いてみる。副業でPrefect CloudとBigQueryを使っているので触った点と書いてみようと思います。 私はWindowsを使っています。"
 date: 2024-08-23
 slug: "prefect-bigquery"
 aliases:

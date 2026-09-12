@@ -1,5 +1,6 @@
 ---
 title: "IELTSの模擬試験でListening22を受けてボロボロだった話"
+description: "IELTSの模擬試験でListening22を受けてボロボロだった話。I took the mock Listening 22 of IELTS last week but my score was bad. This test…"
 date: 2025-04-18
 slug: "ielts-listening-test-22-review"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【ニュージーランドで車のパーツを修理】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ニュージーランドで車のパーツを修理。I bought a car at first time after coming here. The car is \"Mazda premacy 2008\". It ran 277000km,…"
 date: 2025-09-11
 slug: "new-zealand-car-repair"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "The Planet Crafterで星をテラフォーミングする！"
+description: "The Planet Crafterで星をテラフォーミングする！最近発売され2024/04/24まで\"30%オフ\"かつ\"圧倒的に好評\"のクラフトゲーム「The Planet Crafter」をやっています。 またクラフトゲーム？"
 date: 2024-04-17
 slug: "planet-crafter"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "IRD番号(納税者番号)を申請してみたよ"
+description: "IRD番号(納税者番号)を申請してみたよ。I'd like to work in NEW ZEALAND(NZ), I applied IRD number. But I don't know that I can be…"
 date: 2025-02-20
 slug: "ird-application-guide"
 aliases:

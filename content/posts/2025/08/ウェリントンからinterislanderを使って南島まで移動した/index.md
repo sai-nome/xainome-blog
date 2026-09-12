@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ ウェリントンからInterislanderで南島に車で移動~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ ウェリントンからInterislanderで南島に車で移動~。This story continues to previous story. I went to Wellington and the South…"
 date: 2025-08-19
 slug: "road-trip-from-interislander"
 aliases:

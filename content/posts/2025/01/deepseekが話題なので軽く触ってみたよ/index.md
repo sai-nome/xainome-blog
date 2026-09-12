@@ -1,5 +1,6 @@
 ---
 title: "Deepseekが話題なので軽く触ってみたよ"
+description: "Deepseekが話題なので軽く触ってみたよ。英語にカマかけてAIについてほぼ触れてこなかったのですが、Deepseekは割と盛り上がってるみたいなので触ってみました。"
 date: 2025-01-28
 slug: "deepseek-review"
 aliases:

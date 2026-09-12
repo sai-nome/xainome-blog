@@ -1,5 +1,6 @@
 ---
 title: "WordPressにパスキーを導入してセキュリティ意識を高めよう！"
+description: "WordPressにパスキーを導入してセキュリティ意識を高めよう！ここ最近セキュリティに関するニュースが後を絶たないですね…。例えば 岡山の病院で患者情報流出 ニコニコ動画サイバー攻撃 積水ハウス個人情報流出…"
 date: 2024-06-16
 slug: "wordpress-passkeys-cybersecurity"
 aliases:

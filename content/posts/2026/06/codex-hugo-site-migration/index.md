@@ -1,5 +1,6 @@
 ---
 title: "CodexでHugoサイトを効率化！AIコーディングで移行作業を自動化"
+description: "CodexでHugoサイトを効率化！AIコーディングで移行作業を自動化。codexとはOpenAIが提供しているAIコーディングまたはAIエージェントになります。"
 date: 2026-06-27
 slug: "codex-hugo-site-migration"
 aliases:

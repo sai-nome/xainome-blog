@@ -1,5 +1,6 @@
 ---
 title: "【myIRのアカウント有効化で苦労したよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "myIRのアカウント有効化で苦労したよ。I received an IRD number before. I needed to register on myIR, but I felt bored because of…"
 date: 2025-07-08
 slug: "activate-myir-account-new-zealand"
 aliases:

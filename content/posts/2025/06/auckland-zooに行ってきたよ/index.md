@@ -1,5 +1,6 @@
 ---
 title: "【Auckland Zooでいろんな動物を見てきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Auckland Zooでいろんな動物を見てきたよ。I went to the Auckland Zoo last Sunday. We can see variety of animals, but I took photos…"
 date: 2025-06-30
 slug: "auckland-zoo-animals"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "Outholdというタワーディフェンスの実績コンプ"
+description: "Outholdというタワーディフェンスの実績コンプ。最近出たOutholdというタワーディフェンスの実績をコンプしました。多少歯ごたえはありましたが10時間程度で終わるので気軽にできるゲームだと思います。"
 date: 2026-01-08
 slug: "outhold-achievements"
 aliases:

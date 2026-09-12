@@ -1,5 +1,6 @@
 ---
 title: "Listening30の模擬試験を復習していく"
+description: "Listening30の模擬試験を復習していく。I took the mock litening test No.30 so I will review it. This score was fifteen per forty. I…"
 date: 2025-05-12
 slug: "ielts-listening-test-30-review"
 aliases:

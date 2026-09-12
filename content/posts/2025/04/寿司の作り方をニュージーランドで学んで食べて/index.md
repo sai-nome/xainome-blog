@@ -1,5 +1,6 @@
 ---
 title: "【寿司の作り方を学べばレストランでも使えるかも！？】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "寿司の作り方を学べばレストランでも使えるかも！？Recently, I learned how to make sushi. First, I learned how to cut raw fish. That is…"
 date: 2025-04-13
 slug: "learning-to-make-sushi-new-zealand"
 aliases:

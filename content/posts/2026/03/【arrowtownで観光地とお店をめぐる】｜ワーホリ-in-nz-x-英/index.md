@@ -1,5 +1,6 @@
 ---
 title: "【Arrowtownで観光地とお店をめぐる】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Arrowtownで観光地とお店をめぐる。I am going to write about Arrowtown because I went to sightseeing. There were a river and bridge…"
 date: 2026-03-09
 slug: "arrowtown-travel-guide"
 aliases:

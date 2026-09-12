@@ -1,5 +1,6 @@
 ---
 title: "【ハウスキーピングの仕事をTekapoでしてるよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ハウスキーピングの仕事をTekapoでしてるよ。I found a house keeping job because I finished working at the peony farm. Actually, I was…"
 date: 2025-12-21
 slug: "housekeeping-work-tekapo"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "Claude(クロード)という新しい生成AIを触ってみたよ"
+description: "Claude(クロード)という新しい生成AIを触ってみたよ。生成AIの進化がすごい昨今ですが7月頃に出たAnthropic社のClaudeという生成AIを触ってみました。 一応聞いてみましたが、やはり英語のほうが得意みたいですね。"
 date: 2024-01-10
 slug: "claude-generative-ai-review"
 aliases:

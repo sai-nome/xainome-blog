@@ -1,5 +1,6 @@
 ---
 title: "Pasifika Festivalに行って楽しんできたよ！"
+description: "Pasifika Festivalに行って楽しんできたよ！I looked Pasifika Festival on 8th and 9th March. I looked events Waitangi day…"
 date: 2025-03-12
 slug: "pasifika-festival-visit"
 aliases:

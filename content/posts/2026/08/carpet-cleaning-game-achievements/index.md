@@ -1,5 +1,6 @@
 ---
 title: "【絨毯を洗うゲーム】攻略・実績コンプ｜効率的な進め方とレビュー"
+description: "絨毯を洗うゲーム】攻略・実績コンプ。久しぶりにSteamを開いたとき、たまたま見かけて面白いかなと思って購入しました。定価で700円になります。"
 date: 2026-08-08
 slug: "carpet-cleaning-game-achievements"
 aliases:

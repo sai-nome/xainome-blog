@@ -1,5 +1,6 @@
 ---
 title: "【Peonyファームジョブでピッキング】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Peonyファームジョブでピッキング。I just work picking for this week so I made much effort, maybe. We do not have day off unless it…"
 date: 2025-11-19
 slug: "peony-farm-job-picking-2"
 aliases:

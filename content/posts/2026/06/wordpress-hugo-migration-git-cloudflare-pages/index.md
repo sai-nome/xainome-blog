@@ -1,5 +1,6 @@
 ---
 title: "WordPressからHugoへ移行中！GitとCloudflare Pagesで無料運営に挑戦"
+description: "WordPressからHugoへ移行中！GitとCloudflare Pagesで無料運営に挑戦。ニュージーランドでのロードトリップが一通り落ち着いて車も売り、やることがなくなったので前から考えていた無料でサイト運営をしていこうかと考えて…"
 date: 2026-06-22
 slug: "wordpress-hugo-migration-git-cloudflare-pages"
 aliases:

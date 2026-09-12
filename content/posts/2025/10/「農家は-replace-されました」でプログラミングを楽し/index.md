@@ -1,5 +1,6 @@
 ---
 title: "【農家は Replace() されました】｜プログラミングゲーム × 英語力アップ／IELTS対策"
+description: "農家は Replace() されました。I started playing 「The Farmer Was Replaced」which was lanched version 1.0. I have a lot of things…"
 date: 2025-10-19
 slug: "the-farmer-was-replaced-game-review"
 aliases:

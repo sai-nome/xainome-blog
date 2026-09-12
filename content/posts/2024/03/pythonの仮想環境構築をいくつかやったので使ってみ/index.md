@@ -1,5 +1,6 @@
 ---
 title: "pythonの仮想環境構築をいくつかやったので使ってみた感想を書く"
+description: "pythonの仮想環境構築をいくつかやったので使ってみた感想を書く。前回は仮想環境が必要なの？というテーマで書いてみましたが、とはいえ使えるに越したことはないので実際に試してみて使った感想を残そうと思います。"
 date: 2024-03-08
 slug: "python-virtual-environment-review"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "ウェブサイトを少しづつ改修している話"
+description: "ウェブサイトを少しづつ改修している話。サイトを一部修正して固定ページを追加しました！ 理由としてはアドセンスの合格に挑戦しようと思ったからです！"
 date: 2024-08-13
 slug: "website-improvement-progress"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【米を鍋で炊ければどこでも米が食べられるよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "米を鍋で炊ければどこでも米が食べられるよ。When I lived in Japan, I often cooked rice useing a rice-cooker. For instance, white rice, brown…"
 date: 2025-05-21
 slug: "how-to-cook-rice-in-a-pot"
 aliases:

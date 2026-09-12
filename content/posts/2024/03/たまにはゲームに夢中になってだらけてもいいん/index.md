@@ -1,5 +1,6 @@
 ---
 title: "たまにはゲームに夢中になってだらけてもいいんじゃない？"
+description: "たまにはゲームに夢中になってだらけてもいいんじゃない？ここ最近はInputはそこまでやらず、Kaggleを触っていたのですがスコアが上がったことで少し満足してゲームのほうに夢中になってました。"
 date: 2024-03-24
 slug: "taking-time-to-relax-with-games"
 aliases:

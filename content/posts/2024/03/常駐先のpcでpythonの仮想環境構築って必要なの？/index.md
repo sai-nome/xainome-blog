@@ -1,5 +1,6 @@
 ---
 title: "常駐先のPCでPythonの仮想環境構築って必要なの？"
+description: "常駐先のPCでPythonの仮想環境構築って必要なの？たまには自身の仕事の環境のことでも話をしてみるのもいいかと思って記事にしました。ただ自身の疑問や考えを整理するために書いてるので、大したことは書かないかと思います。"
 date: 2024-03-06
 slug: "pc-python-virtual-environment"
 aliases:

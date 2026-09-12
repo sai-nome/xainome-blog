@@ -1,5 +1,6 @@
 ---
 title: "生成AIのさらなる進化と今後の仕事について"
+description: "生成AIのさらなる進化と今後の仕事について。最近Inputが出来てないな～と思ったので色々調べてみたところこの資料を見つけました。 ざっくり内容を話すと生成AIが労働へ及ぼす影響や知識の獲得、またその後の働き方について書かれています。"
 date: 2024-03-26
 slug: "generative-ai-evolution-and-future-of-work"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "ASB Polyfestというマオリとパシフィックの祭りを見てきたよ"
+description: "ASB Polyfestというマオリとパシフィックの祭りを見てきたよ。I went to Manukau Sports Bowl to watch dancing in NZ because of festival. I think…"
 date: 2025-04-09
 slug: "asb-polyfest"
 aliases:

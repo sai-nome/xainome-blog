@@ -1,5 +1,6 @@
 ---
 title: "Pyxelを使って簡単なゲームの作成を試してみたい！part1"
+description: "Pyxelを使って簡単なゲームの作成を試してみたい！part1。ゲームを作成するのであればUnityやUnreal Engineが有名です。それとは別にpythonでコーディングができるpyxelがあります。"
 date: 2024-12-21
 slug: "build-game-with-pyxel-part-1"
 aliases:

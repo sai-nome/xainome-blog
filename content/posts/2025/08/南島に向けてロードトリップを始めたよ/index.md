@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ ネット、シャワー、ベッドやガスの準備~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ ネット、シャワー、ベッドやガスの準備~。I left my flat and started road trip from last Monday. I told that I bought my car,…"
 date: 2025-08-07
 slug: "prepare-for-new-zealand-south-island-road-trip"
 aliases:

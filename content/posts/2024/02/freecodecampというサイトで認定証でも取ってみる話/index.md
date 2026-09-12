@@ -1,5 +1,6 @@
 ---
 title: "freeCodeCampというサイトで認定証でも取ってみる話"
+description: "freeCodeCampというサイトで認定証でも取ってみる話。E資格が終わって次に何しようかなと思った時にたまたま目が付いたサイト\"freeCodeCamp\"をやってみました。"
 date: 2024-02-25
 slug: "freecodecamp"
 aliases:

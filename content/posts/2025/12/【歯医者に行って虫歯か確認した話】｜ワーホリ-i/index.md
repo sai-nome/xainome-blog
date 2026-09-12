@@ -1,5 +1,6 @@
 ---
 title: "【歯医者に行って虫歯か確認した話】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "歯医者に行って虫歯か確認した話。I have had a teeth problem when I was a university student and my teeth were getting worse so I went…"
 date: 2025-12-27
 slug: "dentist-checkup-for-cavities-new-zealand"
 aliases:

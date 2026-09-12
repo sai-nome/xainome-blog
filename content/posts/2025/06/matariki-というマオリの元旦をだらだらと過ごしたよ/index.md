@@ -1,5 +1,6 @@
 ---
 title: "【Matarikiというマオリの元旦を満喫する】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Matarikiというマオリの元旦を満喫する。I took it easy because of holiday on last Friday called \"Matariki\". \"Matariki\" is new year's…"
 date: 2025-06-22
 slug: "matariki-maori-new-year-experience"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【Bungee jumpingをスカイタワーで体験したよ！】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Bungee jumpingをスカイタワーで体験したよ！I went bungee jumping because I drank with my friend and he invited me last night. I'm…"
 date: 2025-05-17
 slug: "bungee-jumping"
 aliases:

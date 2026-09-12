@@ -1,5 +1,6 @@
 ---
 title: "【期限切れWOFの更新】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "期限切れWOFの更新。I am going to write that my WOF updated recently. I bought a car which has three stickers. For example,…"
 date: 2025-11-13
 slug: "renew-expired-wof-new-zealand"
 aliases:

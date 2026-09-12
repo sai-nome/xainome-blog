@@ -1,5 +1,6 @@
 ---
 title: "【Wanakaで観光地巡り】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Wanakaで観光地巡り。I wrote the story about FoxGracier in road trip before. I will write about Wanaka. There are a lot of…"
 date: 2025-10-07
 slug: "wanaka-travel-guide"
 aliases:

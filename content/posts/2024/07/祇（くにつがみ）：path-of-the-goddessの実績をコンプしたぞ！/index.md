@@ -1,5 +1,6 @@
 ---
 title: "祇（くにつがみ）：Path of the Goddessの実績をコンプしたぞ！"
+description: "祇（くにつがみ）：Path of the Goddessの実績をコンプしたぞ！最近発売された祇というゲームの実績をコンプしました！ 公式サイトはこちら。Steamのストアページはこちら。"
 date: 2024-07-28
 slug: "path-of-goddess"
 aliases:

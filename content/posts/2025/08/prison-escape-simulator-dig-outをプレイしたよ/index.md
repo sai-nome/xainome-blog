@@ -1,5 +1,6 @@
 ---
 title: "Prison Escape Simulator: Dig Outをプレイしたよ"
+description: "Prison Escape Simulator: Dig Outをプレイしたよ。最近発売されたDig outというシミュレーションゲームをクリアしました。実績も全部開放しました。"
 date: 2025-08-02
 slug: "prison-escape-simulator-dig-out-review"
 aliases:

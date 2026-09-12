@@ -1,5 +1,6 @@
 ---
 title: "【ロードトリップ ~ QueenstownからOkaritoまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ロードトリップ ~ QueenstownからOkaritoまで。I went to the Milford Sound before. I am going to write from Queenstown to Okarito.…"
 date: 2026-08-04
 slug: "roadtrip-queenstown-to-okarito"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習前編 ~"
+description: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習前編 ~。前回は応用数学や機械学習につてい振り返ったので、今回は深層学習について振り返ります。おそらく長くなりそうなので2分割しようと思います。"
 date: 2024-02-12
 slug: "jdla-deep-learning-engineer-exam-deep-learning-fundamentals-part-1"
 aliases:

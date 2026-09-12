@@ -1,5 +1,6 @@
 ---
 title: "いつの間にか配信されてたOmega Crafterをプレイしたら2日で前回のプレイ記録を超えていた！なんなら9割終わった"
+description: "いつの間にか配信されてたOmega Crafterをプレイしたら2日で前回のプレイ記録を超えていた！なんなら9割終わった。土日にKaggleをやらずゲームをやってたのですが早期アクセスが開始されたOmega Crafterで遊んでました。"
 date: 2024-04-03
 slug: "omega-crafter-2-9"
 aliases:

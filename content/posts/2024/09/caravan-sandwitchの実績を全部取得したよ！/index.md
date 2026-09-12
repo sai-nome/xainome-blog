@@ -1,5 +1,6 @@
 ---
 title: "Caravan Sandwitchの実績を全部取得したよ！"
+description: "Caravan Sandwitchの実績を全部取得したよ！最近販売されたCaravan Sandwitchの実績を全部取りました！私はsteamなのでこちらですね。 こちらのゲームは探索アドベンチャーゲームとなります。"
 date: 2024-09-17
 slug: "caravan-sandwitch-achievements"
 aliases:

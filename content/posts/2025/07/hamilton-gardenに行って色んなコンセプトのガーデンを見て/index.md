@@ -1,5 +1,6 @@
 ---
 title: "【Hamilton Gardenで色んなコンセプトガーデンを見に行ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Hamilton Gardenで色んなコンセプトガーデンを見に行ってきたよ。I went to the Hamilton Garden at weekend because I bought a car before. I felt…"
 date: 2025-07-28
 slug: "hamilton-garden-visit"
 aliases:

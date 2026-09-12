@@ -1,5 +1,6 @@
 ---
 title: "kiwidipを試しにいくつか作ってみたよ！"
+description: "kiwidipを試しにいくつか作ってみたよ！I came in NZ and I didn't eat unique foods. Therefore, I made something. Kiwidip is sinple. It…"
 date: 2025-02-27
 slug: "kiwidip-tutorial"
 aliases:

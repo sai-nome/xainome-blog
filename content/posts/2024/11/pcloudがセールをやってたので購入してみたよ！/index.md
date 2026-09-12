@@ -1,5 +1,6 @@
 ---
 title: "pCloudがセールをやってたので購入してみたよ！"
+description: "pCloudがセールをやってたので購入してみたよ！pCloudがブラックフライデーセールをやっていたので購入してみました。以前から気になっていたのですが、このタイミングのセールがよさそうだったので待ってました。"
 date: 2024-11-17
 slug: "pcloud-lifetime-storage-review"
 aliases:

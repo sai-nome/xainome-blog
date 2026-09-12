@@ -1,5 +1,6 @@
 ---
 title: "Pyxelを使って簡単なゲームの作成を試してみたい！part3"
+description: "Pyxelを使って簡単なゲームの作成を試してみたい！part3。前回pyxeleditorを使ってサウンドを作って動かすところまでやってみました。 今回はゲーム性を持たせるところですね。やることはスコアの作成とゲームオーバーの作成ですね。"
 date: 2024-12-30
 slug: "build-game-with-pyxel-part-3"
 aliases:

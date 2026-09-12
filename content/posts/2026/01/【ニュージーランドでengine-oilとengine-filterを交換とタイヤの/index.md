@@ -1,5 +1,6 @@
 ---
 title: "【ニュージーランドでengine oilとengine filterを交換とタイヤの空気入れをしてきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ニュージーランドでengine oilとengine filterを交換とタイヤの空気入れをしてきたよ。Finally, I changed engine oil and oil filtter because the…"
 date: 2026-01-25
 slug: "new-zealand-engine-oil-engine-filter"
 aliases:

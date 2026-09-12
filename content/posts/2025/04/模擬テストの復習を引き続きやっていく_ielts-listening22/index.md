@@ -1,5 +1,6 @@
 ---
 title: "模擬テストの復習を引き続きやっていく_IELTS-Listening22"
+description: "模擬テストの復習を引き続きやっていく_IELTS-Listening22。I did until Listening22 Q11-Q20 last time. I took other mimic test and I want to…"
 date: 2025-04-27
 slug: "ielts-listening-test-22-review-2"
 aliases:

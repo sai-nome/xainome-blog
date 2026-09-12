@@ -1,5 +1,6 @@
 ---
 title: "【NZのCave Streamで命がけの探索】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "NZのCave Streamで命がけの探索。I work in the peony farm and the CaveStream is near here. It takes for 30 minutes by car. The…"
 date: 2025-11-25
 slug: "new-zealand-cave-stream"
 aliases:

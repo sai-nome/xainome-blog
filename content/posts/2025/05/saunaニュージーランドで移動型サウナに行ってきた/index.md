@@ -1,5 +1,6 @@
 ---
 title: "【ニュージーランドでも移動式サウナを体験 ~Sauna~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ニュージーランドでも移動式サウナを体験 ~Sauna~。If there is a sauna, I'll go there but I didn't know about details so I went there with…"
 date: 2025-05-07
 slug: "new-zealand-sauna-sauna"
 aliases:

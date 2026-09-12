@@ -1,5 +1,6 @@
 ---
 title: "Github Copilotを使わずVSCodeにContinueを入れて使ってみる"
+description: "Github Copilotを使わずVSCodeにContinueを入れて使ってみる。Github Copilotが出てだいぶ時間が経ちましたが、IDEで未だにAIを使わず開発をしています。"
 date: 2024-09-30
 slug: "github-copilot-vscode-continue"
 aliases:

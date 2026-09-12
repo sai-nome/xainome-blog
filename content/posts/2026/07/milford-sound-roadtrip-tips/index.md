@@ -1,5 +1,6 @@
 ---
 title: "【ロードトリップ ~ Milford Soundへ行って分かった注意点】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ロードトリップ ~ Milford Soundへ行って分かった注意点。I am going to write about Milford Sound. I booked accommodation in Te Anau because…"
 date: 2026-07-19
 slug: "milford-sound-roadtrip-tips"
 aliases:

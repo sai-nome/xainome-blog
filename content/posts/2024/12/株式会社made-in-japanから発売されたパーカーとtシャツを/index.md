@@ -1,5 +1,6 @@
 ---
 title: "株式会社made in japanから発売されたパーカーとTシャツを着たよ"
+description: "株式会社made in japanから発売されたパーカーとTシャツを着たよ。2024/12/16日に株式会社made in japanから切れない燃えない服が発売されました。"
 date: 2024-12-24
 slug: "made-in-japan-from-t"
 aliases:

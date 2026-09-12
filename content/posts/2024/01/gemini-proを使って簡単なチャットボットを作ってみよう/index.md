@@ -1,5 +1,6 @@
 ---
 title: "Gemini-proを使って簡単なチャットボットを作ってみよう！"
+description: "Gemini-proを使って簡単なチャットボットを作ってみよう！生成AIがどんどん進化していく中でGoogleが新たなモデルを出しました。それが\"Gemini-pro\"です。"
 date: 2024-01-22
 slug: "gemini-pro-tutorial"
 aliases:

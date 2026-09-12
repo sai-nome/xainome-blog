@@ -1,5 +1,6 @@
 ---
 title: "【Brewster Hutまで登って更に氷河の近くまでハイキングしに行ったよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Brewster Hutまで登って更に氷河の近くまでハイキングしに行ったよ。I am going to write about hiking. Actually, I bought hiking shoes before doing.…"
 date: 2026-04-26
 slug: "brewster-hut-glacier-hike"
 aliases:

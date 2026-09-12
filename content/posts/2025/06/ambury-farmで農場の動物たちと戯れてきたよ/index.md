@@ -1,5 +1,6 @@
 ---
 title: "【Ambury Farmで農場の動物たちと触れ合う】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Ambury Farmで農場の動物たちと触れ合う。I went to ambury farm because my Thai friend recommended it. It's free so anybody can enter…"
 date: 2025-06-17
 slug: "ambury-farm-animals"
 aliases:

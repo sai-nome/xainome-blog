@@ -1,5 +1,6 @@
 ---
 title: "AI音声合成のAivisSpeechを触ってみたよ！"
+description: "AI音声合成のAivisSpeechを触ってみたよ！まずはAudibleという形でこの記事を読み込ませてみました。今後も活用してみようと思います。"
 date: 2024-11-29
 slug: "ai-voice-synthesis-aivisspeech-review"
 aliases:

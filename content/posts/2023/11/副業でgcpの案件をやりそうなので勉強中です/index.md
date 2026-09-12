@@ -1,5 +1,6 @@
 ---
 title: "副業でGCPの案件をやりそうなので勉強中です"
+description: "副業でGCPの案件をやりそうなので勉強中です。最近、友人から副業をやらないかというお誘いがありました。とはいえAWSを使ったことはありますが、GCPを使ったことがないのでとりあえず触ってみてほしいとのことでした。"
 date: 2023-11-19
 slug: "learning-gcp-for-freelance-project"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "簿記の勉強を暇なタイミングやる！世界でも使えそうかも？"
+description: "簿記の勉強を暇なタイミングやる！世界でも使えそうかも？前回のブログでゲームに飽きてきたという話をしました。というわけで勉強をしようかと思います。"
 date: 2024-10-26
 slug: "learning-bookkeeping-for-global-career"
 aliases:

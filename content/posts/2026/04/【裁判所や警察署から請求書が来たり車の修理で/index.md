@@ -1,5 +1,6 @@
 ---
 title: "【裁判所や警察署から請求書が来たり車の修理で貯金が減った話】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "裁判所や警察署から請求書が来たり車の修理で貯金が減った話。I paid a kind of things recently so I am going to write about that. Firstly, it was an…"
 date: 2026-04-15
 slug: "court-police-bills-and-car-repair-new-zealand"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "SoutheastAsia Festivalに行ってきたよ"
+description: "SoutheastAsia Festivalに行ってきたよ。I went to the SoutheastAsia Festival! Fortunately, I saw my friend and I knew about…"
 date: 2025-03-09
 slug: "southeastasia-festival-visit"
 aliases:

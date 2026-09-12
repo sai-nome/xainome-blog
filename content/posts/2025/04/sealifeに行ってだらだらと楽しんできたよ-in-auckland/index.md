@@ -1,5 +1,6 @@
 ---
 title: "SEALIFEに行ってだらだらと楽しんできたよ in Auckland"
+description: "SEALIFEに行ってだらだらと楽しんできたよ in Auckland。I went to the aquarium so I introduce it. This place is SEALIFE. We can look…"
 date: 2025-04-06
 slug: "sealife-visit-in-auckland"
 aliases:

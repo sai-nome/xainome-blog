@@ -1,5 +1,6 @@
 ---
 title: "国際線でNZに行くまでにあったことやLSI初日の感想など"
+description: "国際線でNZに行くまでにあったことやLSI初日の感想など。前回記事の投稿に時間が空きましたが、ニュージーランドに向かっていたので投稿が遅くなりました… 国際線やLSI初日で経験してわかったこともあるのでいくつか書いてみようと思います。"
 date: 2025-01-14
 slug: "flight-to-new-zealand-and-first-day-at-lsi"
 aliases:

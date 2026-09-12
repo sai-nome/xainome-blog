@@ -1,5 +1,6 @@
 ---
 title: "Strange seedというゲームのスキンの場所を書いていくよ"
+description: "Strange seedというゲームのスキンの場所を書いていくよ。strange seedでコンプ要素として生物のパーツとスキンがあります。一応アクセサリーもありますが、数の表示もないのでここでは省くことにします。"
 date: 2026-02-28
 slug: "strange-seed-game-2"
 aliases:

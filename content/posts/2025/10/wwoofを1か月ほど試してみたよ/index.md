@@ -1,5 +1,6 @@
 ---
 title: "【WWOOFでデイリーファーム体験】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "WWOOFでデイリーファーム体験。I had played video games recently because I worked as a WWOOFer so that I had a free time. I worked…"
 date: 2025-10-25
 slug: "wwoof-farm-job"
 aliases:

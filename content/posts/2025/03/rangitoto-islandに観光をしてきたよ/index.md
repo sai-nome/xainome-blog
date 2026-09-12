@@ -1,5 +1,6 @@
 ---
 title: "Rangitoto Islandに観光をしてきたよ"
+description: "Rangitoto Islandに観光をしてきたよ。I went to Rangitoto Island. I suggested to go somewhere with my friend who will leave from…"
 date: 2025-03-19
 slug: "rangitoto-island-visit"
 aliases:

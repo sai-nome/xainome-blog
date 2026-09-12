@@ -1,5 +1,6 @@
 ---
 title: "【Self-contained付きの中古車を購入したよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Self-contained付きの中古車を購入したよ。I had a student visa when I came here, but I wanted to stay for a long time so I applied…"
 date: 2025-07-21
 slug: "self-contained-used-car-buying-guide"
 aliases:

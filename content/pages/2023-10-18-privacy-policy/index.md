@@ -1,5 +1,6 @@
 ---
 title: "プライバシーポリシー(Privacy Policy)"
+description: "サイノメのブログにおける個人情報の取り扱い、アクセス解析、広告、免責事項、著作権などの方針を掲載しています。"
 date: 2023-10-18
 cover:
   image: "images/2023-10-18-privacy-policy-cover.png"

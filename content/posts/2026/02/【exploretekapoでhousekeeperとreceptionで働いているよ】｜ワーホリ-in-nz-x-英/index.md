@@ -1,5 +1,6 @@
 ---
 title: "【ExploreTekapoでHousekeeperとreceptionで働いているよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ExploreTekapoでHousekeeperとreceptionで働いているよ。I wrote that I work as a house keeper before. I am going to write about my…"
 date: 2026-02-06
 slug: "exploretekapo-housekeeper-reception-work-experience"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "ヨーグルトメーカーで無限にヨーグルトを作って健康を意識する！"
+description: "ヨーグルトメーカーで無限にヨーグルトを作って健康を意識する！\"QOL\"を意識して生活をしていますか？ Quality of lifeという言葉の中には身体の健康も含まれています。"
 date: 2024-03-03
 slug: "homemade-yogurt-with-yogurt-maker"
 aliases:

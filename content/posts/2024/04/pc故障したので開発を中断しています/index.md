@@ -1,5 +1,6 @@
 ---
 title: "PC故障したので開発を中断しています"
+description: "PC故障したので開発を中断しています。題名の通りPCが故障しました( ;∀;) 使っていたのはこちらになります。 性能としてはに以下になります。"
 date: 2024-04-24
 slug: "pc-failure-paused-development"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【オーストラリアのワーキングホリデービザの申請してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "オーストラリアのワーキングホリデービザの申請してきたよ。I am going to write about that I applied WHV in Australia and I was accepted quickly.…"
 date: 2026-05-11
 slug: "australia-working-holiday-visa-application"
 aliases:

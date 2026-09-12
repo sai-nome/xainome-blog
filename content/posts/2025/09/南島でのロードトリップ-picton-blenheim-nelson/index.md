@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ Picton, Blenheim, Nelsonまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ Picton, Blenheim, Nelsonまで~。I wrote about coming via ferry from Wellington to Picton. I show you that I…"
 date: 2025-09-19
 slug: "road-trip-picton-blenheim-nelson-to"
 aliases:

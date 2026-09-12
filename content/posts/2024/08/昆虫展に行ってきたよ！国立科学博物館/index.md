@@ -1,5 +1,6 @@
 ---
 title: "昆虫展に行ってきたよ！国立科学博物館"
+description: "昆虫展に行ってきたよ！国立科学博物館。注意ですが、虫の模型の写真を載せてますので苦手な方はスルーしてください。 前回東洋文化ミュージアムという博物館の一種に行きました。今回は国立科学博物館に行ってきました。"
 date: 2024-08-18
 slug: "insect-exhibition-visit-national-museum-of-nature-and-science"
 aliases:

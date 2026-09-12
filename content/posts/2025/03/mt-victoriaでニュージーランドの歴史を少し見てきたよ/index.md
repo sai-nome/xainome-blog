@@ -1,5 +1,6 @@
 ---
 title: "Mt.Victoriaでニュージーランドの歴史を少し見てきたよ"
+description: "Mt.Victoriaでニュージーランドの歴史を少し見てきたよ。Recently, I wached NZ's history at the Mt.Victoria, so I'm writing. We basically went…"
 date: 2025-03-15
 slug: "mt-victoria-new-zealand"
 aliases:

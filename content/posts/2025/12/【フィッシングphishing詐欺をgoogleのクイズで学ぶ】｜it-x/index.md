@@ -1,5 +1,6 @@
 ---
 title: "【フィッシング(phishing)詐欺をGoogleのクイズで学ぶ】｜IT × 英語力アップ／IELTS対策"
+description: "フィッシング(phishing)詐欺をGoogleのクイズで学ぶ。I am learning cybersecurity in Coursera and I knew about phishing scams. I also…"
 date: 2025-12-10
 slug: "phishing-google-study"
 aliases:

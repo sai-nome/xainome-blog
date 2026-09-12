@@ -1,5 +1,6 @@
 ---
 title: "llma-cpp-pythonを使って今更ローカルでLLMを動かしてみるよ！"
+description: "llma-cpp-pythonを使って今更ローカルでLLMを動かしてみるよ！前回Github copilotをを使わず、vscodeでAIを動かしてコードを頼むようにしてみました。"
 date: 2024-10-11
 slug: "llma-cpp-python-llm"
 aliases:

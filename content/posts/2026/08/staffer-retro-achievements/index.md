@@ -1,5 +1,6 @@
 ---
 title: "【Staffer Retro: 超能力推理クエスト】というゲームの実績コンプをしたよ"
+description: "Staffer Retro: 超能力推理クエスト】というゲームの実績コンプをしたよ。ここ最近色んなゲームを買ってプレイしているのですが、その中でもまったりしながらもしっかりとした推理ができるゲームで遊んでました。"
 date: 2026-08-13
 slug: "staffer-retro-achievements"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "【Chicken farmで清掃の仕事をしているよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Chicken farmで清掃の仕事をしているよ。I found a job after coming New Zealand. However, it is a part time job. Eventually, I would…"
 date: 2025-09-14
 slug: "chicken-farm-cleaning-work-experience"
 aliases:

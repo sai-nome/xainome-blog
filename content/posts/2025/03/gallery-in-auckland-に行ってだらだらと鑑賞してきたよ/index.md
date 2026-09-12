@@ -1,5 +1,6 @@
 ---
 title: "Gallery in Auckland に行ってだらだらと鑑賞してきたよ"
+description: "Gallery in Auckland に行ってだらだらと鑑賞してきたよ。Recently, I went to a art gallery with the activity. There isn't large inside. I…"
 date: 2025-03-27
 slug: "gallery-in-auckland"
 aliases:

@@ -1,5 +1,7 @@
 ---
 title: "【Trade meを利用して車を売却した話】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+
+description: "Trade meを利用して車を売却した話。I am going to write about selling my car. I bought it on Facebook, but I sold it on Trade me.…"
 date: 2026-06-18
 slug: "sell-car-on-trade-me-new-zealand"
 aliases:

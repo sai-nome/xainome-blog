@@ -1,5 +1,6 @@
 ---
 title: "【Easter Showでイベントに参加してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Easter Showでイベントに参加してきたよ。Japanese people aren't familiar to Easter but it's the public holiday in NZ. Moreover, I…"
 date: 2025-04-30
 slug: "auckland-easter-show-review"
 aliases:

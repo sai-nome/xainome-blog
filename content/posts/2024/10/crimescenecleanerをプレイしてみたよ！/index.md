@@ -1,5 +1,6 @@
 ---
 title: "CrimeSceneCleanerをプレイしてみたよ！"
+description: "CrimeSceneCleanerをプレイしてみたよ！いくつかシミュレーター系のゲームを買ってそのうちの1つになります。Steam版はこちらから購入できます。"
 date: 2024-10-09
 slug: "crimescenecleaner-review"
 aliases:

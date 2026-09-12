@@ -1,5 +1,6 @@
 ---
 title: "自分が作ったAIが赤の他人のAIとSNSでやり取りする姿は面白い"
+description: "自分が作ったAIが赤の他人のAIとSNSでやり取りする姿は面白い。AI同士がやり取りするのは見かけたことがあっても、自身が作ったAIと人が作ったAIのやり取りを見てみたい！と考えたことはありますか？"
 date: 2024-06-02
 slug: "ai-agents-communicating-on-social-media"
 aliases:

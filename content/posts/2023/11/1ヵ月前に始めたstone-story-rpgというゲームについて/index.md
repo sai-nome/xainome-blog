@@ -1,5 +1,6 @@
 ---
 title: "1ヵ月前に始めたStone Story RPGというゲームについて"
+description: "1ヵ月前に始めたStone Story RPGというゲームについて。今回は雑談ということでStone Story RPGというゲームについてです Stone Story RPGというゲームがsteamでリリースされました…"
 date: 2023-11-06
 slug: "1-stone-story-rpg-game"
 aliases:

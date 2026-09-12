@@ -1,5 +1,6 @@
 ---
 title: "parquetファイルの中身はVSCODEの拡張機能 Data Wranglerで見れる！"
+description: "parquetファイルの中身はVSCODEの拡張機能 Data Wranglerで見れる！parquetファイルは非常に優秀なファイルだと思います。"
 date: 2023-11-07
 slug: "parquet-vscode-data-wrangler"
 aliases:

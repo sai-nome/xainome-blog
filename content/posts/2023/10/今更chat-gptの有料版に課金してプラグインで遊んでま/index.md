@@ -1,5 +1,6 @@
 ---
 title: "今更Chat-GPTの有料版に課金してプラグインで遊んでます"
+description: "今更Chat-GPTの有料版に課金してプラグインで遊んでます。最近chat-gptに課金してプラグインで遊ぶことを覚えました（笑） chat-gptがリリースされてもうすぐ1年経とうとしていますが、AIの発展はすごいですね…"
 date: 2023-10-29
 slug: "chatgpt-plus-plugins-review"
 aliases:

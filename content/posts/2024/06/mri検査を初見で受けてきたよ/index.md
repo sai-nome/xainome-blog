@@ -1,5 +1,6 @@
 ---
 title: "MRI検査を初見で受けてきたよ"
+description: "MRI検査を初見で受けてきたよ。掲題の通り本日初めてMRIを受けてきました～ 2週間前の6/15(土)に頭がくらくらする 翌日にはましになるが1週間たっても完治せず 先週脳神経内科に行って検査を受け、MRIを勧められる…"
 date: 2024-06-29
 slug: "first-mri-scan-experience"
 aliases:

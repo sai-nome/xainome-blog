@@ -1,5 +1,6 @@
 ---
 title: "最近の生成AIを3つほど試してみたよ！"
+description: "最近の生成AIを3つほど試してみたよ！OpenAIから\"Sora\"のお披露目があり、夏に\"GPT-5\"がでるという発表がありましたね。 最近の生成AIはすごいなあと思いながら過ごしてますが、たまたま見つけた動画生成AI2つと音楽生成AIを…"
 date: 2024-03-28
 slug: "three-generative-ai-tools-tested"
 aliases:

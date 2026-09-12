@@ -1,5 +1,6 @@
 ---
 title: "Pyxelを使って簡単なゲームの作成を試してみたい！part2"
+description: "Pyxelを使って簡単なゲームの作成を試してみたい！part2。前回pyxelのインストールからドット絵を描いて表示させるところまでやってみました。今回は実際にキャラクターを動かしたり、サウンドを作ったりしたいと思います。"
 date: 2024-12-27
 slug: "build-game-with-pyxel-part-2"
 aliases:

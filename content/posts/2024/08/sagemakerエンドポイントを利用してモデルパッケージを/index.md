@@ -1,5 +1,6 @@
 ---
 title: "SageMakerエンドポイントを利用してモデル管理を調べた話"
+description: "SageMakerエンドポイントを利用してモデル管理を調べた話。AWSを使用してAIのモデルを複数管理したいという話がありました。 学習済みのモデルなので本番では推論しか使われませんが、モデルのバージョン管理を行いたいということだったので…"
 date: 2024-08-03
 slug: "sagemaker-endpoint-model-management"
 aliases:

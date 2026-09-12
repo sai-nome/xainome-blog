@@ -1,5 +1,6 @@
 ---
 title: "Sailingでニュージーランドの海を満喫してきたよ"
+description: "Sailingでニュージーランドの海を満喫してきたよ。On Friday, I went sailing, enjoying the ocean aboard a sailboat. However, this week there…"
 date: 2025-02-14
 slug: "sailing-new-zealand-visit"
 aliases:

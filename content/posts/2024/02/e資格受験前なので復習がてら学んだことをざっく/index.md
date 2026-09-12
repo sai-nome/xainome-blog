@@ -1,5 +1,6 @@
 ---
 title: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 応用数学と機械学習編 ~"
+description: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 応用数学と機械学習編 ~。E資格で出る内容として\"確率や情報理論の計算\"、\"機械学習\"、\"深層学習\"、\"開発運用環境\"があります。"
 date: 2024-02-08
 slug: "jdla-deep-learning-engineer-exam-applied-mathematics-machine-learning"
 aliases:

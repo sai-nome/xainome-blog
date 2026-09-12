@@ -1,5 +1,6 @@
 ---
 title: "セキュリティを学ぶことができる\"TryHackMe\"で遊んでみたよ！"
+description: "セキュリティを学ぶことができる\"TryHackMe\"で遊んでみたよ！最近のニュースでセキュリティに関する漏洩がよく起きている気がします。 外部からの攻撃はもちろん内部からの漏洩も存在します。"
 date: 2024-03-01
 slug: "cybersecurity-study-tryhackme-review"
 aliases:

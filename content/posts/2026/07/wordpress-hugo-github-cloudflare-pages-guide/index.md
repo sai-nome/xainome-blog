@@ -1,5 +1,6 @@
 ---
 title: "WordPressからHugoへ！GitHubとCloudflare Pagesで無料ブログを公開する手順"
+description: "WordPressからHugoへ！GitHubとCloudflare Pagesで無料ブログを公開する手順。いよいよGithubに自身の成果物をあげてCloudflareで表示させようと思います。まずはGithubのアカウント作成ですね。"
 date: 2026-07-02
 slug: "wordpress-hugo-github-cloudflare-pages-guide"
 aliases:

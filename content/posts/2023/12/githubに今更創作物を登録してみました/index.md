@@ -1,5 +1,6 @@
 ---
 title: "GitHubに今更創作物を登録してみました"
+description: "GitHubに今更創作物を登録してみました。転職をする際、エンジニアの場合自身で何か作ったものがあれば提出することがあると思います。また、転職サイトによってはGitを登録することもあると思います。"
 date: 2023-12-20
 slug: "publishing-personal-projects-on-github"
 aliases:

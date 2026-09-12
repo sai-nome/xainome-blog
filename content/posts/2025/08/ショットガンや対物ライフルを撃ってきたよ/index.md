@@ -1,5 +1,6 @@
 ---
 title: "【Real Gunsでショットガンや対物ライフルを撃ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Real Gunsでショットガンや対物ライフルを撃ってきたよ。I think we can not only play one of activities which is shooting guns in Japan.…"
 date: 2025-08-29
 slug: "real-guns-shooting-experience-new-zealand"
 aliases:

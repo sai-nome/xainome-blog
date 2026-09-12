@@ -1,5 +1,6 @@
 ---
 title: "Europaの実績を全て取ったよ！"
+description: "Europaの実績を全て取ったよ！Europaというゲームをプレイしました！バグで全実績取れなかったみたいですが、修正でとれるようになりました。 このゲームはアクションパズルゲームになります。"
 date: 2024-10-16
 slug: "europa-achievements"
 aliases:

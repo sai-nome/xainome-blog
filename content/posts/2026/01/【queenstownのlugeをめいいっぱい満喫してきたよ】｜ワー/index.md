@@ -1,5 +1,6 @@
 ---
 title: "【QueenstownのLugeをめいいっぱい満喫してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "QueenstownのLugeをめいいっぱい満喫してきたよ。I enjoyed the Luge in Queenstown. There is similar to in Japan, but it in Queenstown is…"
 date: 2026-01-31
 slug: "queenstown-luge-visit"
 aliases:

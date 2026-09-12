@@ -1,5 +1,6 @@
 ---
 title: "【DarkSkyProjeckでテカポ湖の星空】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "DarkSkyProjeckでテカポ湖の星空。I joined a tour called \"DarkSkyProject\" which is stargazing. I went to the Lake Tekapo. I…"
 date: 2025-09-07
 slug: "darkskyprojeck-stargazing"
 aliases:

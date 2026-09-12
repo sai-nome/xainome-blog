@@ -1,5 +1,6 @@
 ---
 title: "Win11Debloat を使ってPCのパフォーマンスを多少改善する"
+description: "Win11Debloat を使ってPCのパフォーマンスを多少改善する。たまたま見つけた記事でFreeTimeTechという企業のwindows11debloaterが紹介されていました。"
 date: 2025-05-24
 slug: "win11debloat-pc-performance"
 aliases:

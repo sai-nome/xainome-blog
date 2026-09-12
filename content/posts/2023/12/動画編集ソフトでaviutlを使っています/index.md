@@ -1,5 +1,6 @@
 ---
 title: "動画編集ソフトでAviutlを使っています"
+description: "動画編集ソフトでAviutlを使っています。皆さんは動画をどのように作っているか知っていますか？最近はショート系の動画も多い気がしますがスマホで作ってる人も多いと聞きます。 私も2年ほど動画をYoutubeに上げてたりします。"
 date: 2023-12-23
 slug: "aviutl-video-editing-software"
 aliases:

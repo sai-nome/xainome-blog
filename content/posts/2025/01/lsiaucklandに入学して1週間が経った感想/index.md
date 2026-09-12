@@ -1,5 +1,6 @@
 ---
 title: "LSI(Auckland)に入学して1週間が経った感想"
+description: "LSI(Auckland)に入学して1週間が経った感想。ニュージーランドに来てLSI(Auckland)に入り、1週間ほど経ったのでどんな感じか書いていこうと思います。 初日に関しては多少書いたので省きます。2日目以降では授業ですね。"
 date: 2025-01-18
 slug: "lsi-auckland-1-review"
 aliases:

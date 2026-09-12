@@ -1,5 +1,6 @@
 ---
 title: "【ExploreTekapoで5か月働いた感想】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ExploreTekapoで5か月働いた感想。I am going to write about quitting job which I worked for 5 months. I belonged to Explore…"
 date: 2026-05-17
 slug: "exploretekapo-5-work-experience"
 aliases:

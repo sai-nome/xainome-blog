@@ -1,5 +1,6 @@
 ---
 title: "【ARMAGEDDON EXPOというアニメイベントを楽しむ！】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ARMAGEDDON EXPOというアニメイベントを楽しむ！I enjoyed a event called \"ARMAGEDDON EXPO\" which is held annual. It was held at the…"
 date: 2025-06-06
 slug: "armageddon-expo"
 aliases:

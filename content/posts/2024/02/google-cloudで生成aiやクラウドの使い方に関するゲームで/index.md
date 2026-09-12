@@ -1,5 +1,6 @@
 ---
 title: "Google Cloudで生成AIやクラウドの使い方に関するゲームで遊んでみよう！"
+description: "Google Cloudで生成AIやクラウドの使い方に関するゲームで遊んでみよう！こちらからゲームに参加することができます。 アクセスコードも画面に出ていますので入力して入ってください。"
 date: 2024-02-03
 slug: "google-cloud-generative-ai-game"
 aliases:

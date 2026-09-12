@@ -1,5 +1,6 @@
 ---
 title: "LevelTestsをLSIで初めて受けた話"
+description: "LevelTestsをLSIで初めて受けた話。There is LevelTests in LSI. When you'd like to move up next level, you can take it. Handbook…"
 date: 2025-03-06
 slug: "leveltests-lsi"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "StyleBertVITS2を使って自身のデータセットを作成してみるよ"
+description: "StyleBertVITS2を使って自身のデータセットを作成してみるよ。前回Aivis Speechを触ってみたので自身の音声合成モデルを作ってみたいなと思い調べてみました！StyleBertVITS2は音声合成がメインになると思います。"
 date: 2024-12-02
 slug: "stylebertvits2-tutorial"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "Mirrativeという配信アプリでちぇいんくろにくるローグをやってます"
+description: "Mirrativeという配信アプリでちぇいんくろにくるローグをやってます。私は最近Mirattiveというアプリ内でリリースされたちぇいんくろにくるローグというゲームをやり始めました…"
 date: 2023-11-12
 slug: "mirrative-chain-chronicle-rogue-streaming"
 aliases:

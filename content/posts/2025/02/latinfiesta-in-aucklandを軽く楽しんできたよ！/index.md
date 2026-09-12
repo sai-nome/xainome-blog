@@ -1,5 +1,6 @@
 ---
 title: "latinfiesta in Aucklandを軽く楽しんできたよ！"
+description: "latinfiesta in Aucklandを軽く楽しんできたよ！フェスに行ったことがないうえ、あまり外に出たがらないのですがせっかくなので行ってきました。ラテンフェスで南アメリカ系の音楽ダンスフェスになります。"
 date: 2025-02-01
 slug: "latinfiesta-in-auckland-visit"
 aliases:

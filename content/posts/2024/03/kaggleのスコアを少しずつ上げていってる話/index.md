@@ -1,5 +1,6 @@
 ---
 title: "Kaggleのスコアを少しずつ上げていってる話"
+description: "Kaggleのスコアを少しずつ上げていってる話。前回から4日ほど空いてしまったのですが、Kaggleでどうやってスコアを上げるか四苦八苦してました。"
 date: 2024-03-22
 slug: "improving-kaggle-competition-score"
 aliases:

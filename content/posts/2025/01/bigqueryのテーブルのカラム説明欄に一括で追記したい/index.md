@@ -1,5 +1,6 @@
 ---
 title: "BigQueryのテーブルのカラム説明欄に一括で追記したい！"
+description: "BigQueryのテーブルのカラム説明欄に一括で追記したい！業務委託で副業としてやっていた仕事の内、カラムに説明を追加するというタスクがありました。 今後非エンジニアの人も使えるようにするため、カラムの意味を把握する必要がありました。"
 date: 2025-01-25
 slug: "bulk-update-bigquery-column-descriptions"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "Waiheke Islandに行ってワイナリー巡りをしてきたよ"
+description: "Waiheke Islandに行ってワイナリー巡りをしてきたよ。I went to Waiheke Island. I was recommended but I went to there because of doing…"
 date: 2025-03-30
 slug: "waiheke-island"
 aliases:

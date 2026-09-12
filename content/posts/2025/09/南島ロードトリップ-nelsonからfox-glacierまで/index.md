@@ -1,5 +1,6 @@
 ---
 title: "【南島ロードトリップ~ NelsonからFox Glacierまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "南島ロードトリップ~ NelsonからFox Glacierまで~。I went to the dune near Farewell spit from Motueka. I will write about that I went…"
 date: 2025-09-26
 slug: "road-trip-nelson-from-fox-glacier-to"
 aliases:

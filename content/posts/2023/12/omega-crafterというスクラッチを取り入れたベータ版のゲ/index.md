@@ -1,5 +1,6 @@
 ---
 title: "Omega Crafterというスクラッチを取り入れたベータ版のゲームで遊んでみたよ"
+description: "Omega Crafterというスクラッチを取り入れたベータ版のゲームで遊んでみたよ。Scratchというプログラミング教材を知っていますか？"
 date: 2023-12-11
 slug: "omega-crafter-game-review"
 aliases:

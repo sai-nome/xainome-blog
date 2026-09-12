@@ -1,5 +1,6 @@
 ---
 title: "Kaggleをとりあえず触ってみて少しづつ予測や分類を理解していくぞ！"
+description: "Kaggleをとりあえず触ってみて少しづつ予測や分類を理解していくぞ！最初の段階でタイタニックを触ることが普通かもしれませんが、この書籍でも触れてますがタイタニックは軽く触るくらいでいいと思います。"
 date: 2024-03-18
 slug: "kaggle-prediction-and-classification-basics"
 aliases:

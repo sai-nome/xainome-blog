@@ -1,5 +1,6 @@
 ---
 title: "Little Language Lessonsを使ってみたよ"
+description: "Little Language Lessonsを使ってみたよ。I tried to access learning language website which Google published using Gemini. You…"
 date: 2025-05-03
 slug: "little-language-lessons-review"
 aliases:

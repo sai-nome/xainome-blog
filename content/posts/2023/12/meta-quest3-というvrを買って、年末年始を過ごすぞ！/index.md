@@ -1,5 +1,6 @@
 ---
 title: "Meta Quest3 というVRを買って、年末年始を過ごすぞ！"
+description: "Meta Quest3 というVRを買って、年末年始を過ごすぞ！皆さんは年末年始の予定はありますか？年越しそば食べたり、おせち食べたり、お汁粉食べたりすると思いますが、私はVRゲームを遊びつくしてみようかなと思います。"
 date: 2023-12-25
 slug: "meta-quest3-vr-buying-guide"
 aliases:

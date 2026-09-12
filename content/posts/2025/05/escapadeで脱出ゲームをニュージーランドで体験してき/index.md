@@ -1,5 +1,6 @@
 ---
 title: "【Escapadeで脱出ゲームを体験してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Escapadeで脱出ゲームを体験してきたよ。I did the escape room at first time in New Zealand. I've never done that in Japan. I tried it…"
 date: 2025-05-31
 slug: "escapade-escape-room-experience"
 aliases:

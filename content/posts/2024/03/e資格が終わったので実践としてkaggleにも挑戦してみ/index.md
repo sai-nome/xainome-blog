@@ -1,5 +1,6 @@
 ---
 title: "E資格が終わったので実践としてKaggleにも挑戦してみよう！"
+description: "E資格が終わったので実践としてKaggleにも挑戦してみよう！G検定に続きE資格も無事取得できたので今度は統計検定準1級やDS検定になるかと思いますが、一旦受験関係はやめてKaggleに挑戦しようと思います。"
 date: 2024-03-13
 slug: "jdla-deep-learning-engineer-exam-kaggle"
 aliases:

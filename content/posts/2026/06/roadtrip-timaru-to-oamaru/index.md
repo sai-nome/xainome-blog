@@ -1,5 +1,7 @@
 ---
 title: "【ロードトリップ ~ Timaru から Oamaruまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+
+description: "ロードトリップ ~ Timaru から Oamaruまで。I am going to write about my road trip from Timaru to Oamaru. I already wrote about…"
 date: 2026-06-14
 slug: "roadtrip-timaru-to-oamaru"
 aliases:

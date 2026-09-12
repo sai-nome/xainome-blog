@@ -1,5 +1,6 @@
 ---
 title: "【ニュージーランドの最南端の絶景スポット(slope point)に行ったよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ニュージーランドの最南端の絶景スポット(slope point)に行ったよ。I went to the southern spot in NZ with my friend. Moreover, we went to other…"
 date: 2026-01-15
 slug: "new-zealand-slope-point-visit"
 aliases:

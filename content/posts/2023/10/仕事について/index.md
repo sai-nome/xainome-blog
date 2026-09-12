@@ -1,5 +1,6 @@
 ---
 title: "仕事について"
+description: "仕事について。私は現在(2023/10/20)、ITエンジニアのSESとして働いています 新卒のころはJavaとSQLを少し触ってましたが、最近はpythonしか触ってないですね……"
 date: 2023-10-20
 slug: "thoughts-about-work"
 aliases:

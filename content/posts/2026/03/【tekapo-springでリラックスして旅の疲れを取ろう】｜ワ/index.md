@@ -1,5 +1,6 @@
 ---
 title: "【Tekapo Springでリラックスして旅の疲れを取ろう】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Tekapo Springでリラックスして旅の疲れを取ろう。There is Hot Spring in Tekapo. It is a little different to Hot Spring. I think it is…"
 date: 2026-03-25
 slug: "tekapo-spring"
 aliases:

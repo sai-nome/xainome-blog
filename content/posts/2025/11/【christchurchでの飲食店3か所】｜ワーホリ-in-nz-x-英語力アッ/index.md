@@ -1,5 +1,6 @@
 ---
 title: "【Christchurchでの飲食店3か所】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Christchurchでの飲食店3か所。I work in peony farm so I can not play video games. I will introduce about some shops in…"
 date: 2025-11-09
 slug: "christchurch-3"
 aliases:

@@ -1,5 +1,6 @@
 ---
 title: "ANTCICADA(アントシカダ)でコオロギラーメンを食べに行きました！"
+description: "ANTCICADA(アントシカダ)でコオロギラーメンを食べに行きました！\"昆虫食\"と聞いて顔をしかめる人は多いと思います。ちなみに私も積極的に食べようとは思いません。"
 date: 2024-02-23
 slug: "antcicada-cricket-ramen-review"
 aliases:

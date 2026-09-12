@@ -1,5 +1,6 @@
 ---
 title: "【アクティビティでIce skatingを楽しんだよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "アクティビティでIce skatingを楽しんだよ。The ice skating rink was set at Aotea square in Auckland. I have never seen it in Japan,…"
 date: 2025-07-03
 slug: "ice-skating-activity-new-zealand"
 aliases:

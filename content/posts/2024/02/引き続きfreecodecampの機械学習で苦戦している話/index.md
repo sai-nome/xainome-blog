@@ -1,5 +1,6 @@
 ---
 title: "引き続きfreeCodeCampの機械学習で苦戦している話"
+description: "引き続きfreeCodeCampの機械学習で苦戦している話。勉強していますか！ 私は引き続きfreeCodeCampで認定証を取れるよう頑張っているのですが、なかなか難しくて苦戦しています。"
 date: 2024-02-28
 slug: "freecodecamp-machine-learning"
 aliases:

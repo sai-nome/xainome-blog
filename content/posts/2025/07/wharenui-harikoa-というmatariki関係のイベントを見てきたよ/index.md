@@ -1,5 +1,6 @@
 ---
 title: "【Wharenui Harikoa というmatariki関係のイベントを楽しんだよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Wharenui Harikoa というmatariki関係のイベントを楽しんだよ。I think this event is similar to a matariki event. Anyway, I joined the…"
 date: 2025-07-13
 slug: "wharenui-harikoa-matariki"
 aliases:

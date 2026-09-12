@@ -1,5 +1,6 @@
 ---
 title: "Waitangi Dayという休日だったのでだらだら遊んできたよ"
+description: "Waitangi Dayという休日だったのでだらだら遊んできたよ。ニュージーランドでは2/6は休日です！Waitangi Dayという日になっています。この日はイギリス王室とマオリの酋長たちが条約を結んだ日らしいです。"
 date: 2025-02-07
 slug: "waitangi-day"
 aliases:

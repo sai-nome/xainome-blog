@@ -1,5 +1,6 @@
 ---
 title: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習後編、開発環境編~"
+description: "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習後編、開発環境編~。深層学習の後編になります。もう一息です。 まずは生成モデルと識別モデルについてです。"
 date: 2024-02-17
 slug: "jdla-deep-learning-engineer-exam-deep-learning-fundamentals-part-2"
 aliases:

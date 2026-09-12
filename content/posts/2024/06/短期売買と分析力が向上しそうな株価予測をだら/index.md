@@ -1,5 +1,6 @@
 ---
 title: "短期売買と分析力が向上しそうな株価予測をだらだらとやる part2"
+description: "短期売買と分析力が向上しそうな株価予測をだらだらとやる part2。前回ティッカーが取れないという話をしたがあれは嘘だ。 pyppeteerを使うといったがあれも嘘だ。"
 date: 2024-06-13
 slug: "stock-price-prediction-part-2"
 aliases:

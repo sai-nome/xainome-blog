@@ -1,5 +1,6 @@
 ---
 title: "【ロードトリップ ~ OkaritoからHokitika,Pictonまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ロードトリップ ~ OkaritoからHokitika,Pictonまで。I wrote the article which was by Okarito so I am going to do from Okarito to…"
 date: 2026-09-01
 slug: "roadtrip-okarito-hokitika-picton"
 aliases:

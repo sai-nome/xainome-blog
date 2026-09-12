@@ -1,5 +1,6 @@
 ---
 title: "【Mt.CookでSealy Tarns Viewpointに行ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "Mt.CookでSealy Tarns Viewpointに行ってきたよ。I am going to write about Mt.Cook. There are 4 hiking courses. One of them is…"
 date: 2026-03-18
 slug: "mt-cook-sealy-tarns-viewpoint-visit"
 aliases:

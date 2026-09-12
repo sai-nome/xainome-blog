@@ -1,5 +1,6 @@
 ---
 title: "短期売買と分析力が向上しそうな株価予測をだらだらとやる part6"
+description: "短期売買と分析力が向上しそうな株価予測をだらだらとやる part6。トレンド系指標の説明変数を追加したところで終わりました。 今回作成したのは RSI RCI 移動平均線乖離率 スローストキャスティクス モメンタムとROC MFI…"
 date: 2024-07-02
 slug: "stock-price-prediction-part-6"
 aliases:

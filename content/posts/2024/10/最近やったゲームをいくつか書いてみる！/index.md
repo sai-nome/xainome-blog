@@ -1,5 +1,6 @@
 ---
 title: "最近やったゲームをいくつか書いてみる！"
+description: "最近やったゲームをいくつか書いてみる！最近ゲームに飽きつつあるのですが、直近でやったゲームを書いてみようと思います。 まずはこちらのゲームで、「LEGAL DUNGEON」を作成したSomiさんの作品になります。"
 date: 2024-10-23
 slug: "recent-games-roundup-october-2024"
 aliases:

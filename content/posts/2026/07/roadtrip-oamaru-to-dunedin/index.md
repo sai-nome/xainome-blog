@@ -1,5 +1,6 @@
 ---
 title: "【ロードトリップ ~ Oamaru から Dunedinまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "ロードトリップ ~ Oamaru から Dunedinまで。I already wrote until Oamaru before so I'm going to write about Dunedin. Actually, I…"
 date: 2026-07-08
 slug: "roadtrip-oamaru-to-dunedin"
 aliases:

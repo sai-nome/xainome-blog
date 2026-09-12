@@ -1,5 +1,6 @@
 ---
 title: "【HanmerSpringsでリラックスしながらプールを楽しむ】｜ワーホリ in NZ × 英語力アップ／IELTS対策"
+description: "HanmerSpringsでリラックスしながらプールを楽しむ。I quitted my job and started a road trip again. I did not have enough time to write…"
 date: 2026-05-31
 slug: "hanmersprings-pools"
 aliases:
