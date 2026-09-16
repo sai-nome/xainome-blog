@@ -2,7 +2,7 @@
 title: "【Staffer Case】超能力がある世界で証拠の矛盾を探す推理ゲームを紹介するよ"
 description: "『Staffer Case:超能力推理アドベンチャー』を紹介。基本画面での会話や調査、ロジック画面で資料を照らし合わせる推理など、ネタバレを避けながらゲームの仕組みと魅力をまとめます。"
 date: 2026-09-16
-draft: true
+draft: false
 slug: "staffer-case-review"
 categories:
   - "ゲーム"
