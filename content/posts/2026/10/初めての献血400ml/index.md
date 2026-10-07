@@ -3,7 +3,7 @@ title: "初めての献血で400mL献血をしてきた｜当日の流れと体�
 description: "初めて献血に行き、400mL献血をしてきました。受付から採血・休憩までの流れ、本人確認の持ち物、採血時間の目安、献血後の注意点を、体験談と日本赤十字社の公式情報を交えて紹介します。"
 date: 2026-10-07
 lastmod: 2026-10-07
-draft: true
+draft: false
 slug: "first-blood-donation-400ml"
 ShowToc: true
 cover:
