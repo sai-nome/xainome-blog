@@ -1,4 +1,4 @@
-baseURL = 'https://xainome-blog.beeskynohito.workers.dev/'
+baseURL = 'https://xainome.blog/'
 title = 'Xainome Blog'
 theme = 'PaperMod'
 defaultContentLanguage = 'ja'
