@@ -1,7 +1,7 @@
 ---
 title: "ConoHaのサーバーを解約しようとして奮闘した話｜自動更新とドメイン移管"
 description: "ConoHaのサーバーを解約しようとしたら自動更新をOFFにできず、問い合わせることに。ドメインの無料更新、クレカ情報の削除後の支払い、WHOIS情報の変更で移管が12月になりそうな話をまとめます。"
-date: 2026-10-14
+date: 2026-10-17
 draft: false
 slug: "conoha-cancellation-domain-transfer"
 ShowToc: true
