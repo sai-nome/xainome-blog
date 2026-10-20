@@ -1,0 +1,19 @@
+{{ $page := .page }}
+<article class="portal-post-card">
+  <a href="{{ $page.RelPermalink }}" class="portal-post-link">
+    {{ $cover := false }}
+    {{ with $page.Params.cover.image }}{{ $cover = $page.Resources.GetMatch . }}{{ end }}
+    {{ if $cover }}
+      {{ $thumb := $cover.Fill "640x360 webp" }}
+      <img class="portal-post-image" src="{{ $thumb.RelPermalink }}" width="640" height="360" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="{{ if .eager }}eager{{ else }}lazy{{ end }}" decoding="async">
+    {{ else }}
+      <div class="portal-post-placeholder" aria-hidden="true">XAINOME <span>JOURNAL</span></div>
+    {{ end }}
+    <div class="portal-post-copy">
+      <div class="portal-post-meta">{{ with .label }}<span class="portal-tag">{{ . }}</span>{{ end }}<time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "2006.01.02" }}</time></div>
+      <h3>{{ $page.Title }}</h3>
+      <p>{{ $page.Description | default ($page.Summary | plainify) | htmlUnescape }}</p>
+      <span class="portal-card-action">記事を読む <span aria-hidden="true">↗</span></span>
+    </div>
+  </a>
+</article>

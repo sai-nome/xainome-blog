@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="portal-home">
+  <header class="portal-intro">
+    <p class="portal-eyebrow">XAINOME / READ & PLAY</p>
+    <h1>日々の記録と、ブラウザゲーム。</h1>
+    <p>旅、暮らし、ブログづくりの記録。ひと息つきたいときは、ゲームもどうぞ。</p>
+    <nav class="portal-shortcuts" aria-label="ホームのコンテンツ">
+      <a href="#latest">最新記事</a><a href="#recommended">おすすめ記事</a><a href="{{ "games/" | relURL }}">ブラウザゲーム <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $posts = where $posts "Params.hiddenInHomeList" "!=" true }}
+  <section class="portal-section" id="latest" aria-labelledby="latest-title">
+    <div class="portal-section-heading"><div><p class="portal-eyebrow">LATEST</p><h2 id="latest-title">最新記事</h2></div><a class="portal-more" href="{{ "posts/" | relURL }}">記事をすべて見る <span aria-hidden="true">→</span></a></div>
+    <div class="portal-post-grid">
+      {{ range $index, $page := first 4 $posts.ByDate.Reverse }}
+        {{ partial "portal/post-card.html" (dict "page" $page "eager" (lt $index 2)) }}
+      {{ end }}
+    </div>
+  </section>
+  <section class="portal-section" id="recommended" aria-labelledby="recommended-title">
+    <div class="portal-section-heading"><div><p class="portal-eyebrow">PICK UP</p><h2 id="recommended-title">おすすめ記事</h2></div><p>まずはこちらから。</p></div>
+    <div class="portal-post-grid">
+      {{ range first 4 hugo.Data.home.recommended }}
+        {{ $item := . }}
+        {{ with site.GetPage .page }}
+          {{ if not .Draft }}{{ partial "portal/post-card.html" (dict "page" . "label" $item.label) }}{{ end }}
+        {{ else }}{{ warnf "Recommended post not found: %s" .page }}{{ end }}
+      {{ end }}
+    </div>
+  </section>
+  <section class="portal-section" id="games" aria-labelledby="games-title">
+    <div class="portal-section-heading"><div><p class="portal-eyebrow">PLAYGROUND</p><h2 id="games-title">ブラウザゲーム</h2></div><a class="portal-more" href="{{ "games/" | relURL }}">ゲーム一覧へ <span aria-hidden="true">→</span></a></div>
+    <p class="portal-section-description">インストール不要。ブラウザーを開いて、そのまま遊べます。</p>
+    <div class="portal-game-grid">
+      {{ with site.GetPage "/games" }}{{ range first 2 .RegularPagesRecursive.ByWeight }}{{ partial "portal/game-card.html" . }}{{ end }}{{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}

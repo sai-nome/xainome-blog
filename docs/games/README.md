@@ -32,6 +32,8 @@ type: "<game-id>"
 weight: 20
 params:
   genre: "パズル"
+  # JSで画面を描画するゲームは、画面の画像を指定できます。
+  # previewImage: "images/preview.webp"
   hiddenInHomeList: true
 ---
 ```

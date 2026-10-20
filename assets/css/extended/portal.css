@@ -1,0 +1,60 @@
+/* Home and game catalogue only. Article pages keep the theme layout. */
+.main:has(.portal-home), .main:has(.games-catalog) { max-width: 1168px; }
+.portal-home, .games-catalog { --portal-accent: #287455; }
+[data-theme="dark"] .portal-home, [data-theme="dark"] .games-catalog { --portal-accent: #9de6bd; }
+.portal-intro { padding: 32px 0 36px; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
+.portal-eyebrow { color: var(--portal-accent); font-size: 12px; font-weight: 700; letter-spacing: .12em; margin: 0 0 10px; }
+.portal-intro h1 { font-size: clamp(28px, 3.6vw, 42px); line-height: 1.45; letter-spacing: -.035em; margin: 0 0 14px; }
+.portal-intro > p:not(.portal-eyebrow) { color: var(--secondary); font-size: 16px; line-height: 1.9; max-width: 760px; }
+.portal-shortcuts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.portal-shortcuts a { padding: 9px 16px; border: 1px solid var(--border); border-radius: 999px; font-size: 14px; background: var(--entry); }
+.portal-shortcuts a:last-child { color: var(--portal-accent); border-color: var(--portal-accent); }
+.portal-section { margin-bottom: 52px; scroll-margin-top: 24px; }
+.portal-section-heading { display: flex; align-items: end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
+.portal-section-heading .portal-eyebrow { margin-bottom: 5px; }
+.portal-section-heading h2 { font-size: 26px; line-height: 1.4; }
+.portal-section-heading > p, .portal-more { font-size: 14px; color: var(--secondary); }
+.portal-more { white-space: nowrap; padding-bottom: 3px; }
+.portal-more:hover, .portal-back:hover { color: var(--portal-accent); }
+.portal-post-grid, .portal-game-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.portal-post-card, .portal-game-card { min-width: 0; overflow: hidden; background: var(--entry); border: 1px solid var(--border); border-radius: 14px; }
+.portal-post-link { display: flex; flex-direction: column; height: 100%; }
+.portal-post-image { width: 100%; aspect-ratio: 16 / 9; height: auto; object-fit: cover; }
+.portal-post-placeholder { aspect-ratio: 16 / 9; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 8px; background: var(--code-bg); color: var(--secondary); font-weight: 700; letter-spacing: .2em; }
+.portal-post-placeholder span { font-size: 12px; font-weight: 400; }
+.portal-post-copy { padding: 20px 22px; display: flex; flex-direction: column; flex: 1; }
+.portal-post-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; min-height: 22px; color: var(--secondary); font-size: 12px; margin-bottom: 10px; }
+.portal-tag { color: var(--portal-accent); font-size: 12px; font-weight: 700; }
+.portal-post-copy h3 { font-size: 20px; line-height: 1.6; margin-bottom: 10px; overflow-wrap: anywhere; }
+.portal-post-copy > p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-size: 14px; line-height: 1.8; color: var(--secondary); margin-bottom: 18px; }
+.portal-card-action { display: flex; justify-content: space-between; color: var(--portal-accent); font-size: 13px; margin-top: auto; }
+.portal-post-link:hover h3 { color: var(--portal-accent); }
+.portal-post-link:focus-visible, .portal-play-button:focus-visible, .portal-preview-link:focus-visible { outline: 3px solid var(--portal-accent); outline-offset: -4px; }
+.portal-section-description { font-size: 15px; color: var(--secondary); margin: -4px 0 22px; line-height: 1.8; }
+.portal-game-grid > .portal-game-card:only-child { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); align-items: center; }
+.portal-game-preview { position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: #101716; }
+.portal-game-preview iframe { position: absolute; top: 0; left: 0; width: 250%; height: 250%; transform: scale(.4); transform-origin: top left; border: 0; pointer-events: none; color-scheme: dark; }
+.portal-game-preview > img { width: 100%; height: 100%; object-fit: cover; }
+.portal-preview-link { position: absolute; inset: 0; display: flex; align-items: end; justify-content: end; padding: 16px; background: linear-gradient(transparent 70%, #0008); }
+.portal-preview-link > span { border: 1px solid #9de6bd66; background: #101716e8; color: #c7f4da; padding: 7px 12px; border-radius: 6px; font-size: 13px; }
+.portal-game-copy { padding: 24px; }
+.portal-game-copy .portal-eyebrow { font-size: 11px; letter-spacing: .08em; }
+.portal-game-copy h3 { font-size: 26px; margin-bottom: 12px; line-height: 1.4; }
+.portal-game-copy > p:not(.portal-eyebrow) { color: var(--secondary); font-size: 15px; line-height: 1.9; }
+.portal-game-footer { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin-top: 24px; }
+.portal-game-footer > span { font-size: 12px; color: var(--secondary); }
+.portal-play-button { background: var(--portal-accent); color: var(--theme); font-size: 14px; font-weight: 700; padding: 10px 20px; border-radius: 6px; }
+.portal-back { display: inline-block; margin-top: 22px; font-size: 14px; color: var(--secondary); }
+@media (max-width: 640px) {
+  .portal-intro { padding-top: 16px; margin-bottom: 30px; }
+  .portal-intro > p:not(.portal-eyebrow) { font-size: 14px; }
+  .portal-post-grid, .portal-game-grid { grid-template-columns: 1fr; gap: 20px; }
+  .portal-section-heading { gap: 10px; }
+  .portal-section-heading h2 { font-size: 23px; }
+  .portal-section-heading > p { display: none; }
+  .portal-more { font-size: 12px; }
+  .portal-post-copy { padding: 18px; }
+  .portal-post-copy h3 { font-size: 18px; }
+  .portal-game-copy { padding: 20px; }
+  .portal-game-grid > .portal-game-card:only-child { display: block; }
+}

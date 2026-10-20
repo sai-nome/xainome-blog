@@ -1,0 +1,19 @@
+<article class="portal-game-card">
+  <div class="portal-game-preview">
+    {{ with .Params.previewImage }}
+      {{ $previewURL := . | relURL }}
+      {{ with $.Resources.GetMatch . }}{{ $previewURL = .RelPermalink }}{{ end }}
+      <img src="{{ $previewURL }}" alt="{{ $.Title }}のゲーム画面" width="1280" height="800" loading="lazy" decoding="async">
+    {{ else }}
+      {{/* Scripts and storage are intentionally unavailable in this visual preview. */}}
+      <iframe src="{{ .RelPermalink }}" title="{{ .Title }}のゲーム画面プレビュー" sandbox="" loading="lazy" tabindex="-1" aria-hidden="true"></iframe>
+    {{ end }}
+    <a class="portal-preview-link" href="{{ .RelPermalink }}" aria-label="{{ .Title }}を遊ぶ"><span>ゲームを開く <span aria-hidden="true">↗</span></span></a>
+  </div>
+  <div class="portal-game-copy">
+    {{ with .Params.genre }}<p class="portal-eyebrow">{{ . }}</p>{{ end }}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Description }}</p>
+    <div class="portal-game-footer"><span>無料 · インストール不要</span><a class="portal-play-button" href="{{ .RelPermalink }}">遊ぶ <span aria-hidden="true">→</span></a></div>
+  </div>
+</article>

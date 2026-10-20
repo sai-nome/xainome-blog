@@ -10,6 +10,12 @@ disableSpecial1stPost = true
 pagerSize = 10
 
 [[menu.main]]
+identifier = 'posts'
+name = '記事一覧'
+url = '/posts/'
+weight = 5
+
+[[menu.main]]
 identifier = 'games'
 name = 'ゲーム'
 url = '/games/'

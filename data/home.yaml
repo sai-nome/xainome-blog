@@ -1,0 +1,10 @@
+# 掲載順に最大4件。記事のcontent配下のパスを指定します。
+recommended:
+  - page: /posts/2026/07/wordpress-hugo-github-cloudflare-pages-guide
+    label: ブログ運営
+  - page: /posts/2026/07/milford-sound-roadtrip-tips
+    label: ニュージーランドの旅
+  - page: /posts/2026/08/staffer-retro-achievements
+    label: ゲームのレビュー
+  - page: /posts/2026/10/chiikiokoshi-wildlife-control
+    label: 暮らしと仕事
