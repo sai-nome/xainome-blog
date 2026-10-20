@@ -21,7 +21,7 @@
   <section class="portal-section" id="recommended" aria-labelledby="recommended-title">
     <div class="portal-section-heading"><div><p class="portal-eyebrow">PICK UP</p><h2 id="recommended-title">おすすめ記事</h2></div><p>まずはこちらから。</p></div>
     <div class="portal-post-grid">
-      {{ range first 4 hugo.Data.home.recommended }}
+      {{ range first 4 site.Data.home.recommended }}
         {{ $item := . }}
         {{ with site.GetPage .page }}
           {{ if not .Draft }}{{ partial "portal/post-card.html" (dict "page" . "label" $item.label) }}{{ end }}
