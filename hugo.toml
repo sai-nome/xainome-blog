@@ -9,6 +9,12 @@ disableSpecial1stPost = true
 [pagination]
 pagerSize = 10
 
+[[menu.main]]
+identifier = 'games'
+name = 'ゲーム'
+url = '/games/'
+weight = 10
+
 [languages]
   [languages.ja]
     locale = 'ja-JP'

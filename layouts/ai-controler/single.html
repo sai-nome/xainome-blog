@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101716">
+  <title>{{ .Title }} | {{ site.Title }}</title>
+  <meta name="description" content="{{ .Description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23101716'/%3E%3Cpath d='M10 29 19 10h3l9 19h-5l-2-5h-8l-2 5m4-9h5l-2-6' fill='%239de6bd'/%3E%3C/svg%3E">
+  {{- $css := resources.Get "games/ai-controler/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{- range slice "engine" "guide" "help-ui" "skill-tree" "skill-tree-ui" "sound" "music" "dialog-ui" "game" }}
+  {{- $js := resources.Get (printf "games/ai-controler/%s.js" .) | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+  {{- end }}
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Xainome Blog ホーム"><span class="brand-icon">x.</span> XAINOME <span class="brand-sub">/ PLAYGROUND</span></a>
+    <nav aria-label="サイトナビゲーション"><a href="{{ "games/" | relURL }}">ゲーム一覧</a><a href="/">ブログに戻る <span aria-hidden="true">↗</span></a><button class="sound-button" id="sound-button" aria-pressed="true">効果音 ON</button><button class="sound-button" id="music-button" aria-pressed="true">BGM ON</button><button type="button" class="sound-button tree-open-button" data-open-tree aria-keyshortcuts="Tab">スキルツリー <kbd>Tab</kbd></button><button class="sound-button" id="help-button" aria-label="ヘルプ・アイテム図鑑を開く">？ ヘルプ</button><button class="icon-button" id="settings-button" aria-label="セーブと設定を開く">⚙</button></nav>
+  </header>
+  <main>
+    <section class="intro">
+      <div><p class="eyebrow"><span class="status-dot"></span> INCREMENTAL MANAGEMENT GAME <span class="version">v0.7</span></p><h1>AI <span>Controler</span><span class="title-period">.</span></h1><p class="intro-copy">小さなPCから、宇宙へ。</p></div>
+      <div class="company-stage"><span class="eyebrow">YOUR COMPANY</span><strong id="stage-name">個人開発者</strong><span id="stage-detail">ひとつのアイデアから、はじまる。</span></div>
+    </section>
+    <section class="resource-strip" aria-label="経営状況">
+      <div class="resource money"><span class="resource-label">◈ <span>保有資金</span><small>ゲーム内通貨</small></span><strong id="money">¥0</strong><span class="positive" id="income">+ ¥0 / 秒</span></div>
+      <div class="resource"><span class="resource-label">▧ 計算能力</span><strong><span id="compute">0</span><small> CP / 秒</small></strong><span id="gpu-summary">GPU 0基</span></div>
+      <div class="resource"><span class="resource-label">ϟ 電力供給</span><strong><span id="power-use">0</span><small> / <span id="power-cap">4</span> kW</small></strong><div class="meter"><i id="power-bar"></i></div></div>
+      <div class="resource"><span class="resource-label">❄ 冷却能力</span><strong><span id="cooling-use">0</span><small> / <span id="cooling-cap">4</span> CU</small></strong><div class="meter blue"><i id="cooling-bar"></i></div></div>
+      <div class="resource"><span class="resource-label">⌘ 研究ポイント</span><strong id="research-points">0 <small>RP</small></strong><span id="research-rate">研究AIで獲得</span></div>
+    </section>
+    <a class="mission-strip" id="space-mission" hidden href="#space-project"><span>最終目標：AIロケットを打ち上げよう。</span><span id="mission-status">設備と研究を育てて、宇宙開発へ ↓</span></a>
+    <div class="dashboard">
+      <div class="primary-column">
+        <section class="panel operations">
+          <div class="panel-heading"><h2><span class="section-number">01</span> オペレーション</h2><span class="live"><span class="status-dot"></span> LIVE</span></div>
+          <div class="operations-body"><div class="manual-work"><p class="eyebrow">EVERY EMPIRE STARTS SMALL</p><h3>まずは、自分の手で。</h3><p>小さな案件をこなして、<br>最初のGPUを手に入れよう。</p><button id="work-button" class="primary-button">案件をこなす <span id="click-reward">+ ¥10</span><span aria-hidden="true">↗</span></button><span class="manual-note">クリックするたびに報酬を獲得。資金でクリック報酬やAIを強化できます。</span><p id="click-upgrade-level" class="subtle">クリック強化 Lv.0 / 5 · 報酬1倍</p><button type="button" class="context-help" data-open-tree="upgrade:click">クリック報酬を強化する ↗</button></div>
+          <div class="server-scene" aria-label="データセンターの稼働イメージ"><div class="scene-grid"></div><div class="scene-caption"><span class="status-dot"></span> <span id="scene-label">SYSTEM STANDBY</span></div><svg viewBox="0 0 400 260" role="img" aria-label="緑のランプが光るサーバーラック"><defs><linearGradient id="floor" x2="1" y2="1"><stop stop-color="#223d32"/><stop offset="1" stop-color="#12241d"/></linearGradient><linearGradient id="front" x2="1" y2="1"><stop stop-color="#314b40"/><stop offset="1" stop-color="#1b2d26"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3"/></filter></defs><path d="m45 185 150-84 163 87-151 83Z" fill="url(#floor)" stroke="#456650"/><path d="m45 185 162 86 151-83v8l-151 84-162-86Z" fill="#15231d"/><g class="rack" transform="translate(94,66)"><path d="m0 25 47-26 53 28-47 26Z" fill="#496355"/><path d="m0 25 53 28v115L0 140Z" fill="url(#front)"/><path d="m53 53 47-26v115l-47 26Z" fill="#14251e"/><g stroke="#547263" stroke-width="1"><path d="m7 44 39 21v20L7 64Z"/><path d="m7 75 39 21v20L7 95Z"/><path d="m7 106 39 21v20L7 126Z"/></g><g fill="#9de6bd" class="server-lights"><ellipse cx="15" cy="56" rx="2" ry="3"/><ellipse cx="15" cy="87" rx="2" ry="3"/><ellipse cx="15" cy="118" rx="2" ry="3"/></g><g stroke="#6c8f79"><path d="m26 60 13 7m-13 24 13 7m-13 24 13 7"/></g></g><g class="rack" transform="translate(194,65)"><path d="m0 25 47-26 53 28-47 26Z" fill="#496355"/><path d="m0 25 53 28v115L0 140Z" fill="url(#front)"/><path d="m53 53 47-26v115l-47 26Z" fill="#14251e"/><g stroke="#547263"><path d="m7 44 39 21v20L7 64Z"/><path d="m7 75 39 21v20L7 95Z"/><path d="m7 106 39 21v20L7 126Z"/></g><g fill="#9de6bd" class="server-lights"><ellipse cx="15" cy="56" rx="2" ry="3"/><ellipse cx="15" cy="87" rx="2" ry="3"/><ellipse cx="15" cy="118" rx="2" ry="3"/></g><g stroke="#6c8f79"><path d="m26 60 13 7m-13 24 13 7m-13 24 13 7"/></g></g><path d="m112 221 33 17 49-27m35 38 40-23" fill="none" stroke="#9de6bd" stroke-width="2" opacity=".7"/><circle cx="112" cy="221" r="3" fill="#9de6bd"/></svg><span class="scene-footer">COMPUTE. BUILD. REPEAT.</span></div></div>
+          <div class="system-notice" id="bottleneck"><span aria-hidden="true">↳</span><span id="bottleneck-text">最初のGPUを購入すると、AIが自動で仕事を始めます。</span></div>
+        </section>
+        <section class="panel ai-panel"><div class="panel-heading"><h2><span class="section-number">02</span> AI ワークスペース</h2><span class="subtle">計算能力を配分する</span></div><div class="allocation-note">稼働中のAIへ、優先度の比率でGPUを共有します。<span id="allocation-total"></span></div><div id="ai-list"></div><div id="code-specialization" class="code-specialization" hidden><div class="industry-title"><h3>Coding AIの担当</h3><span class="tag" id="software-level">制御ソフト Lv.0 / 5</span></div><label for="code-mode">仕事の役割</label><select id="code-mode"><option value="income">バグ修正で収益を得る</option><option value="optimize">工場制御ソフトを開発する</option></select><p>工場改善中はCoding AIの収益案件が止まり、割り当てた計算能力で永続的な生産ボーナスを開発します。担当を切り替えても進捗は残ります。</p><div class="meter"><i id="software-bar"></i></div><p id="software-progress"></p><p class="positive" id="factory-bonus"></p></div></section>
+        <div id="unlocked-panels">
+        {{ partial "games/ai-controler/water.html" . }}
+        <section class="panel factory-panel" id="factory-panel" hidden><div class="panel-heading"><h2><span class="section-number">04</span> マイクロファクトリー</h2><span class="tag" id="factory-state">研究で解放</span></div><p class="panel-description">原料を自動調達して、半導体を自社生産。外部購入から、自給自足へ。</p><div class="production-line"><div><span>Si</span><strong>シリコン</strong><small id="silicon-amount">0 個</small></div><b>+</b><div><span>H₂O</span><strong>高純度水</strong><small id="water-amount">0 L</small></div><b>→</b><div class="chip-output"><span>▧</span><strong>半導体</strong><small id="chip-amount">0 個</small></div></div><div id="factory-controls"></div></section>
+        {{ partial "games/ai-controler/contracts.html" . }}
+        <section class="panel space-project" id="space-project" hidden aria-labelledby="space-title">
+          <div class="panel-heading"><h2 id="space-title"><span class="section-number">06</span> 宇宙開発</h2><span class="tag" id="rocket-status">最後のプロジェクト</span></div>
+          <div class="space-intro"><span aria-hidden="true">↗</span><div><p class="eyebrow">FROM A SMALL DESK TO THE STARS</p><h3>この帝国で、宇宙へ行こう。</h3><p>Rocket AI、Lv.5の自社GPU、そして自分たちの半導体。<br>積み重ねたすべてを、一本のロケットに。</p></div></div>
+          <p class="panel-description" id="rocket-locked">工場を建て、自社GPUを1基組み立てると宇宙開発が利用できます。AI航行システムの開発にはRocket AIの研究・導入が必要です。</p>
+          <div id="rocket-parts"></div>
+          <article class="rocket-part" id="rocket-navigation-panel" aria-labelledby="rocket-navigation-title">
+            <div><span class="section-number">03</span><h3 id="rocket-navigation-title">AI航行システム</h3><span class="tag" id="rocket-part-status-navigation">未開発</span></div>
+            <p>Rocket AIを使って、ロケットの航路を制御するシステムを開発します。</p>
+            <p class="rocket-requirement" id="rocket-requirement-navigation">必要技術：Rocket AIの研究・導入</p>
+            <p class="rocket-cost" id="rocket-cost-navigation">¥60,000 / 500 RP / 半導体10個</p>
+            <button class="secondary-button" id="rocket-build-navigation" data-action="rocket" data-key="navigation" disabled>AI航行システムを開発する ↗</button>
+          </article>
+          <div class="launch-preparation"><h3>打ち上げチェックリスト</h3><ul id="launch-checks"></ul><p>推進システムの水は、水プラントの浄水・再利用、または購入タブの原料セットで補給できます。</p><button class="primary-button" id="launch-button" disabled>ロケットを打ち上げる ↗</button><p id="launch-note">すべての準備が整うと打ち上げ可能になります。成功すると、この物語はひとまず完結します。</p><button class="secondary-button" id="replay-ending" hidden>エンディングをもう一度見る</button></div>
+        </section>
+        </div>
+      </div>
+      <aside class="secondary-column">
+        <section class="panel roadmap"><div class="panel-heading"><h2>次のマイルストーン</h2><span id="milestone-count" class="subtle">01 / 22</span></div><div class="milestone-title"><span id="milestone-icon">↗</span><div><h3 id="milestone-title">最初の自動化</h3><p id="milestone-description">GPUを1基購入する</p></div></div><div class="meter"><i id="milestone-bar"></i></div><span class="subtle" id="milestone-progress">0 / 1 基</span><button type="button" class="context-help" id="milestone-go">次の操作へ ↗</button><div class="milestone-upcoming"><h3>その次の目標</h3><ol id="milestone-upcoming"></ol></div><div class="milestone-optional"><h3>寄り道の目標 <span id="milestone-optional-count"></span></h3><p id="milestone-optional-title"></p><button type="button" class="context-help" id="milestone-optional-go">挑戦する ↗</button></div></section>
+        <section class="activity"><div class="activity-title"><h2>アクティビティ</h2><span class="status-dot"></span></div><ol id="activity-list" aria-label="最近のできごと"></ol></section>
+      </aside>
+    </div>
+    <footer class="game-footer"><span>AI CONTROLER <span class="subtle">/ 小さな一歩が、未来をつくる。</span></span><span id="save-status" role="status">このブラウザに自動保存</span><a href="/">Xainome Blog ↗</a></footer>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  {{ partial "games/ai-controler/help.html" . }}
+  {{ partial "games/ai-controler/skill-tree.html" . }}
+  <dialog id="settings-dialog"><div class="dialog-heading"><h2>セーブと設定</h2><button class="icon-button" data-close="settings-dialog" aria-label="閉じる">×</button></div><p>進行状況は10秒ごとに、このブラウザへ保存します。別端末への移動にはバックアップをご利用ください。</p><div class="sound-settings"><label class="factory-toggle"><input type="checkbox" id="sound-enabled">効果音を鳴らす</label><label for="sound-volume">音量 <output id="sound-volume-value">35%</output></label><input id="sound-volume" type="range" min="0" max="100" value="35"><p class="subtle">最初の操作から音が鳴ります。音量を調整してお楽しみください。</p></div><hr><div class="sound-settings music-settings"><p class="eyebrow">ORBITAL LOUNGE / 60 BPM</p><label class="factory-toggle"><input type="checkbox" id="music-enabled">作業・設定画面でBGMを流す</label><label for="music-volume">BGM音量 <output id="music-volume-value">22%</output></label><input id="music-volume" type="range" min="0" max="100" value="22"><p class="subtle">宇宙船のラウンジをイメージした、ゆったりしたシンセ音楽です。作業中も続けて流れます。右上のBGMボタンで切り替え、効果音とは別に音量を調整できます。</p></div><hr><div class="settings-actions"><button class="secondary-button" id="save-button">今すぐ保存</button><button class="secondary-button" id="export-button">バックアップを書き出す</button><label class="secondary-button import-label">バックアップを読み込む<input id="import-input" type="file" accept="application/json,.json"></label></div><p class="subtle">同時に複数タブで開いた場合は、最初のタブでプレイしてください。ブラウザのデータを消すとセーブも消えます。</p><hr><div class="keyboard-settings"><label class="factory-toggle"><input type="checkbox" id="tree-tab-shortcut" checked>Tabキーでスキルツリーを開閉する</label><p class="subtle">OFFにするとTabキーは通常のフォーカス移動になります。画面上部のボタンからもツリーを開けます。</p></div><hr><button class="secondary-button" id="preview-discovery">はじめての獲得演出を試す</button><p class="subtle">獲得アイテムと初回記録を変更せず、演出だけを再生します。</p><hr><button class="secondary-button" id="preview-ending">打ち上げ・エンディングの演出を試す</button><p class="subtle">プレビューではクリア状態を変更しません。</p><hr><button class="danger-button" id="reset-button">ゲームを最初からやり直す</button></dialog>
+  <dialog id="confirm-dialog"><h2 id="confirm-title">確認</h2><p id="confirm-description"></p><div class="confirm-actions"><button class="secondary-button" id="confirm-cancel">キャンセル</button><button class="primary-button" id="confirm-ok">実行する</button></div></dialog>
+  <dialog id="offline-dialog"><p class="eyebrow">WELCOME BACK</p><h2>おかえりなさい。</h2><p id="offline-description"></p><div class="offline-results" id="offline-results"></div><p class="subtle">最大8時間分の進行を反映しました。</p><button class="primary-button dialog-confirm" data-close="offline-dialog">経営を続ける ↗</button></dialog>
+  <dialog id="discovery-dialog" class="discovery-dialog" aria-labelledby="discovery-title" aria-describedby="discovery-subtitle discovery-detail">
+    <div class="discovery-effects" aria-hidden="true"><div class="discovery-rays"></div><div class="discovery-shockwave"></div><div class="discovery-shockwave second-wave"></div><div id="discovery-particles"></div></div>
+    <div class="discovery-card"><p class="discovery-bang" aria-hidden="true">バーン！</p><p class="eyebrow" id="discovery-label">NEW EQUIPMENT</p><div class="discovery-art" id="discovery-art" aria-hidden="true"></div><p class="discovery-first">FIRST ACQUISITION</p><h2 id="discovery-title" tabindex="-1">GPU</h2><p id="discovery-subtitle"></p><p id="discovery-detail"></p><div id="discovery-explanation" class="discovery-explanation"></div><button class="primary-button" id="discovery-close">いいね！ 経営を続ける ↗</button></div>
+  </dialog>
+  <dialog id="ending-dialog" class="ending-dialog" aria-labelledby="ending-title">
+    <div class="ending-sky" aria-hidden="true"><div class="ending-stars"></div><div class="ending-planet"></div><div class="launch-pad"></div><div class="rocket-vehicle"><svg viewBox="0 0 100 240"><defs><linearGradient id="rocket-body"><stop stop-color="#f4f5e7"/><stop offset="1" stop-color="#7ea999"/></linearGradient></defs><path d="M50 8C31 29 28 48 28 80v100h44V80C72 48 69 29 50 8Z" fill="url(#rocket-body)"/><path d="m28 132-18 39v33l23-22m39-50 18 39v33l-23-22" fill="#74ba9d"/><path d="m38 181-5 15h34l-5-15" fill="#4b6a61"/><circle cx="50" cy="79" r="13" fill="#153d42" stroke="#d2ead6" stroke-width="4"/><path d="M45 110h10v48H45Z" fill="#365f54"/><path class="rocket-flame" d="M36 198Q25 220 50 239Q75 220 64 198Z" fill="#f3c882"/><path class="rocket-flame flame-core" d="M43 198Q38 214 50 229Q62 214 57 198Z" fill="#fff4da"/></svg></div></div>
+    <div class="launch-caption"><p class="eyebrow">PROJECT HORIZON / LAUNCH SEQUENCE</p><strong id="launch-countdown" aria-live="polite">3</strong><p id="launch-caption-text">すべての準備が、いま、ひとつになる。</p></div>
+    <div class="ending-story"><p class="eyebrow" id="ending-mode">MISSION COMPLETE</p><h2 id="ending-title">小さな一歩は、<br>星に届いた。</h2><p>はじまりは、一台のPCと、小さな仕事。<br>足りない電力をつなぎ、熱を逃がし、<br>ひとつずつ、できることを増やしてきた。</p><p>あなたが育てたAIと、あなたがつくった半導体は、<br>いま、まだ見ぬ空へ旅立っていく。</p><p class="ending-thanks">この帝国をつくったのは、あなたです。</p><div class="ending-statistics" id="ending-statistics"></div><div class="ending-credits"><p>AI CONTROLER</p><p>企画・制作　Xainome Blog</p><p>プレイヤー　あなた</p><p>最後まで遊んでくれて、ありがとう。</p><strong>THE END — また、次の未来で。</strong></div><div class="ending-actions"><button class="primary-button" id="ending-close">クリア記録に戻る</button><button class="secondary-button" id="ending-replay">もう一度見る</button></div></div>
+    <button class="secondary-button ending-skip" id="ending-skip">演出をスキップ</button>
+  </dialog>
+  <noscript><div class="noscript">このゲームを遊ぶには、ブラウザのJavaScriptを有効にしてください。</div></noscript>
+</body>
+</html>

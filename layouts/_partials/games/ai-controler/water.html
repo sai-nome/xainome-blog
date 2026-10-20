@@ -1,0 +1,15 @@
+<section class="panel water-panel" id="water-panel" hidden aria-labelledby="water-title">
+  <div class="panel-heading"><h2 id="water-title"><span class="section-number">03</span> 水・冷却プラント</h2><span class="tag">WATER NETWORK</span></div>
+  <p class="panel-description" id="water-locked">Coding AIを導入すると建設・水の購入が解放されます。</p>
+  <p class="panel-description">水冷でGPUの計算能力を高め、浄水・再利用で運転費を抑えます。水の在庫だけでなく、稼ぐ力を育てる設備です。</p>
+  <div class="water-benefits" aria-label="水設備の効果">
+    <div><span>水冷ON／OFFで比較</span><strong id="water-compute-impact"></strong><p id="water-income-impact"></p></div>
+    <div><span>浄水の原料単価</span><strong>¥2 → ¥0.5 / L</strong><p>原水から作ると75%安い。電力設備の投資は別途必要です。</p></div>
+    <div><span>いまの水リサイクル</span><strong id="water-recycle-impact"></strong><p id="water-recycle-value"></p></div>
+  </div>
+  <p class="industry-flow" id="water-buffer-status"></p>
+  <div class="water-stocks"><div><span>原水</span><strong id="raw-water-stock">0 L</strong></div><div><span>高純度水</span><strong id="pure-water-stock">0 L</strong></div><div><span>使用済み水</span><strong id="waste-water-stock">0 L</strong></div></div>
+  <p class="industry-flow" id="water-flow"></p><p class="industry-flow" id="water-cooling-status"></p>
+  <div id="water-equipment" class="water-equipment-grid"></div>
+  <div class="water-management"><label class="factory-toggle"><input type="checkbox" id="auto-raw-water" data-water-toggle="autoRaw">浄水に必要な原水を自動購入する（¥0.4 / L）</label><label class="factory-toggle"><input type="checkbox" id="auto-cooling-water" data-water-toggle="autoWater">水冷で足りない高純度水を自動購入する（¥2 / L）</label><div class="factory-actions"><button id="buy-raw-water" class="secondary-button" data-open-tree="water-raw">購入タブで原水を補充する ↗</button></div><p>水の使用は水冷が優先です。工場は工場欄の自動調達設定に従います。浄水・再利用は「予備100 L＋現在の設備の30秒分」まで自動補充し、満たすと待機します（上限5,000 L）。再利用水を優先し、足りない分を浄水します。使用済み水も5,000 Lまで保持します。設備は停止スイッチで電力を空けられます。</p></div>
+</section>

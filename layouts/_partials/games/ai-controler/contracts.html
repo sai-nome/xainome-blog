@@ -1,0 +1,7 @@
+<section class="panel contracts-panel" id="contracts-panel" hidden aria-labelledby="contracts-title">
+  <div class="panel-heading"><h2 id="contracts-title"><span class="section-number">06</span> 大型案件ボード</h2><span class="tag">SPECIAL CONTRACTS</span></div>
+  <p class="panel-description">通常の仕事と計算能力を分け合って、まとまった報酬を獲得。案件の切り替え・一時停止でも進捗は残ります。</p>
+  <div class="contract-allocation"><p id="contract-active"></p><label for="contract-weight">大型案件の優先度</label><input type="range" id="contract-weight" min="0" max="10" step="1" value="3"><output id="contract-weight-output" for="contract-weight">3 / 10</output><button class="secondary-button" id="contract-pause" data-action="contract-pause">案件を一時停止</button></div>
+  <p class="panel-description">材料は受注時に一度だけ消費します。完了すると待機に戻り、再受注は手動です。初回特典は各案件につき一度だけ獲得できます。</p>
+  <div id="contract-list"></div>
+</section>

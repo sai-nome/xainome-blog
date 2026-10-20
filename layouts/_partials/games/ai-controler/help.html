@@ -1,0 +1,28 @@
+<dialog id="help-dialog" class="help-dialog" aria-labelledby="help-title">
+  <div class="help-header"><div class="dialog-heading"><h2 id="help-title">ヘルプ・アイテム図鑑</h2><button class="icon-button" data-close="help-dialog" aria-label="ヘルプを閉じる">×</button></div><p>「何が手に入る？」「何に使う？」「次に何をする？」を、現在の会社の状態と一緒に確認できます。</p><button type="button" class="context-help" id="help-show-controls">操作説明を見る</button><label for="help-search">知りたいアイテム・操作を検索</label><input id="help-search" type="search" placeholder="例：半導体、工場、制御ソフト、水" autocomplete="off"><nav class="help-categories" aria-label="ヘルプの分類"><button id="help-all" type="button">すべて</button><button type="button" data-help-category="資源の使い道">資源</button><button type="button" data-help-category="設備">設備</button><button type="button" data-help-category="AIと仕事">AI</button><button type="button" data-help-category="工場と改善">工場・制御ソフト</button><button type="button" data-help-category="水と冷却">水・冷却</button><button type="button" data-help-category="大型案件">大型案件</button><button type="button" data-help-category="宇宙開発">ロケット</button></nav><p id="help-count" role="status" aria-live="polite"></p></div>
+  <section class="help-controls" id="help-controls" aria-labelledby="help-controls-title">
+    <p class="eyebrow">WELCOME / CONTROLS</p><h3 id="help-controls-title" tabindex="-1">小さな案件から、AI企業を育てよう</h3>
+    <figure class="tree-howto"><div class="tree-howto-image"><svg viewBox="0 0 760 300" role="img" aria-labelledby="tree-howto-title tree-howto-desc">
+      <title id="tree-howto-title">スキルツリーの枠をクリックして購入・強化する操作例</title><desc id="tree-howto-desc">Tabで開いたスキルツリーには「購入」「強化」のタブに設備・AI・強化の枠が並びます。マウスポインターが購入GPUの枠をクリックしています。グレーの枠は条件や資金が不足しています。</desc>
+      <rect x="1" y="1" width="758" height="298" rx="12" fill="#102017" stroke="#678772"/><path d="M1 56h758" stroke="#4f6e58"/>
+      <text x="24" y="36" font-size="22" fill="#e6f5e8">スキルツリー</text><rect x="205" y="14" width="64" height="30" rx="5" fill="#365740" stroke="#b8dfb1"/><text x="219" y="35" font-size="17" fill="#e9ffed">購入</text><rect x="280" y="14" width="64" height="30" rx="5" fill="#24372b"/><text x="294" y="35" font-size="17" fill="#bed0c3">強化</text><text x="370" y="36" font-size="16" fill="#b6cfbd">操作例：所持金 ¥100</text><rect x="610" y="16" width="122" height="28" rx="5" fill="#294535"/><text x="628" y="36" font-size="17" fill="#daf0df">Tabで開く</text>
+      <g font-size="17" fill="#b7d8bf"><text x="24" y="89">基本設備</text><text x="276" y="89">AI</text><text x="528" y="89">水・冷却設備</text></g>
+      <rect x="24" y="108" width="208" height="132" rx="8" fill="#1b3b47" stroke="#b2e1ff" stroke-width="3"/>
+      <g fill="#e8f5ff"><text x="42" y="141" font-size="21">購入GPU</text><text x="42" y="176" font-size="19">¥100</text><text x="42" y="216" font-size="17">購入可</text></g>
+      <path d="M235 174h35" stroke="#86bc97" stroke-width="2"/><path d="m264 168 8 6-8 6" fill="none" stroke="#86bc97" stroke-width="2"/>
+      <rect x="276" y="108" width="208" height="132" rx="8" fill="#292f2b" stroke="#5d6860"/>
+      <g fill="#aab4ad"><text x="294" y="141" font-size="21">Text AI</text><text x="294" y="176" font-size="19">¥0</text><text x="294" y="216" font-size="17">導入済み</text></g>
+      <rect x="528" y="108" width="208" height="132" rx="8" fill="#292f2b" stroke="#5d6860"/>
+      <g fill="#aab4ad"><text x="546" y="141" font-size="20">浄水設備</text><text x="546" y="176" font-size="19">¥350</text><text x="546" y="216" font-size="17">前提未達</text></g>
+      <g stroke="#ffe2a2" fill="none" stroke-width="3"><circle cx="189" cy="201" r="23"/><path d="M189 164v-10m-27 20-8-8m-4 35h-10m22 27-8 8m61-62 8-8"/></g>
+      <path d="m187 194 5 65 16-18 19 27 15-10-19-27 24-6Z" fill="#f5f9ef" stroke="#112d1c" stroke-width="3"/>
+      <text x="276" y="275" font-size="19" fill="#ffe2a2">枠内をクリックすると購入・強化できます</text>
+    </svg></div><figcaption>① Tabでツリーを開く → ②「購入」「強化」を選ぶ → ③ 費用・条件を確認して枠をクリック。グレーの枠は詳細で不足条件を確認できます。</figcaption></figure>
+    <p>クリックで¥100を集め、スキルツリーで「購入GPU」の枠をクリックして1基導入。AIが自動で収益を稼ぎ始めます。</p>
+    <p>スキルツリーの「強化」タブで資金を使って強化できます。クリック報酬は最大6倍、AIの処理速度は最大225%。どちらも5段階です。</p><dl class="control-list"><div><dt><kbd>Tab</kbd></dt><dd>いつでもスキルツリーを開閉。「購入」タブで設備・AI・原料を購入し、「強化」タブでクリック・AI・研究を進めます。AIは導入費の安い順に上から並んでいます。</dd></div><div><dt><kbd>矢印</kbd>・クリック</dt><dd>矢印キーで項目を選び、右側で条件・費用・効果を確認できます。「購入可」「強化可」の枠をクリック、またはEnterを押すと、その場で購入・研究・増設します。条件が不足している枠では説明を表示します。</dd></div><div><dt><kbd>Esc</kbd></dt><dd>開いている画面を閉じて戻ります。表示枠の外側をクリックしても閉じられます。ツリーは背景のドラッグ・スクロール・＋／−で移動と拡大縮小ができます。</dd></div><div><dt>優先度スライダー</dt><dd>AIに計算能力を配分します。研究がほしいときはResearch AIへ。0にすると担当を停止します。</dd></div></dl>
+    <p class="subtle">文字入力中のTab、Shift＋Tabは通常の項目移動です。設定でTabショートカットをOFFにすると、通常のキーボード操作に戻せます。</p>
+    <div class="help-start-actions"><button type="button" class="primary-button" id="help-begin" data-close="help-dialog">はじめる・ゲームに戻る ↗</button><button type="button" class="secondary-button" data-open-tree="buy:gpu">スキルツリーを見てみる <kbd>Tab</kbd></button></div>
+  </section>
+  <div class="help-route"><h3>最初はこの順番で進めよう</h3><ol><li><button type="button" data-help="work">クリック案件</button>で資金を集め、<button type="button" data-help="buy:gpu">GPU</button>でAIの自動収益を始める。</li><li><button type="button" data-help="unlock:research">Research AI</button>でRPを集め、<button type="button" data-help="research:manufacturing">半導体製造技術</button>を研究する。</li><li><button type="button" data-help="factory">工場</button>でシリコンと水を半導体に変え、<button type="button" data-help="assemble">GPU組立</button>や大型案件の材料に使う。</li><li><button type="button" data-help="gpu-upgrade">自社GPUをLv.5へ強化して8基以上設置</button>し、<button type="button" data-help="rocket-ai">Rocket AI</button>を研究して、<button type="button" data-help="launch">ロケット打ち上げ</button>へ。</li></ol></div>
+  <div id="help-topics"></div>
+</dialog>
