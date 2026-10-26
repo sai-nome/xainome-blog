@@ -1,0 +1,11 @@
+/* Keep this article's screenshots proportional on narrow screens. */
+.md-content .codex-game-screenshot img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* This supplied cover is 420px wide; avoid stretching it to the article width. */
+.entry-cover img[src*="codex-incremental-game-dolphin-cover"] {
+  max-width: 420px;
+  margin-inline: auto;
+}

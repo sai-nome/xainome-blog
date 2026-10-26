@@ -4,8 +4,13 @@
     {{ $cover := false }}
     {{ with $page.Params.cover.image }}{{ $cover = $page.Resources.GetMatch . }}{{ end }}
     {{ if $cover }}
-      {{ $thumb := $cover.Fill "640x360 webp" }}
-      <img class="portal-post-image" src="{{ $thumb.RelPermalink }}" width="640" height="360" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="{{ if .eager }}eager{{ else }}lazy{{ end }}" decoding="async">
+      {{/* Fit the crop within the original pixels instead of enlarging small covers. */}}
+      {{ $thumbWidth := int (math.Min 640 $cover.Width) }}
+      {{ $thumbWidth = int (math.Min $thumbWidth (math.Floor (div (mul $cover.Height 16.0) 9.0))) }}
+      {{ $thumbWidth = int (math.Max 1 $thumbWidth) }}
+      {{ $thumbHeight := int (math.Max 1 (math.Floor (div (mul $thumbWidth 9.0) 16.0))) }}
+      {{ $thumb := $cover.Fill (printf "%dx%d webp" $thumbWidth $thumbHeight) }}
+      <img class="portal-post-image" src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $page.Params.cover.alt | default $page.Title }}" loading="{{ if .eager }}eager{{ else }}lazy{{ end }}" decoding="async">
     {{ else }}
       <div class="portal-post-placeholder" aria-hidden="true">XAINOME <span>JOURNAL</span></div>
     {{ end }}
