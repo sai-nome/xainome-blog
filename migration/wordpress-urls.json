@@ -1,0 +1,2126 @@
+{
+  "source": "WordPress.2026-10-31.xml",
+  "sha256": "83a53236f10686a82f21c67c50a1cf77a136cf3bf5fe60fe866234aaa551197e",
+  "records": [
+    {
+      "id": "1",
+      "type": "post",
+      "title": "このブログについて",
+      "oldUrl": "https://xainome.blog/hello-world/",
+      "contentFile": "content/posts/2023/10/hello-world/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3",
+      "type": "page",
+      "title": "プライバシーポリシー(Privacy Policy)",
+      "oldUrl": "https://xainome.blog/privacy-policy/",
+      "contentFile": "content/pages/2023-10-18-privacy-policy/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "14",
+      "type": "post",
+      "title": "仕事について",
+      "oldUrl": "https://xainome.blog/%e4%bb%95%e4%ba%8b%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "contentFile": "content/posts/2023/10/仕事について/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "18",
+      "type": "post",
+      "title": "読書を始めたきっかけ",
+      "oldUrl": "https://xainome.blog/%e8%aa%ad%e6%9b%b8%e3%82%92%e5%a7%8b%e3%82%81%e3%81%9f%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91/",
+      "contentFile": "content/posts/2023/10/読書を始めたきっかけ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "22",
+      "type": "post",
+      "title": "筋トレを始めました！",
+      "oldUrl": "https://xainome.blog/%e7%ad%8b%e3%83%88%e3%83%ac%e3%82%92%e3%81%97%e5%a7%8b%e3%82%81%e3%81%9f%ef%bc%81/",
+      "contentFile": "content/posts/2023/10/筋トレをし始めた！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "25",
+      "type": "post",
+      "title": "髭脱毛をやってきた！",
+      "oldUrl": "https://xainome.blog/%e9%ab%ad%e8%84%b1%e6%af%9b%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%ef%bc%81/",
+      "contentFile": "content/posts/2023/10/髭脱毛をやってきた！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "30",
+      "type": "post",
+      "title": "今更Chat-GPTの有料版に課金してプラグインで遊んでます",
+      "oldUrl": "https://xainome.blog/%e4%bb%8a%e6%9b%b4chat-gpt%e3%81%ae%e6%9c%89%e6%96%99%e7%89%88%e3%81%ab%e8%aa%b2%e9%87%91%e3%81%97%e3%81%a6%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%a7%e9%81%8a%e3%82%93%e3%81%a7%e3%81%be/",
+      "contentFile": "content/posts/2023/10/今更chat-gptの有料版に課金してプラグインで遊んでま/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "40",
+      "type": "post",
+      "title": "E資格の試験勉強を再開し始めました！",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e3%81%ae%e8%a9%a6%e9%a8%93%e5%8b%89%e5%bc%b7%e3%82%92%e5%86%8d%e9%96%8b%e3%81%97%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/",
+      "contentFile": "content/posts/2023/10/e資格の試験勉強を再開し始めました！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "43",
+      "type": "post",
+      "title": "1ヵ月前に始めたStone Story RPGというゲームについて",
+      "oldUrl": "https://xainome.blog/1%e3%83%b5%e6%9c%88%e5%89%8d%e3%81%ab%e5%a7%8b%e3%82%81%e3%81%9fstone-story-rpg%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "contentFile": "content/posts/2023/11/1ヵ月前に始めたstone-story-rpgというゲームについて/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "45",
+      "type": "post",
+      "title": "parquetファイルの中身はVSCODEの拡張機能 Data Wranglerで見れる！",
+      "oldUrl": "https://xainome.blog/vscode%e3%81%ae%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd-data-wrangler%e3%81%a7parquet%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%81%ae%e4%b8%ad%e8%ba%ab%e3%81%8c%e8%a6%8b%e3%82%8c%e3%82%8b%ef%bc%81/",
+      "contentFile": "content/posts/2023/11/vscodeの拡張機能-data-wranglerでparquetファイルの中身が見れる！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "50",
+      "type": "post",
+      "title": "Mirrativeという配信アプリでちぇいんくろにくるローグをやってます",
+      "oldUrl": "https://xainome.blog/mirrative%e3%81%a8%e3%81%84%e3%81%86%e9%85%8d%e4%bf%a1%e3%82%a2%e3%83%97%e3%83%aa%e3%81%a7%e3%81%a1%e3%81%87%e3%81%84%e3%82%93%e3%81%8f%e3%82%8d%e3%81%ab%e3%81%8f%e3%82%8b%e3%83%ad%e3%83%bc%e3%82%b0/",
+      "contentFile": "content/posts/2023/11/mirrativeという配信アプリでちぇいんくろにくるローグ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "72",
+      "type": "post",
+      "title": "副業でGCPの案件をやりそうなので勉強中です",
+      "oldUrl": "https://xainome.blog/%e5%89%af%e6%a5%ad%e3%81%a7gcp%e3%81%ae%e6%a1%88%e4%bb%b6%e3%82%92%e3%82%84%e3%82%8a%e3%81%9d%e3%81%86%e3%81%aa%e3%81%ae%e3%81%a7%e5%8b%89%e5%bc%b7%e4%b8%ad%e3%81%a7%e3%81%99/",
+      "contentFile": "content/posts/2023/11/副業でgcpの案件をやりそうなので勉強中です/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "81",
+      "type": "post",
+      "title": "GPTsを使って1からGCPを触ってみたよ",
+      "oldUrl": "https://xainome.blog/gpts%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a61%e3%81%8b%e3%82%89gcp%e3%82%92%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2023/11/gptsを使って1からgcpを触ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "92",
+      "type": "post",
+      "title": "キャリア・アンカーという仕事をするタイプを診断してみたよ",
+      "oldUrl": "https://xainome.blog/%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%83%bb%e3%82%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%81%a8%e3%81%84%e3%81%86%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%82%bf%e3%82%a4%e3%83%97%e3%82%92%e8%a8%ba/",
+      "contentFile": "content/posts/2023/11/キャリア・アンカーという仕事をするタイプを診/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "94",
+      "type": "post",
+      "title": "GASを使って勤怠管理の提出を忘れないようにしたい！",
+      "oldUrl": "https://xainome.blog/gas%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e5%8b%a4%e6%80%a0%e7%ae%a1%e7%90%86%e3%81%ae%e6%8f%90%e5%87%ba%e3%82%92%e5%bf%98%e3%82%8c%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%ab%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2023/12/gasを使って勤怠管理の提出を忘れないようにした/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "116",
+      "type": "page",
+      "title": "記事一覧（サイトマップ）",
+      "oldUrl": "https://xainome.blog/%e8%a8%98%e4%ba%8b%e4%b8%80%e8%a6%a7%ef%bc%88%e3%82%b5%e3%82%a4%e3%83%88%e3%83%9e%e3%83%83%e3%83%97%ef%bc%89/",
+      "contentFile": "content/pages/2024-08-11-記事一覧（サイトマップ）/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "117",
+      "type": "page",
+      "title": "お問い合わせ",
+      "oldUrl": "https://xainome.blog/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/",
+      "contentFile": "content/pages/2024-08-11-お問い合わせ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "127",
+      "type": "post",
+      "title": "遺伝子検査で自分の特性や先祖を調べて新たな発見をしてみよう！",
+      "oldUrl": "https://xainome.blog/%e9%81%ba%e4%bc%9d%e5%ad%90%e6%a4%9c%e6%9f%bb%e3%81%a7%e8%87%aa%e5%88%86%e3%81%ae%e7%89%b9%e6%80%a7%e3%82%84%e5%85%88%e7%a5%96%e3%82%92%e8%aa%bf%e3%81%b9%e3%81%a6%e6%96%b0%e3%81%9f%e3%81%aa%e7%99%ba/",
+      "contentFile": "content/posts/2023/12/遺伝子検査で自分の特性や先祖を調べて新たな発/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "137",
+      "type": "post",
+      "title": "Omega Crafterというスクラッチを取り入れたベータ版のゲームで遊んでみたよ",
+      "oldUrl": "https://xainome.blog/omega-crafter%e3%81%a8%e3%81%84%e3%81%86%e3%82%b9%e3%82%af%e3%83%a9%e3%83%83%e3%83%81%e3%82%92%e5%8f%96%e3%82%8a%e5%85%a5%e3%82%8c%e3%81%9f%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88%e3%81%ae%e3%82%b2/",
+      "contentFile": "content/posts/2023/12/omega-crafterというスクラッチを取り入れたベータ版のゲ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "142",
+      "type": "post",
+      "title": "GitHubに今更創作物を登録してみました",
+      "oldUrl": "https://xainome.blog/github%e3%81%ab%e4%bb%8a%e6%9b%b4%e5%89%b5%e4%bd%9c%e7%89%a9%e3%82%92%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%a6%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2023/12/githubに今更創作物を登録してみました/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "147",
+      "type": "post",
+      "title": "動画編集ソフトでAviutlを使っています",
+      "oldUrl": "https://xainome.blog/%e5%8b%95%e7%94%bb%e7%b7%a8%e9%9b%86%e3%82%bd%e3%83%95%e3%83%88%e3%81%a7aviutl%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99/",
+      "contentFile": "content/posts/2023/12/動画編集ソフトでaviutlを使っています/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "154",
+      "type": "post",
+      "title": "Meta Quest3 というVRを買って、年末年始を過ごすぞ！",
+      "oldUrl": "https://xainome.blog/meta-quest3-%e3%81%a8%e3%81%84%e3%81%86vr%e3%82%92%e8%b2%b7%e3%81%a3%e3%81%a6%e3%80%81%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%82%92%e9%81%8e%e3%81%94%e3%81%99%e3%81%9e%ef%bc%81/",
+      "contentFile": "content/posts/2023/12/meta-quest3-というvrを買って、年末年始を過ごすぞ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "161",
+      "type": "post",
+      "title": "転職メールの管理をBardにやらせたら楽になるのではと試行錯誤したやつ",
+      "oldUrl": "https://xainome.blog/%e8%bb%a2%e8%81%b7%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ae%e7%ae%a1%e7%90%86%e3%82%92bard%e3%81%ab%e3%82%84%e3%82%89%e3%81%9b%e3%81%9f%e3%82%89%e6%a5%bd%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%a7/",
+      "contentFile": "content/posts/2023/12/転職メールの管理をbardにやらせたら楽になるので/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "199",
+      "type": "post",
+      "title": "新年のご挨拶",
+      "oldUrl": "https://xainome.blog/%e6%96%b0%e5%b9%b4%e3%81%ae%e3%81%94%e6%8c%a8%e6%8b%b6/",
+      "contentFile": "content/posts/2024/01/新年のご挨拶/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "203",
+      "type": "post",
+      "title": "日本人向けに作られた性格テストで自身の性格をより正確に知ろう！",
+      "oldUrl": "https://xainome.blog/%e6%97%a5%e6%9c%ac%e4%ba%ba%e5%90%91%e3%81%91%e3%81%ab%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%9f%e6%80%a7%e6%a0%bc%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e8%87%aa%e8%ba%ab%e3%81%ae%e6%80%a7%e6%a0%bc%e3%82%92/",
+      "contentFile": "content/posts/2024/01/日本人向けに作られた性格テストで自身の性格を/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "205",
+      "type": "post",
+      "title": "Claude(クロード)という新しい生成AIを触ってみたよ",
+      "oldUrl": "https://xainome.blog/claude%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%e3%81%a8%e3%81%84%e3%81%86%e6%96%b0%e3%81%97%e3%81%84%e7%94%9f%e6%88%90ai%e3%82%92%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2024/01/claudeクロードという新しい生成aiを触ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "214",
+      "type": "post",
+      "title": "E資格まで後1ヵ月なので頑張ろう！",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e3%81%be%e3%81%a7%e5%be%8c1%e3%83%b5%e6%9c%88%e3%81%aa%e3%81%ae%e3%81%a7%e9%a0%91%e5%bc%b5%e3%82%8d%e3%81%86%ef%bc%81/",
+      "contentFile": "content/posts/2024/01/e資格まで後1ヵ月なので頑張ろう！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "221",
+      "type": "post",
+      "title": "生成AIでプロンプトを使うときに大切な26項目",
+      "oldUrl": "https://xainome.blog/%e7%94%9f%e6%88%90ai%e3%81%a7%e3%83%97%e3%83%ad%e3%83%b3%e3%83%97%e3%83%88%e3%82%92%e4%bd%bf%e3%81%86%e3%81%a8%e3%81%8d%e3%81%ab%e5%a4%a7%e5%88%87%e3%81%aa26%e9%a0%85%e7%9b%ae/",
+      "contentFile": "content/posts/2024/01/生成aiでプロンプトを使うときに大切な26項目/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "224",
+      "type": "post",
+      "title": "Gemini-proを使って簡単なチャットボットを作ってみよう！",
+      "oldUrl": "https://xainome.blog/gemini-pro%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%e3%81%aa%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%83%9c%e3%83%83%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86/",
+      "contentFile": "content/posts/2024/01/gemini-proを使って簡単なチャットボットを作ってみよう/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "235",
+      "type": "post",
+      "title": "遺伝子検査の結果が返ってきたのでどんなものか見てみよう！",
+      "oldUrl": "https://xainome.blog/%e9%81%ba%e4%bc%9d%e5%ad%90%e6%a4%9c%e6%9f%bb%e3%81%ae%e7%b5%90%e6%9e%9c%e3%81%8c%e8%bf%94%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%a9%e3%82%93%e3%81%aa%e3%82%82%e3%81%ae%e3%81%8b/",
+      "contentFile": "content/posts/2024/01/遺伝子検査の結果が返ってきたのでどんなものか/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "244",
+      "type": "post",
+      "title": "Python3.12で仮想環境を整え、Open Interpreterを使って少し苦戦した話",
+      "oldUrl": "https://xainome.blog/python3-12%e3%81%a7%e4%bb%ae%e6%83%b3%e7%92%b0%e5%a2%83%e3%82%92%e6%95%b4%e3%81%88%e3%80%81open-interpreter%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e5%b0%91%e3%81%97%e8%8b%a6%e6%88%a6%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2024/01/python3-12で仮想環境を整え、open-interpreterを使って少し苦戦した/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "255",
+      "type": "post",
+      "title": "AWSCloudQuestでゲーム感覚でAWSを触ってみよう！",
+      "oldUrl": "https://xainome.blog/awscloudquest%e3%81%a7%e3%82%b2%e3%83%bc%e3%83%a0%e6%84%9f%e8%a6%9a%e3%81%a7aws%e3%82%92%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%ef%bc%81/",
+      "contentFile": "content/posts/2024/01/awscloudquestでゲーム感覚でawsを触ってみよう！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "275",
+      "type": "post",
+      "title": "Google Cloudで生成AIやクラウドの使い方に関するゲームで遊んでみよう！",
+      "oldUrl": "https://xainome.blog/google-cloud%e3%81%a7%e7%94%9f%e6%88%90ai%e3%82%84%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%a7/",
+      "contentFile": "content/posts/2024/02/google-cloudで生成aiやクラウドの使い方に関するゲームで/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "282",
+      "type": "post",
+      "title": "低温調理で健康にいい料理を作り始めた話",
+      "oldUrl": "https://xainome.blog/%e4%bd%8e%e6%b8%a9%e8%aa%bf%e7%90%86%e3%81%a7%e5%81%a5%e5%ba%b7%e3%81%ab%e3%81%84%e3%81%84%e6%96%99%e7%90%86%e3%82%92%e4%bd%9c%e3%82%8a%e5%a7%8b%e3%82%81%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2024/02/低温調理で健康にいい料理を作り始めた話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "287",
+      "type": "post",
+      "title": "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 応用数学と機械学習編 ~",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e5%8f%97%e9%a8%93%e5%89%8d%e3%81%aa%e3%81%ae%e3%81%a7%e5%be%a9%e7%bf%92%e3%81%8c%e3%81%a6%e3%82%89%e5%ad%a6%e3%82%93%e3%81%a0%e3%81%93%e3%81%a8%e3%82%92%e3%81%96%e3%81%a3%e3%81%8f/",
+      "contentFile": "content/posts/2024/02/e資格受験前なので復習がてら学んだことをざっく/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "291",
+      "type": "post",
+      "title": "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習前編 ~",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e5%8f%97%e9%a8%93%e5%89%8d%e3%81%aa%e3%81%ae%e3%81%a7%e5%be%a9%e7%bf%92%e3%81%8c%e3%81%a6%e3%82%89%e5%ad%a6%e3%82%93%e3%81%a0%e3%81%93%e3%81%a8%e3%82%92%e3%81%96%e3%81%a3-2/",
+      "contentFile": "content/posts/2024/02/e資格受験前なので復習がてら学んだことをざっ-2/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "299",
+      "type": "post",
+      "title": "E資格受験前なので復習がてら学んだことをざっくり振り返る ~ 深層学習後編、開発環境編~",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e5%8f%97%e9%a8%93%e5%89%8d%e3%81%aa%e3%81%ae%e3%81%a7%e5%be%a9%e7%bf%92%e3%81%8c%e3%81%a6%e3%82%89%e5%ad%a6%e3%82%93%e3%81%a0%e3%81%93%e3%81%a8%e3%82%92%e3%81%96%e3%81%a3-3/",
+      "contentFile": "content/posts/2024/02/e資格受験前なので復習がてら学んだことをざっ-3/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "307",
+      "type": "post",
+      "title": "E資格お疲れさまでした！合格したかどうか五分五分…",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e3%81%8a%e7%96%b2%e3%82%8c%e3%81%95%e3%81%be%e3%81%a7%e3%81%97%e3%81%9f%ef%bc%81%e5%90%88%e6%a0%bc%e3%81%97%e3%81%9f%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b%e4%ba%94%e5%88%86%e4%ba%94/",
+      "contentFile": "content/posts/2024/02/e資格お疲れさまでした！合格したかどうか五分五/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "312",
+      "type": "post",
+      "title": "ANTCICADA(アントシカダ)でコオロギラーメンを食べに行きました！",
+      "oldUrl": "https://xainome.blog/antcicada%e3%82%a2%e3%83%b3%e3%83%88%e3%82%b7%e3%82%ab%e3%83%80%e3%81%a7%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%82%92%e9%a3%9f%e3%81%b9%e3%81%ab%e8%a1%8c%e3%81%8d/",
+      "contentFile": "content/posts/2024/02/antcicadaアントシカダでコオロギラーメンを食べに行き/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "318",
+      "type": "post",
+      "title": "freeCodeCampというサイトで認定証でも取ってみる話",
+      "oldUrl": "https://xainome.blog/freecodecamp%e3%81%a8%e3%81%84%e3%81%86%e3%82%b5%e3%82%a4%e3%83%88%e3%81%a7%e8%aa%8d%e5%ae%9a%e8%a8%bc%e3%81%a7%e3%82%82%e5%8f%96%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b%e8%a9%b1/",
+      "contentFile": "content/posts/2024/02/freecodecampというサイトで認定証でも取ってみる話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "328",
+      "type": "post",
+      "title": "引き続きfreeCodeCampの機械学習で苦戦している話",
+      "oldUrl": "https://xainome.blog/%e5%bc%95%e3%81%8d%e7%b6%9a%e3%81%8dfreecodecamp%e3%81%ae%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%81%a7%e8%8b%a6%e6%88%a6%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e8%a9%b1/",
+      "contentFile": "content/posts/2024/02/引き続きfreecodecampの機械学習で苦戦している話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "334",
+      "type": "post",
+      "title": "セキュリティを学ぶことができる\"TryHackMe\"で遊んでみたよ！",
+      "oldUrl": "https://xainome.blog/%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%92%e5%ad%a6%e3%81%b6%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8btryhackme%e3%81%a7%e9%81%8a%e3%82%93%e3%81%a7%e3%81%bf/",
+      "contentFile": "content/posts/2024/03/セキュリティを学ぶことができるtryhackmeで遊んでみ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "341",
+      "type": "post",
+      "title": "ヨーグルトメーカーで無限にヨーグルトを作って健康を意識する！",
+      "oldUrl": "https://xainome.blog/%e3%83%a8%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%88%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%a7%e7%84%a1%e9%99%90%e3%81%ab%e3%83%a8%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%88%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6/",
+      "contentFile": "content/posts/2024/03/ヨーグルトメーカーで無限にヨーグルトを作って/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "344",
+      "type": "post",
+      "title": "常駐先のPCでPythonの仮想環境構築って必要なの？",
+      "oldUrl": "https://xainome.blog/%e5%b8%b8%e9%a7%90%e5%85%88%e3%81%aepc%e3%81%a7python%e3%81%ae%e4%bb%ae%e6%83%b3%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%81%a3%e3%81%a6%e5%bf%85%e8%a6%81%e3%81%aa%e3%81%ae%ef%bc%9f/",
+      "contentFile": "content/posts/2024/03/常駐先のpcでpythonの仮想環境構築って必要なの？/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "347",
+      "type": "post",
+      "title": "pythonの仮想環境構築をいくつかやったので使ってみた感想を書く",
+      "oldUrl": "https://xainome.blog/python%e3%81%ae%e4%bb%ae%e6%83%b3%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%82%92%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e3%82%84%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf/",
+      "contentFile": "content/posts/2024/03/pythonの仮想環境構築をいくつかやったので使ってみ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "350",
+      "type": "post",
+      "title": "E資格（エンジニア資格）2024#1に無事合格したのでそれまでの話をつらつらと",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%ef%bc%88%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e8%b3%87%e6%a0%bc%ef%bc%8920241%e3%81%ab%e7%84%a1%e4%ba%8b%e5%90%88%e6%a0%bc%e3%81%97%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%9d/",
+      "contentFile": "content/posts/2024/03/e資格（エンジニア資格）20241に無事合格したのでそ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "355",
+      "type": "post",
+      "title": "E資格が終わったので実践としてKaggleにも挑戦してみよう！",
+      "oldUrl": "https://xainome.blog/e%e8%b3%87%e6%a0%bc%e3%81%8c%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e5%ae%9f%e8%b7%b5%e3%81%a8%e3%81%97%e3%81%a6kaggle%e3%81%ab%e3%82%82%e6%8c%91%e6%88%a6%e3%81%97%e3%81%a6%e3%81%bf/",
+      "contentFile": "content/posts/2024/03/e資格が終わったので実践としてkaggleにも挑戦してみ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "358",
+      "type": "post",
+      "title": "仕事でミスが発生した場合、何を考えるか？どう対応するか？",
+      "oldUrl": "https://xainome.blog/%e4%bb%95%e4%ba%8b%e3%81%a7%e3%83%9f%e3%82%b9%e3%81%8c%e7%99%ba%e7%94%9f%e3%81%97%e3%81%9f%e5%a0%b4%e5%90%88%e3%80%81%e4%bd%95%e3%82%92%e8%80%83%e3%81%88%e3%82%8b%e3%81%8b%ef%bc%9f%e3%81%a9%e3%81%86/",
+      "contentFile": "content/posts/2024/03/仕事でミスが発生した場合、何を考えるか？どう/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "361",
+      "type": "post",
+      "title": "Kaggleをとりあえず触ってみて少しづつ予測や分類を理解していくぞ！",
+      "oldUrl": "https://xainome.blog/kaggle%e3%82%92%e3%81%a8%e3%82%8a%e3%81%82%e3%81%88%e3%81%9a%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%a6%e5%b0%91%e3%81%97%e3%81%a5%e3%81%a4%e4%ba%88%e6%b8%ac%e3%82%84%e5%88%86%e9%a1%9e%e3%82%92/",
+      "contentFile": "content/posts/2024/03/kaggleをとりあえず触ってみて少しづつ予測や分類を/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "366",
+      "type": "post",
+      "title": "Kaggleのスコアを少しずつ上げていってる話",
+      "oldUrl": "https://xainome.blog/kaggle%e3%81%ae%e3%82%b9%e3%82%b3%e3%82%a2%e3%82%92%e5%b0%91%e3%81%97%e3%81%9a%e3%81%a4%e4%b8%8a%e3%81%92%e3%81%a6%e3%81%84%e3%81%a3%e3%81%a6%e3%82%8b%e8%a9%b1/",
+      "contentFile": "content/posts/2024/03/kaggleのスコアを少しずつ上げていってる話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "375",
+      "type": "post",
+      "title": "たまにはゲームに夢中になってだらけてもいいんじゃない？",
+      "oldUrl": "https://xainome.blog/%e3%81%9f%e3%81%be%e3%81%ab%e3%81%af%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ab%e5%a4%a2%e4%b8%ad%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%a0%e3%82%89%e3%81%91%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%82%93/",
+      "contentFile": "content/posts/2024/03/たまにはゲームに夢中になってだらけてもいいん/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "378",
+      "type": "post",
+      "title": "生成AIのさらなる進化と今後の仕事について",
+      "oldUrl": "https://xainome.blog/%e7%94%9f%e6%88%90ai%e3%81%ae%e3%81%95%e3%82%89%e3%81%aa%e3%82%8b%e9%80%b2%e5%8c%96%e3%81%a8%e4%bb%8a%e5%be%8c%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "contentFile": "content/posts/2024/03/生成aiのさらなる進化と今後の仕事について/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "383",
+      "type": "post",
+      "title": "最近の生成AIを3つほど試してみたよ！",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e3%81%ae%e7%94%9f%e6%88%90ai%e3%82%923%e3%81%a4%e3%81%bb%e3%81%a9%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/03/最近の生成aiを3つほど試してみたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "388",
+      "type": "post",
+      "title": "やっていたKaggleのコンペが終わったので少し振り返る",
+      "oldUrl": "https://xainome.blog/%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9fkaggle%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%9a%e3%81%8c%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e5%b0%91%e3%81%97%e6%8c%af%e3%82%8a%e8%bf%94/",
+      "contentFile": "content/posts/2024/04/やっていたkaggleのコンペが終わったので少し振り返/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "391",
+      "type": "post",
+      "title": "いつの間にか配信されてたOmega Crafterをプレイしたら2日で前回のプレイ記録を超えていた！なんなら9割終わった",
+      "oldUrl": "https://xainome.blog/%e3%81%84%e3%81%a4%e3%81%ae%e9%96%93%e3%81%ab%e3%81%8b%e9%85%8d%e4%bf%a1%e3%81%95%e3%82%8c%e3%81%a6%e3%81%9fomega-crafter%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%9f%e3%82%892%e6%97%a5/",
+      "contentFile": "content/posts/2024/04/いつの間にか配信されてたomega-crafterをプレイしたら2日/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "420",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part1",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae/",
+      "contentFile": "content/posts/2024/04/ragを開発してみたい！ので簡単なものでもいいの/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "436",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part2",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-2/",
+      "contentFile": "content/posts/2024/04/ragを開発してみたい！ので簡単なものでもいいの-2/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "444",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part3",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-3/",
+      "contentFile": "content/posts/2024/04/ragを開発してみたい！ので簡単なものでもいいの-3/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "449",
+      "type": "post",
+      "title": "The Planet Crafterで星をテラフォーミングする！",
+      "oldUrl": "https://xainome.blog/the-planet-crafter%e3%81%a7%e6%98%9f%e3%82%92%e3%83%86%e3%83%a9%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b%ef%bc%81/",
+      "contentFile": "content/posts/2024/04/the-planet-crafterで星をテラフォーミングする！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "453",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part4",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-4/",
+      "contentFile": "content/posts/2024/04/ragを開発してみたい！ので簡単なものでもいいの-4/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "461",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part5",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-5/",
+      "contentFile": "content/posts/2024/04/ragを開発してみたい！ので簡単なものでもいいの-5/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "467",
+      "type": "post",
+      "title": "PC故障したので開発を中断しています",
+      "oldUrl": "https://xainome.blog/pc%e6%95%85%e9%9a%9c%e3%81%97%e3%81%9f%e3%81%ae%e3%81%a7%e9%96%8b%e7%99%ba%e3%82%92%e4%b8%ad%e6%96%ad%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99/",
+      "contentFile": "content/posts/2024/04/pc故障したので開発を中断しています/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "473",
+      "type": "post",
+      "title": "自身のサイトのパフォーマンスを上げていこう！",
+      "oldUrl": "https://xainome.blog/%e8%87%aa%e8%ba%ab%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%82%92%e4%b8%8a%e3%81%92%e3%81%a6%e3%81%84%e3%81%93%e3%81%86%ef%bc%81/",
+      "contentFile": "content/posts/2024/04/自身のサイトのパフォーマンスを上げていこう！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "491",
+      "type": "post",
+      "title": "惑星をテラフォーミングする ~ 完 ~",
+      "oldUrl": "https://xainome.blog/%e6%83%91%e6%98%9f%e3%82%92%e3%83%86%e3%83%a9%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b-%e5%ae%8c/",
+      "contentFile": "content/posts/2024/04/惑星をテラフォーミングする-完/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "498",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part6",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-6/",
+      "contentFile": "content/posts/2024/05/ragを開発してみたい！ので簡単なものでもいいの-6/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "501",
+      "type": "post",
+      "title": "最近発売された\"SAND LAND(サンドランド)\"をプレイしてるよ",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e7%99%ba%e5%a3%b2%e3%81%95%e3%82%8c%e3%81%9fsand-land%e3%82%b5%e3%83%b3%e3%83%89%e3%83%a9%e3%83%b3%e3%83%89%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%a6%e3%82%8b/",
+      "contentFile": "content/posts/2024/05/最近発売されたsand-landサンドランドをプレイしてる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "513",
+      "type": "post",
+      "title": "知人が見つかったらしい",
+      "oldUrl": "https://xainome.blog/%e7%9f%a5%e4%ba%ba%e3%81%8c%e8%a6%8b%e3%81%a4%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%89%e3%81%97%e3%81%84/",
+      "contentFile": "content/posts/2024/05/知人が見つかったらしい/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "518",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part7",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-7/",
+      "contentFile": "content/posts/2024/05/ragを開発してみたい！ので簡単なものでもいいの-7/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "523",
+      "type": "post",
+      "title": "今度は私が失踪する番！",
+      "oldUrl": "https://xainome.blog/%e4%bb%8a%e5%ba%a6%e3%81%af%e7%a7%81%e3%81%8c%e5%a4%b1%e8%b8%aa%e3%81%99%e3%82%8b%e7%95%aa%ef%bc%81/",
+      "contentFile": "content/posts/2024/05/今度は私が失踪する番！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "528",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part8",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-8/",
+      "contentFile": "content/posts/2024/05/ragを開発してみたい！ので簡単なものでもいいの-8/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "560",
+      "type": "post",
+      "title": "サンドランドの実績コンプ！",
+      "oldUrl": "https://xainome.blog/%e3%82%b5%e3%83%b3%e3%83%89%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%b3%e3%83%b3%e3%83%97%ef%bc%81/",
+      "contentFile": "content/posts/2024/05/サンドランドの実績コンプ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "566",
+      "type": "post",
+      "title": "ラチェット＆クランク パラレル・トラブルをクリアしました！",
+      "oldUrl": "https://xainome.blog/%e3%83%a9%e3%83%81%e3%82%a7%e3%83%83%e3%83%88%ef%bc%86%e3%82%af%e3%83%a9%e3%83%b3%e3%82%af-%e3%83%91%e3%83%a9%e3%83%ac%e3%83%ab%e3%83%bb%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%e3%82%92%e3%82%af%e3%83%aa/",
+      "contentFile": "content/posts/2024/05/ラチェット＆クランク-パラレル・トラブルをクリ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "571",
+      "type": "post",
+      "title": "オープンソースのLLMアプリ開発プラットフォーム\"Dify\"を使ってみたよ",
+      "oldUrl": "https://xainome.blog/%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%81%aellm%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0dify/",
+      "contentFile": "content/posts/2024/05/オープンソースのllmアプリ開発プラットフォームdify/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "572",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part9",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-9/",
+      "contentFile": "content/posts/2024/05/ragを開発してみたい！ので簡単なものでもいいの-9/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "601",
+      "type": "post",
+      "title": "RAGを開発してみたい！ので簡単なものでもいいので作ってみよう！part10 完",
+      "oldUrl": "https://xainome.blog/rag%e3%82%92%e9%96%8b%e7%99%ba%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81%e3%81%ae%e3%81%a7%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%84%e3%81%84%e3%81%ae-10/",
+      "contentFile": "content/posts/2024/05/ragを開発してみたい！ので簡単なものでもいいの-10/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "612",
+      "type": "post",
+      "title": "自分が作ったAIが赤の他人のAIとSNSでやり取りする姿は面白い",
+      "oldUrl": "https://xainome.blog/%e8%87%aa%e5%88%86%e3%81%8c%e4%bd%9c%e3%81%a3%e3%81%9fai%e3%81%8c%e8%b5%a4%e3%81%ae%e4%bb%96%e4%ba%ba%e3%81%aeai%e3%81%a8sns%e3%81%a7%e3%82%84%e3%82%8a%e5%8f%96%e3%82%8a%e3%81%99%e3%82%8b%e5%a7%bf/",
+      "contentFile": "content/posts/2024/06/自分が作ったaiが赤の他人のaiとsnsでやり取りする姿/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "623",
+      "type": "post",
+      "title": "ニューラルネットワークの仕組みを理解しているかテストするためのゲームで遊ぶ",
+      "oldUrl": "https://xainome.blog/%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a9%e3%83%ab%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%81%ae%e4%bb%95%e7%b5%84%e3%81%bf%e3%82%92%e7%90%86%e8%a7%a3%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b/",
+      "contentFile": "content/posts/2024/06/ニューラルネットワークの仕組みを理解している/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "635",
+      "type": "post",
+      "title": "最近読んだ\"プログラマー脳\"はプログラムを書く人は読んだほうが関わる人全員が幸せになる話だった",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e8%aa%ad%e3%82%93%e3%81%a0%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc%e8%84%b3%e3%81%af%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0%e3%82%92%e6%9b%b8%e3%81%8f/",
+      "contentFile": "content/posts/2024/06/最近読んだプログラマー脳はプログラムを書く/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "638",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part1",
+      "oldUrl": "https://xainome.blog/%e3%81%8a%e9%87%91%e3%81%8b%e3%81%a3%e3%81%9b%e3%81%8e%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%82%92%e4%b8%8a%e3%81%92%e3%82%89%e3%82%8c%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac/",
+      "contentFile": "content/posts/2024/06/お金かっせぎと分析力を上げられそうな株価予測/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "641",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part2",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89/",
+      "contentFile": "content/posts/2024/06/短期売買と分析力が向上しそうな株価予測をだら/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "654",
+      "type": "post",
+      "title": "WordPressにパスキーを導入してセキュリティ意識を高めよう！",
+      "oldUrl": "https://xainome.blog/wordpress%e3%81%ab%e3%83%91%e3%82%b9%e3%82%ad%e3%83%bc%e3%82%92%e5%b0%8e%e5%85%a5%e3%81%97%e3%81%a6%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e6%84%8f%e8%ad%98%e3%82%92%e9%ab%98%e3%82%81/",
+      "contentFile": "content/posts/2024/06/wordpressにパスキーを導入してセキュリティ意識を高め/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "684",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part3",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-2/",
+      "contentFile": "content/posts/2024/06/短期売買と分析力が向上しそうな株価予測をだら-2/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "693",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part4",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-3/",
+      "contentFile": "content/posts/2024/06/短期売買と分析力が向上しそうな株価予測をだら-3/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "722",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part5",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-4/",
+      "contentFile": "content/posts/2024/06/短期売買と分析力が向上しそうな株価予測をだら-4/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "743",
+      "type": "post",
+      "title": "MRI検査を初見で受けてきたよ",
+      "oldUrl": "https://xainome.blog/mri%e6%a4%9c%e6%9f%bb%e3%82%92%e5%88%9d%e8%a6%8b%e3%81%a7%e5%8f%97%e3%81%91%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2024/06/mri検査を初見で受けてきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "746",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part6",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-5/",
+      "contentFile": "content/posts/2024/07/短期売買と分析力が向上しそうな株価予測をだら-5/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "750",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part7",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-6/",
+      "contentFile": "content/posts/2024/07/短期売買と分析力が向上しそうな株価予測をだら-6/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "755",
+      "type": "post",
+      "title": "最近あった出来事をだらだらと",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e3%81%82%e3%81%a3%e3%81%9f%e5%87%ba%e6%9d%a5%e4%ba%8b%e3%82%92%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e3%81%a8/",
+      "contentFile": "content/posts/2024/07/最近あった出来事をだらだらと/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "769",
+      "type": "post",
+      "title": "最近やったゲームをつらつらと",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e3%82%84%e3%81%a3%e3%81%9f%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%81%a4%e3%82%89%e3%81%a4%e3%82%89%e3%81%a8/",
+      "contentFile": "content/posts/2024/07/最近やったゲームをつらつらと/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "777",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part8",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-7/",
+      "contentFile": "content/posts/2024/07/短期売買と分析力が向上しそうな株価予測をだら-7/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "789",
+      "type": "post",
+      "title": "新しいプラグインをいくつか導入してみた！",
+      "oldUrl": "https://xainome.blog/%e6%96%b0%e3%81%97%e3%81%84%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e5%b0%8e%e5%85%a5%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%81/",
+      "contentFile": "content/posts/2024/07/新しいプラグインをいくつか導入してみた！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "815",
+      "type": "post",
+      "title": "投資信託を売却しようとしたら数日かかるのを知らなかった話",
+      "oldUrl": "https://xainome.blog/%e6%8a%95%e8%b3%87%e4%bf%a1%e8%a8%97%e3%82%92%e5%a3%b2%e5%8d%b4%e3%81%97%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%82%89%e6%95%b0%e6%97%a5%e3%81%8b%e3%81%8b%e3%82%8b%e3%81%ae%e3%82%92%e7%9f%a5/",
+      "contentFile": "content/posts/2024/07/投資信託を売却しようとしたら数日かかるのを知/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1020",
+      "type": "post",
+      "title": "短期売買と分析力が向上しそうな株価予測をだらだらとやる part9",
+      "oldUrl": "https://xainome.blog/%e7%9f%ad%e6%9c%9f%e5%a3%b2%e8%b2%b7%e3%81%a8%e5%88%86%e6%9e%90%e5%8a%9b%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e6%a0%aa%e4%be%a1%e4%ba%88%e6%b8%ac%e3%82%92%e3%81%a0%e3%82%89-8/",
+      "contentFile": "content/posts/2024/07/短期売買と分析力が向上しそうな株価予測をだら-8/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1087",
+      "type": "post",
+      "title": "祇（くにつがみ）：Path of the Goddessの実績をコンプしたぞ！",
+      "oldUrl": "https://xainome.blog/%e7%a5%87%ef%bc%88%e3%81%8f%e3%81%ab%e3%81%a4%e3%81%8c%e3%81%bf%ef%bc%89%ef%bc%9apath-of-the-goddess%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%92%e3%82%b3%e3%83%b3%e3%83%97%e3%81%97%e3%81%9f%e3%81%9e%ef%bc%81/",
+      "contentFile": "content/posts/2024/07/祇（くにつがみ）：path-of-the-goddessの実績をコンプしたぞ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1092",
+      "type": "post",
+      "title": "会社に退職する意向を伝えた話",
+      "oldUrl": "https://xainome.blog/%e4%bc%9a%e7%a4%be%e3%81%ab%e9%80%80%e8%81%b7%e3%81%99%e3%82%8b%e6%84%8f%e5%90%91%e3%82%92%e4%bc%9d%e3%81%88%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2024/07/会社に退職する意向を伝えた話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1100",
+      "type": "post",
+      "title": "SageMakerエンドポイントを利用してモデル管理を調べた話",
+      "oldUrl": "https://xainome.blog/sagemaker%e3%82%a8%e3%83%b3%e3%83%89%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92%e5%88%a9%e7%94%a8%e3%81%97%e3%81%a6%e3%83%a2%e3%83%87%e3%83%ab%e3%83%91%e3%83%83%e3%82%b1%e3%83%bc%e3%82%b8%e3%82%92/",
+      "contentFile": "content/posts/2024/08/sagemakerエンドポイントを利用してモデルパッケージを/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1120",
+      "type": "post",
+      "title": "面白そうなサイトを2つほど紹介してみるよ",
+      "oldUrl": "https://xainome.blog/%e9%9d%a2%e7%99%bd%e3%81%9d%e3%81%86%e3%81%aa%e3%82%b5%e3%82%a4%e3%83%88%e3%82%922%e3%81%a4%e3%81%bb%e3%81%a9%e7%b4%b9%e4%bb%8b%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%82%88/",
+      "contentFile": "content/posts/2024/08/面白そうなサイトを2つほど紹介してみるよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1163",
+      "type": "page",
+      "title": "サイノメのプロフィール/自己紹介_2024/08/10",
+      "oldUrl": "https://xainome.blog/%e3%82%b5%e3%82%a4%e3%83%8e%e3%83%a1%e3%81%ae%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b_2024-08-10/",
+      "contentFile": "content/pages/2024-08-10-サイノメのプロフィール-自己紹介_2024-08-10/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1194",
+      "type": "post",
+      "title": "ウェブサイトを少しづつ改修している話",
+      "oldUrl": "https://xainome.blog/%e3%82%a6%e3%82%a7%e3%83%96%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e5%b0%91%e3%81%97%e3%81%a5%e3%81%a4%e6%94%b9%e4%bf%ae%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e8%a9%b1/",
+      "contentFile": "content/posts/2024/08/ウェブサイトを少しづつ改修している話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1209",
+      "type": "post",
+      "title": "東洋文庫ミュージアムを満喫した話",
+      "oldUrl": "https://xainome.blog/%e6%9d%b1%e6%b4%8b%e6%96%87%e5%ba%ab%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%a2%e3%83%a0%e3%82%92%e6%ba%80%e5%96%ab%e3%81%97%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2024/08/東洋文庫ミュージアムを満喫した話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1223",
+      "type": "post",
+      "title": "昆虫展に行ってきたよ！国立科学博物館",
+      "oldUrl": "https://xainome.blog/%e6%98%86%e8%99%ab%e5%b1%95%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81%e5%9b%bd%e7%ab%8b%e7%a7%91%e5%ad%a6%e5%8d%9a%e7%89%a9%e9%a4%a8/",
+      "contentFile": "content/posts/2024/08/昆虫展に行ってきたよ！国立科学博物館/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1284",
+      "type": "post",
+      "title": "PrefectとBigQueryを使っているので現状やったことを書いてみる",
+      "oldUrl": "https://xainome.blog/prefect%e3%81%a8bigquery%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e7%8f%be%e7%8a%b6%e3%82%84%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92%e6%9b%b8%e3%81%84%e3%81%a6/",
+      "contentFile": "content/posts/2024/08/prefectとbigqueryを使っているので現状やったことを書いて/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1299",
+      "type": "post",
+      "title": "最近行った美味しい料理を紹介してみる",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e8%a1%8c%e3%81%a3%e3%81%9f%e7%be%8e%e5%91%b3%e3%81%97%e3%81%84%e6%96%99%e7%90%86%e3%82%92%e7%b4%b9%e4%bb%8b%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/",
+      "contentFile": "content/posts/2024/08/最近行った美味しい料理を紹介してみる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1314",
+      "type": "post",
+      "title": "人間っぽいふるまいをするスクレイピングを検討した話",
+      "oldUrl": "https://xainome.blog/%e4%ba%ba%e9%96%93%e3%81%a3%e3%81%bd%e3%81%84%e3%81%b5%e3%82%8b%e3%81%be%e3%81%84%e3%82%92%e3%81%99%e3%82%8b%e3%82%b9%e3%82%af%e3%83%ac%e3%82%a4%e3%83%94%e3%83%b3%e3%82%b0%e3%82%92%e6%a4%9c%e8%a8%8e/",
+      "contentFile": "content/posts/2024/08/人間っぽいふるまいをするスクレイピングを検討/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1322",
+      "type": "post",
+      "title": "救国のスネジンカ: Sentinel Girls2をクリアしたよ",
+      "oldUrl": "https://xainome.blog/%e6%95%91%e5%9b%bd%e3%81%ae%e3%82%b9%e3%83%8d%e3%82%b8%e3%83%b3%e3%82%ab-sentinel-girls2%e3%82%92%e3%82%af%e3%83%aa%e3%82%a2%e3%81%97%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2024/09/救国のスネジンカ-sentinel-girls2をクリアしたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1335",
+      "type": "post",
+      "title": "電動歯ブラシを使うことで歯に関する問題はほぼ消えた話",
+      "oldUrl": "https://xainome.blog/%e9%9b%bb%e5%8b%95%e6%ad%af%e3%83%96%e3%83%a9%e3%82%b7%e3%82%92%e4%bd%bf%e3%81%86%e3%81%93%e3%81%a8%e3%81%a7%e6%ad%af%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e5%95%8f%e9%a1%8c%e3%81%af%e3%81%bb%e3%81%bc/",
+      "contentFile": "content/posts/2024/09/電動歯ブラシを使うことで歯に関する問題はほぼ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1347",
+      "type": "post",
+      "title": "豆狸バケルの実績を無事コンプできたよ！",
+      "oldUrl": "https://xainome.blog/%e8%b1%86%e7%8b%b8%e3%83%90%e3%82%b1%e3%83%ab%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%92%e7%84%a1%e4%ba%8b%e3%82%b3%e3%83%b3%e3%83%97%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/09/豆狸バケルの実績を無事コンプできたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1372",
+      "type": "post",
+      "title": "古代オリエント博物館にいってきたよ！",
+      "oldUrl": "https://xainome.blog/%e5%8f%a4%e4%bb%a3%e3%82%aa%e3%83%aa%e3%82%a8%e3%83%b3%e3%83%88%e5%8d%9a%e7%89%a9%e9%a4%a8%e3%81%ab%e3%81%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/09/古代オリエント博物館にいってきたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1385",
+      "type": "post",
+      "title": "機械学習の無料講座をGoogleが出しているので受けてみたよ",
+      "oldUrl": "https://xainome.blog/%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%81%ae%e7%84%a1%e6%96%99%e8%ac%9b%e5%ba%a7%e3%82%92google%e3%81%8c%e5%87%ba%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e5%8f%97%e3%81%91%e3%81%a6/",
+      "contentFile": "content/posts/2024/09/機械学習の無料講座をgoogleが出しているので受けて/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1401",
+      "type": "post",
+      "title": "Caravan Sandwitchの実績を全部取得したよ！",
+      "oldUrl": "https://xainome.blog/caravan-sandwitch%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%92%e5%85%a8%e9%83%a8%e5%8f%96%e5%be%97%e3%81%97%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/09/caravan-sandwitchの実績を全部取得したよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1421",
+      "type": "post",
+      "title": "最近読んだ本をいくつか紹介する_2024/09/24",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e8%aa%ad%e3%82%93%e3%81%a0%e6%9c%ac%e3%82%92%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e7%b4%b9%e4%bb%8b%e3%81%99%e3%82%8b_2024-09-24/",
+      "contentFile": "content/posts/2024/09/最近読んだ本をいくつか紹介する_2024-09-24/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1422",
+      "type": "post",
+      "title": "偽猫物語(COPYCAT)をクリアしたよ！",
+      "oldUrl": "https://xainome.blog/%e5%81%bd%e7%8c%ab%e7%89%a9%e8%aa%9ecopycat%e3%82%92%e3%82%af%e3%83%aa%e3%82%a2%e3%81%97%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/09/偽猫物語copycatをクリアしたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1442",
+      "type": "post",
+      "title": "自身の健康のためにやっていること、変えたこと",
+      "oldUrl": "https://xainome.blog/%e8%87%aa%e8%ba%ab%e3%81%ae%e5%81%a5%e5%ba%b7%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%93%e3%81%a8%e3%80%81%e5%a4%89%e3%81%88%e3%81%9f%e3%81%93%e3%81%a8/",
+      "contentFile": "content/posts/2024/09/自身の健康のためにやっていること、変えたこと/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1450",
+      "type": "post",
+      "title": "Github Copilotを使わずVSCodeにContinueを入れて使ってみる",
+      "oldUrl": "https://xainome.blog/github-copilot%e3%82%92%e4%bd%bf%e3%82%8f%e3%81%9avscode%e3%81%abcontinue%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b/",
+      "contentFile": "content/posts/2024/09/github-copilotを使わずvscodeにcontinueを入れて使ってみる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1477",
+      "type": "post",
+      "title": "日本はパスポート最強国ではなくなったみたい",
+      "oldUrl": "https://xainome.blog/%e6%97%a5%e6%9c%ac%e3%81%af%e3%83%91%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%88%e6%9c%80%e5%bc%b7%e5%9b%bd%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%bf%e3%81%9f%e3%81%84/",
+      "contentFile": "content/posts/2024/10/日本はパスポート最強国ではなくなったみたい/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1504",
+      "type": "post",
+      "title": "CrimeSceneCleanerをプレイしてみたよ！",
+      "oldUrl": "https://xainome.blog/crimescenecleaner%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/10/crimescenecleanerをプレイしてみたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1512",
+      "type": "post",
+      "title": "llma-cpp-pythonを使って今更ローカルでLLMを動かしてみるよ！",
+      "oldUrl": "https://xainome.blog/llma-cpp-python%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e4%bb%8a%e6%9b%b4%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e3%81%a7llm%e3%82%92%e5%8b%95%e3%81%8b%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/10/llma-cpp-pythonを使って今更ローカルでllmを動かしてみるよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1521",
+      "type": "post",
+      "title": "東京国立博物館に行ってきたよ！",
+      "oldUrl": "https://xainome.blog/%e6%9d%b1%e4%ba%ac%e5%9b%bd%e7%ab%8b%e5%8d%9a%e7%89%a9%e9%a4%a8%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/10/東京国立博物館に行ってきたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1542",
+      "type": "post",
+      "title": "Europaの実績を全て取ったよ！",
+      "oldUrl": "https://xainome.blog/europa%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%92%e5%85%a8%e3%81%a6%e5%8f%96%e3%81%a3%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/10/europaの実績を全て取ったよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1700",
+      "type": "post",
+      "title": "ここから何処への感想 ~舞台ミリしらの私が初めて見に行った話~",
+      "oldUrl": "https://xainome.blog/%e3%81%93%e3%81%93%e3%81%8b%e3%82%89%e4%bd%95%e5%87%a6%e3%81%b8%e3%81%ae%e6%84%9f%e6%83%b3-%e8%88%9e%e5%8f%b0%e3%83%9f%e3%83%aa%e3%81%97%e3%82%89%e3%81%ae%e7%a7%81%e3%81%8c%e5%88%9d%e3%82%81%e3%81%a6/",
+      "contentFile": "content/posts/2024/10/ここから何処への感想-舞台ミリしらの私が初めて/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1714",
+      "type": "post",
+      "title": "最近やったゲームをいくつか書いてみる！",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e3%82%84%e3%81%a3%e3%81%9f%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%bf%e3%82%8b%ef%bc%81/",
+      "contentFile": "content/posts/2024/10/最近やったゲームをいくつか書いてみる！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1727",
+      "type": "post",
+      "title": "簿記の勉強を暇なタイミングやる！世界でも使えそうかも？",
+      "oldUrl": "https://xainome.blog/%e7%b0%bf%e8%a8%98%e3%81%ae%e5%8b%89%e5%bc%b7%e3%82%92%e6%9a%87%e3%81%aa%e3%82%bf%e3%82%a4%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%84%e3%82%8b%ef%bc%81%e4%b8%96%e7%95%8c%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%88/",
+      "contentFile": "content/posts/2024/10/簿記の勉強を暇なタイミングやる！世界でも使え/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1739",
+      "type": "post",
+      "title": "「モネ 睡蓮のとき」に行って美術ミシしらを脱却したかも？",
+      "oldUrl": "https://xainome.blog/%e3%80%8c%e3%83%a2%e3%83%8d-%e7%9d%a1%e8%93%ae%e3%81%ae%e3%81%a8%e3%81%8d%e3%80%8d%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e7%be%8e%e8%a1%93%e3%83%9f%e3%82%b7%e3%81%97%e3%82%89%e3%82%92%e8%84%b1%e5%8d%b4/",
+      "contentFile": "content/posts/2024/10/「モネ-睡蓮のとき」に行って美術ミシしらを脱却/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1760",
+      "type": "post",
+      "title": "簿記3級の前半が終わったので整理がてら記事を書いてみる",
+      "oldUrl": "https://xainome.blog/%e7%b0%bf%e8%a8%983%e7%b4%9a%e3%81%ae%e5%89%8d%e5%8d%8a%e3%81%8c%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e6%95%b4%e7%90%86%e3%81%8c%e3%81%a6%e3%82%89%e8%a8%98%e4%ba%8b%e3%82%92%e6%9b%b8/",
+      "contentFile": "content/posts/2024/11/簿記3級の前半が終わったので整理がてら記事を書/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1774",
+      "type": "post",
+      "title": "特別展_鳥 ～ゲノム解析が解き明かす新しい鳥類の系統～見たよ！",
+      "oldUrl": "https://xainome.blog/%e7%89%b9%e5%88%a5%e5%b1%95_%e9%b3%a5-%ef%bd%9e%e3%82%b2%e3%83%8e%e3%83%a0%e8%a7%a3%e6%9e%90%e3%81%8c%e8%a7%a3%e3%81%8d%e6%98%8e%e3%81%8b%e3%81%99%e6%96%b0%e3%81%97%e3%81%84%e9%b3%a5%e9%a1%9e%e3%81%ae/",
+      "contentFile": "content/posts/2024/11/特別展_鳥-～ゲノム解析が解き明かす新しい鳥類の/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1833",
+      "type": "post",
+      "title": "ヒンターベルクのダンジョンを遊んでいるよ！",
+      "oldUrl": "https://xainome.blog/%e3%83%92%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%99%e3%83%ab%e3%82%af%e3%81%ae%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%92%e9%81%8a%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/11/ヒンターベルクのダンジョンを遊んでいるよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1877",
+      "type": "post",
+      "title": "ヒンターベルクのダンジョン実績100%クリアしたよ！",
+      "oldUrl": "https://xainome.blog/%e3%83%92%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%99%e3%83%ab%e3%82%af%e3%81%ae%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e5%ae%9f%e7%b8%be100%e3%82%af%e3%83%aa%e3%82%a2%e3%81%97%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2024/11/ヒンターベルクのダンジョン実績100クリアしたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1894",
+      "type": "post",
+      "title": "ルイーズ・ブルジョワ展に行って感じてきたこと",
+      "oldUrl": "https://xainome.blog/%e3%83%ab%e3%82%a4%e3%83%bc%e3%82%ba%e3%83%bb%e3%83%96%e3%83%ab%e3%82%b8%e3%83%a7%e3%83%af%e5%b1%95%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e6%84%9f%e3%81%98%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%93%e3%81%a8/",
+      "contentFile": "content/posts/2024/11/ルイーズ・ブルジョワ展に行って感じてきたこと/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1906",
+      "type": "post",
+      "title": "簿記3級後半が終わったので整理がてら記事を書いてみる",
+      "oldUrl": "https://xainome.blog/%e7%b0%bf%e8%a8%983%e7%b4%9a%e5%be%8c%e5%8d%8a%e3%81%8c%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e6%95%b4%e7%90%86%e3%81%8c%e3%81%a6%e3%82%89%e8%a8%98%e4%ba%8b%e3%82%92%e6%9b%b8%e3%81%84/",
+      "contentFile": "content/posts/2024/11/簿記3級後半が終わったので整理がてら記事を書い/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1914",
+      "type": "post",
+      "title": "pCloudがセールをやってたので購入してみたよ！",
+      "oldUrl": "https://xainome.blog/pcloud%e3%81%8c%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%9f%e3%81%ae%e3%81%a7%e8%b3%bc%e5%85%a5%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/11/pcloudがセールをやってたので購入してみたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1948",
+      "type": "post",
+      "title": "刀剣博物館に行って日本刀のかっこよさと綺麗さに触れてきたよ",
+      "oldUrl": "https://xainome.blog/%e5%88%80%e5%89%a3%e5%8d%9a%e7%89%a9%e9%a4%a8%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e6%97%a5%e6%9c%ac%e5%88%80%e3%81%ae%e3%81%8b%e3%81%a3%e3%81%93%e3%82%88%e3%81%95%e3%81%a8%e7%b6%ba%e9%ba%97%e3%81%95/",
+      "contentFile": "content/posts/2024/11/刀剣博物館に行って日本刀のかっこよさと綺麗さ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1978",
+      "type": "post",
+      "title": "最近あった出来事を2つほど_2024/11/24",
+      "oldUrl": "https://xainome.blog/%e6%9c%80%e8%bf%91%e3%81%82%e3%81%a3%e3%81%9f%e5%87%ba%e6%9d%a5%e4%ba%8b%e3%82%922%e3%81%a4%e3%81%bb%e3%81%a9_2024-11-24/",
+      "contentFile": "content/posts/2024/11/最近あった出来事を2つほど_2024-11-24/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "1993",
+      "type": "post",
+      "title": "AI音声合成のAivisSpeechを触ってみたよ！",
+      "oldUrl": "https://xainome.blog/ai%e9%9f%b3%e5%a3%b0%e5%90%88%e6%88%90%e3%81%aeaivisspeech%e3%82%92%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/11/ai音声合成のaivisspeechを触ってみたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2023",
+      "type": "post",
+      "title": "StyleBertVITS2を使って自身のデータセットを作成してみるよ",
+      "oldUrl": "https://xainome.blog/stylebertvits2%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e8%87%aa%e8%ba%ab%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e3%82%bb%e3%83%83%e3%83%88%e3%82%92%e4%bd%9c%e6%88%90%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/",
+      "contentFile": "content/posts/2024/12/stylebertvits2を使って自身のデータセットを作成してみる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2047",
+      "type": "post",
+      "title": "ハニワ展に行っていろんなハニワを見て楽しんできたよ～",
+      "oldUrl": "https://xainome.blog/%e3%83%8f%e3%83%8b%e3%83%af%e5%b1%95%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8d%e3%82%93%e3%81%aa%e3%83%8f%e3%83%8b%e3%83%af%e3%82%92%e8%a6%8b%e3%81%a6%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a7/",
+      "contentFile": "content/posts/2024/12/ハニワ展に行っていろんなハニワを見て楽しんで/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2084",
+      "type": "post",
+      "title": "マグナとふしぎな少女で楽しく英語を学んでいるよ！",
+      "oldUrl": "https://xainome.blog/%e3%83%9e%e3%82%b0%e3%83%8a%e3%81%a8%e3%81%b5%e3%81%97%e3%81%8e%e3%81%aa%e5%b0%91%e5%a5%b3%e3%81%a7%e6%a5%bd%e3%81%97%e3%81%8f%e8%8b%b1%e8%aa%9e%e3%82%92%e5%ad%a6%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b/",
+      "contentFile": "content/posts/2024/12/マグナとふしぎな少女で楽しく英語を学んでいる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2128",
+      "type": "post",
+      "title": "江戸東京たてもの園に行って古き良き建物を満喫してきたよ",
+      "oldUrl": "https://xainome.blog/%e6%b1%9f%e6%88%b8%e6%9d%b1%e4%ba%ac%e3%81%9f%e3%81%a6%e3%82%82%e3%81%ae%e5%9c%92%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e5%8f%a4%e3%81%8d%e8%89%af%e3%81%8d%e5%bb%ba%e7%89%a9%e3%82%92%e6%ba%80%e5%96%ab/",
+      "contentFile": "content/posts/2024/12/江戸東京たてもの園に行って古き良き建物を満喫/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2197",
+      "type": "post",
+      "title": "音声合成モデルをStyle-Bert-VITS2を使って作ってみたよ",
+      "oldUrl": "https://xainome.blog/%e9%9f%b3%e5%a3%b0%e5%90%88%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92style-bert-vits2%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2024/12/音声合成モデルをstyle-bert-vits2を使って作ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2213",
+      "type": "post",
+      "title": "AIVMGeneraterでAivisSpeechでも使えるようにしたよ！",
+      "oldUrl": "https://xainome.blog/aivmgenerater%e3%81%a7aivisspeech%e3%81%a7%e3%82%82%e4%bd%bf%e3%81%88%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%97%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2024/12/aivmgeneraterでaivisspeechでも使えるようにしたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2245",
+      "type": "post",
+      "title": "Pyxelを使って簡単なゲームの作成を試してみたい！part1",
+      "oldUrl": "https://xainome.blog/pyxel%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e4%bd%9c%e6%88%90%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81part1/",
+      "contentFile": "content/posts/2024/12/pyxelを使って簡単なゲームの作成を試してみたい！part1/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2262",
+      "type": "post",
+      "title": "株式会社made in japanから発売されたパーカーとTシャツを着たよ",
+      "oldUrl": "https://xainome.blog/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bemade-in-japan%e3%81%8b%e3%82%89%e7%99%ba%e5%a3%b2%e3%81%95%e3%82%8c%e3%81%9f%e3%83%91%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%a8t%e3%82%b7%e3%83%a3%e3%83%84%e3%82%92/",
+      "contentFile": "content/posts/2024/12/株式会社made-in-japanから発売されたパーカーとtシャツを/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2285",
+      "type": "post",
+      "title": "Pyxelを使って簡単なゲームの作成を試してみたい！part2",
+      "oldUrl": "https://xainome.blog/pyxel%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e4%bd%9c%e6%88%90%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81part2/",
+      "contentFile": "content/posts/2024/12/pyxelを使って簡単なゲームの作成を試してみたい！part2/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2298",
+      "type": "post",
+      "title": "Pyxelを使って簡単なゲームの作成を試してみたい！part3",
+      "oldUrl": "https://xainome.blog/pyxel%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%e3%81%aa%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e4%bd%9c%e6%88%90%e3%82%92%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%ef%bc%81part3/",
+      "contentFile": "content/posts/2024/12/pyxelを使って簡単なゲームの作成を試してみたい！part3/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2327",
+      "type": "post",
+      "title": "2025/01/04_新年のご挨拶",
+      "oldUrl": "https://xainome.blog/2025-01-04_%e6%96%b0%e5%b9%b4%e3%81%ae%e3%81%94%e6%8c%a8%e6%8b%b6/",
+      "contentFile": "content/posts/2025/01/2025-01-04_新年のご挨拶/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2338",
+      "type": "post",
+      "title": "生活費や生活環境の都市ランキングを見てみよう！",
+      "oldUrl": "https://xainome.blog/%e7%94%9f%e6%b4%bb%e8%b2%bb%e3%82%84%e7%94%9f%e6%b4%bb%e7%92%b0%e5%a2%83%e3%81%ae%e9%83%bd%e5%b8%82%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86/",
+      "contentFile": "content/posts/2025/01/生活費や生活環境の都市ランキングを見てみよう/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2352",
+      "type": "post",
+      "title": "福岡に帰省して出国前に満喫してきた話",
+      "oldUrl": "https://xainome.blog/%e7%a6%8f%e5%b2%a1%e3%81%ab%e5%b8%b0%e7%9c%81%e3%81%97%e3%81%a6%e5%87%ba%e5%9b%bd%e5%89%8d%e3%81%ab%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/01/福岡に帰省して出国前に満喫してきた話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2380",
+      "type": "post",
+      "title": "国際線でNZに行くまでにあったことやLSI初日の感想など",
+      "oldUrl": "https://xainome.blog/%e5%9b%bd%e9%9a%9b%e7%b7%9a%e3%81%a7nz%e3%81%ab%e8%a1%8c%e3%81%8f%e3%81%be%e3%81%a7%e3%81%ab%e3%81%82%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%82%84lsi%e5%88%9d%e6%97%a5%e3%81%ae%e6%84%9f%e6%83%b3/",
+      "contentFile": "content/posts/2025/01/国際線でnzに行くまでにあったことやlsi初日の感想/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2398",
+      "type": "post",
+      "title": "LSI(Auckland)に入学して1週間が経った感想",
+      "oldUrl": "https://xainome.blog/lsiauckland%e3%81%ab%e5%85%a5%e5%ad%a6%e3%81%97%e3%81%a61%e9%80%b1%e9%96%93%e3%81%8c%e7%b5%8c%e3%81%a3%e3%81%9f%e6%84%9f%e6%83%b3/",
+      "contentFile": "content/posts/2025/01/lsiaucklandに入学して1週間が経った感想/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2408",
+      "type": "post",
+      "title": "NZに来ていくつかやった申請系で苦戦したこと",
+      "oldUrl": "https://xainome.blog/nz%e3%81%ab%e6%9d%a5%e3%81%a6%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e3%82%84%e3%81%a3%e3%81%9f%e7%94%b3%e8%ab%8b%e7%b3%bb%e3%81%a7%e8%8b%a6%e6%88%a6%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8/",
+      "contentFile": "content/posts/2025/01/nzに来ていくつかやった申請系で苦戦したこと/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2421",
+      "type": "post",
+      "title": "BigQueryのテーブルのカラム説明欄に一括で追記したい！",
+      "oldUrl": "https://xainome.blog/bigquery%e3%81%ae%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab%e3%81%ae%e3%82%ab%e3%83%a9%e3%83%a0%e8%aa%ac%e6%98%8e%e6%ac%84%e3%81%ab%e4%b8%80%e6%8b%ac%e3%81%a7%e8%bf%bd%e8%a8%98%e3%81%97%e3%81%9f%e3%81%84/",
+      "contentFile": "content/posts/2025/01/bigqueryのテーブルのカラム説明欄に一括で追記したい/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2452",
+      "type": "post",
+      "title": "Deepseekが話題なので軽く触ってみたよ",
+      "oldUrl": "https://xainome.blog/deepseek%e3%81%8c%e8%a9%b1%e9%a1%8c%e3%81%aa%e3%81%ae%e3%81%a7%e8%bb%bd%e3%81%8f%e8%a7%a6%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/01/deepseekが話題なので軽く触ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2477",
+      "type": "post",
+      "title": "latinfiesta in Aucklandを軽く楽しんできたよ！",
+      "oldUrl": "https://xainome.blog/latinfiesta-in-auckland%e3%82%92%e8%bb%bd%e3%81%8f%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2025/02/latinfiesta-in-aucklandを軽く楽しんできたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2495",
+      "type": "post",
+      "title": "フラットをニュージーランドで借りた時の話",
+      "oldUrl": "https://xainome.blog/%e3%83%95%e3%83%a9%e3%83%83%e3%83%88%e3%82%92%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e5%80%9f%e3%82%8a%e3%81%9f%e6%99%82%e3%81%ae%e8%a9%b1/",
+      "contentFile": "content/posts/2025/02/フラットをニュージーランドで借りた時の話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2507",
+      "type": "post",
+      "title": "Waitangi Dayという休日だったのでだらだら遊んできたよ",
+      "oldUrl": "https://xainome.blog/waitangi-day%e3%81%a8%e3%81%84%e3%81%86%e4%bc%91%e6%97%a5%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e9%81%8a%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/02/waitangi-dayという休日だったのでだらだら遊んできたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2521",
+      "type": "post",
+      "title": "ホームステイ生活が1か月経ったのでその時の話",
+      "oldUrl": "https://xainome.blog/%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%b9%e3%83%86%e3%82%a4%e7%94%9f%e6%b4%bb%e3%81%8c1%e3%81%8b%e6%9c%88%e7%b5%8c%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%9d%e3%81%ae%e6%99%82%e3%81%ae%e8%a9%b1/",
+      "contentFile": "content/posts/2025/02/ホームステイ生活が1か月経ったのでその時の話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2535",
+      "type": "post",
+      "title": "Sailingでニュージーランドの海を満喫してきたよ",
+      "oldUrl": "https://xainome.blog/sailing%e3%81%a7%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e6%b5%b7%e3%82%92%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/02/sailingでニュージーランドの海を満喫してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2554",
+      "type": "post",
+      "title": "20250216_土日にやったことを英語で書く",
+      "oldUrl": "https://xainome.blog/20250216_%e5%9c%9f%e6%97%a5%e3%81%ab%e3%82%84%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92%e8%8b%b1%e8%aa%9e%e3%81%a7%e6%9b%b8%e3%81%8f/",
+      "contentFile": "content/posts/2025/02/20250216_土日にやったことを英語で書く/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2578",
+      "type": "post",
+      "title": "IRD番号(納税者番号)を申請してみたよ",
+      "oldUrl": "https://xainome.blog/ird%e7%95%aa%e5%8f%b7%e7%b4%8d%e7%a8%8e%e8%80%85%e7%95%aa%e5%8f%b7%e3%82%92%e7%94%b3%e8%ab%8b%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/02/ird番号納税者番号を申請してみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2591",
+      "type": "post",
+      "title": "ParnellBathsでプールを満喫してきたよ！それからパーティ？",
+      "oldUrl": "https://xainome.blog/parnellbaths%e3%81%a7%e3%83%97%e3%83%bc%e3%83%ab%e3%82%92%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81%e3%81%9d%e3%82%8c%e3%81%8b%e3%82%89%e3%83%91%e3%83%bc%e3%83%86/",
+      "contentFile": "content/posts/2025/02/parnellbathsでプールを満喫してきたよ！それからパーテ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2606",
+      "type": "post",
+      "title": "kiwidipを試しにいくつか作ってみたよ！",
+      "oldUrl": "https://xainome.blog/kiwidip%e3%82%92%e8%a9%a6%e3%81%97%e3%81%ab%e3%81%84%e3%81%8f%e3%81%a4%e3%81%8b%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2025/02/kiwidipを試しにいくつか作ってみたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2623",
+      "type": "post",
+      "title": "Cursorの話題に乗り遅れたけどpyxelの修正に使ってみたよ",
+      "oldUrl": "https://xainome.blog/cursor%e3%81%ae%e8%a9%b1%e9%a1%8c%e3%81%ab%e4%b9%97%e3%82%8a%e9%81%85%e3%82%8c%e3%81%9f%e3%81%91%e3%81%a9pyxel%e3%81%ae%e4%bf%ae%e6%ad%a3%e3%81%ab%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/cursorの話題に乗り遅れたけどpyxelの修正に使ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2662",
+      "type": "post",
+      "title": "LevelTestsをLSIで初めて受けた話",
+      "oldUrl": "https://xainome.blog/leveltests%e3%82%92lsi%e3%81%a7%e5%88%9d%e3%82%81%e3%81%a6%e5%8f%97%e3%81%91%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/03/leveltestsをlsiで初めて受けた話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2672",
+      "type": "post",
+      "title": "SoutheastAsia Festivalに行ってきたよ",
+      "oldUrl": "https://xainome.blog/southeastasia-festival%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/southeastasia-festivalに行ってきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2688",
+      "type": "post",
+      "title": "Pasifika Festivalに行って楽しんできたよ！",
+      "oldUrl": "https://xainome.blog/pasifika-festival%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88%ef%bc%81/",
+      "contentFile": "content/posts/2025/03/pasifika-festivalに行って楽しんできたよ！/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2713",
+      "type": "post",
+      "title": "Mt.Victoriaでニュージーランドの歴史を少し見てきたよ",
+      "oldUrl": "https://xainome.blog/mt-victoria%e3%81%a7%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e6%ad%b4%e5%8f%b2%e3%82%92%e5%b0%91%e3%81%97%e8%a6%8b%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/mt-victoriaでニュージーランドの歴史を少し見てきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2739",
+      "type": "post",
+      "title": "Rangitoto Islandに観光をしてきたよ",
+      "oldUrl": "https://xainome.blog/rangitoto-island%e3%81%ab%e8%a6%b3%e5%85%89%e3%82%92%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/rangitoto-islandに観光をしてきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2754",
+      "type": "post",
+      "title": "Takapuna Marketで食べ歩きをしてきたよ",
+      "oldUrl": "https://xainome.blog/takapuna-market%e3%81%a7%e9%a3%9f%e3%81%b9%e6%ad%a9%e3%81%8d%e3%82%92%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/takapuna-marketで食べ歩きをしてきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2771",
+      "type": "post",
+      "title": "Gallery in Auckland に行ってだらだらと鑑賞してきたよ",
+      "oldUrl": "https://xainome.blog/gallery-in-auckland-%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e3%81%a8%e9%91%91%e8%b3%9e%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/gallery-in-auckland-に行ってだらだらと鑑賞してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2788",
+      "type": "post",
+      "title": "Waiheke Islandに行ってワイナリー巡りをしてきたよ",
+      "oldUrl": "https://xainome.blog/waiheke-island%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%83%af%e3%82%a4%e3%83%8a%e3%83%aa%e3%83%bc%e5%b7%a1%e3%82%8a%e3%82%92%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/03/waiheke-islandに行ってワイナリー巡りをしてきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2805",
+      "type": "post",
+      "title": "SUSHIを初めてニュージーランドで食べたよ",
+      "oldUrl": "https://xainome.blog/sushi%e3%82%92%e5%88%9d%e3%82%81%e3%81%a6%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e9%a3%9f%e3%81%b9%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/04/sushiを初めてニュージーランドで食べたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2820",
+      "type": "post",
+      "title": "SEALIFEに行ってだらだらと楽しんできたよ in Auckland",
+      "oldUrl": "https://xainome.blog/sealife%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e3%81%a8%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88-in-auckland/",
+      "contentFile": "content/posts/2025/04/sealifeに行ってだらだらと楽しんできたよ-in-auckland/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2835",
+      "type": "post",
+      "title": "ASB Polyfestというマオリとパシフィックの祭りを見てきたよ",
+      "oldUrl": "https://xainome.blog/asb-polyfest%e3%81%a8%e3%81%84%e3%81%86%e3%83%9e%e3%82%aa%e3%83%aa%e3%81%a8%e3%83%91%e3%82%b7%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%81%ae%e7%a5%ad%e3%82%8a%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%8d/",
+      "contentFile": "content/posts/2025/04/asb-polyfestというマオリとパシフィックの祭りを見てき/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2853",
+      "type": "post",
+      "title": "【寿司の作り方を学べばレストランでも使えるかも！？】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e5%af%bf%e5%8f%b8%e3%81%ae%e4%bd%9c%e3%82%8a%e6%96%b9%e3%82%92%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e5%ad%a6%e3%82%93%e3%81%a7%e9%a3%9f%e3%81%b9%e3%81%a6/",
+      "contentFile": "content/posts/2025/04/寿司の作り方をニュージーランドで学んで食べて/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2864",
+      "type": "post",
+      "title": "IELTSの模擬試験でListening22を受けてボロボロだった話",
+      "oldUrl": "https://xainome.blog/ielts%e3%81%ae%e6%a8%a1%e6%93%ac%e8%a9%a6%e9%a8%93%e3%81%a7listening22%e3%82%92%e5%8f%97%e3%81%91%e3%81%a6%e3%83%9c%e3%83%ad%e3%83%9c%e3%83%ad%e3%81%a0%e3%81%a3%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/04/ieltsの模擬試験でlistening22を受けてボロボロだった話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2883",
+      "type": "post",
+      "title": "IELTSの模擬試験でListening22を復習していく_Q11-20",
+      "oldUrl": "https://xainome.blog/ielts%e3%81%ae%e6%a8%a1%e6%93%ac%e8%a9%a6%e9%a8%93%e3%81%a7listening22%e3%82%92%e5%be%a9%e7%bf%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f_q11-20/",
+      "contentFile": "content/posts/2025/04/ieltsの模擬試験でlistening22を復習していく_q11-20/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2891",
+      "type": "post",
+      "title": "模擬テストの復習を引き続きやっていく_IELTS-Listening22",
+      "oldUrl": "https://xainome.blog/%e6%a8%a1%e6%93%ac%e3%83%86%e3%82%b9%e3%83%88%e3%81%ae%e5%be%a9%e7%bf%92%e3%82%92%e5%bc%95%e3%81%8d%e7%b6%9a%e3%81%8d%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%8f_ielts-listening22/",
+      "contentFile": "content/posts/2025/04/模擬テストの復習を引き続きやっていく_ielts-listening22/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2904",
+      "type": "post",
+      "title": "【Easter Showでイベントに参加してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/easter-show%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%a6%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/04/easter-showに参加して満喫してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2927",
+      "type": "post",
+      "title": "Listening30の模擬試験を復習していく",
+      "oldUrl": "https://xainome.blog/listening30%e3%81%ae%e6%a8%a1%e6%93%ac%e8%a9%a6%e9%a8%93%e3%82%92%e5%be%a9%e7%bf%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/",
+      "contentFile": "content/posts/2025/05/listening30の模擬試験を復習していく/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2936",
+      "type": "post",
+      "title": "Little Language Lessonsを使ってみたよ",
+      "oldUrl": "https://xainome.blog/little-language-lessons%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/05/little-language-lessonsを使ってみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2958",
+      "type": "post",
+      "title": "【ニュージーランドでも移動式サウナを体験 ~Sauna~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/sauna%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e7%a7%bb%e5%8b%95%e5%9e%8b%e3%82%b5%e3%82%a6%e3%83%8a%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f/",
+      "contentFile": "content/posts/2025/05/saunaニュージーランドで移動型サウナに行ってきた/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2981",
+      "type": "post",
+      "title": "【Bungee jumpingをスカイタワーで体験したよ！】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/bungee-jumping%e3%82%92%e3%82%b9%e3%82%ab%e3%82%a4%e3%82%bf%e3%83%af%e3%83%bc%e3%81%a7%e7%b5%8c%e9%a8%93%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/05/bungee-jumpingをスカイタワーで経験してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "2994",
+      "type": "post",
+      "title": "【米を鍋で炊ければどこでも米が食べられるよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e7%b1%b3%e3%82%92%e9%8d%8b%e3%81%a7%e7%82%8a%e3%81%84%e3%81%9f%e3%82%89%e6%84%8f%e5%a4%96%e3%81%a8%e7%b0%a1%e5%8d%98%e3%81%a0%e3%81%a3%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/05/米を鍋で炊いたら意外と簡単だったよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3010",
+      "type": "post",
+      "title": "Win11Debloat を使ってPCのパフォーマンスを多少改善する",
+      "oldUrl": "https://xainome.blog/win11debloat-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6pc%e3%81%ae%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%82%92%e5%a4%9a%e5%b0%91%e6%94%b9%e5%96%84%e3%81%99%e3%82%8b/",
+      "contentFile": "content/posts/2025/05/win11debloat-を使ってpcのパフォーマンスを多少改善する/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3029",
+      "type": "post",
+      "title": "【The WereCleaner】｜アクションゲーム × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/the-werecleaner%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e9%81%8a%e3%82%93%e3%81%a7%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/05/the-werecleanerというゲームを遊んでみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3043",
+      "type": "post",
+      "title": "【Escapadeで脱出ゲームを体験してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/escapade%e3%81%a7%e8%84%b1%e5%87%ba%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e4%bd%93%e9%a8%93%e3%81%97%e3%81%a6%e3%81%8d/",
+      "contentFile": "content/posts/2025/05/escapadeで脱出ゲームをニュージーランドで体験してき/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3058",
+      "type": "post",
+      "title": "Mages of Mystraliaを100%クリアしました",
+      "oldUrl": "https://xainome.blog/mages-of-mystralia%e3%82%92100%e3%82%af%e3%83%aa%e3%82%a2%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2025/06/mages-of-mystraliaを100クリアしました/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3081",
+      "type": "post",
+      "title": "【ARMAGEDDON EXPOというアニメイベントを楽しむ！】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/armageddon-expo%e3%81%a8%e3%81%84%e3%81%86%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/armageddon-expoというアニメイベントに行ってきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3098",
+      "type": "post",
+      "title": "【Driver licenceを気軽に取ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/driver-licence%e3%82%92nz%e3%81%a7%e3%82%82%e5%8f%96%e5%be%97%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/driver-licenceをnzでも取得してみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3112",
+      "type": "post",
+      "title": "【Bungee jumpingでドキドキの体験をしてきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/bungee-jumping%e3%82%92%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e4%bd%93%e9%a8%93%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/bungee-jumpingをニュージーランドで体験してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3127",
+      "type": "post",
+      "title": "【Ambury Farmで農場の動物たちと触れ合う】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/ambury-farm%e3%81%a7%e8%be%b2%e5%a0%b4%e3%81%ae%e5%8b%95%e7%89%a9%e3%81%9f%e3%81%a1%e3%81%a8%e6%88%af%e3%82%8c%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/ambury-farmで農場の動物たちと戯れてきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3137",
+      "type": "post",
+      "title": "【Matarikiというマオリの元旦を満喫する】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/matariki-%e3%81%a8%e3%81%84%e3%81%86%e3%83%9e%e3%82%aa%e3%83%aa%e3%81%ae%e5%85%83%e6%97%a6%e3%82%92%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e3%81%a8%e9%81%8e%e3%81%94%e3%81%97%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/matariki-というマオリの元旦をだらだらと過ごしたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3152",
+      "type": "post",
+      "title": "水の暇という放置つりゲーをだらだら遊んでいるよ",
+      "oldUrl": "https://xainome.blog/%e6%b0%b4%e3%81%ae%e6%9a%87%e3%81%a8%e3%81%84%e3%81%86%e6%94%be%e7%bd%ae%e3%81%a4%e3%82%8a%e3%82%b2%e3%83%bc%e3%82%92%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e9%81%8a%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b/",
+      "contentFile": "content/posts/2025/06/水の暇という放置つりゲーをだらだら遊んでいる/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3166",
+      "type": "post",
+      "title": "【Auckland Zooでいろんな動物を見てきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/auckland-zoo%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/06/auckland-zooに行ってきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3191",
+      "type": "post",
+      "title": "【アクティビティでIce skatingを楽しんだよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/ice-skating%e3%82%92%e3%82%a2%e3%82%af%e3%83%86%e3%82%a3%e3%83%93%e3%83%86%e3%82%a3%e3%81%a7%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/07/ice-skatingをアクティビティで楽しんできたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3201",
+      "type": "post",
+      "title": "【myIRのアカウント有効化で苦労したよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/myir%e3%81%ae%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%82%92%e6%9c%89%e5%8a%b9%e5%8c%96%e3%81%99%e3%82%8b%e3%81%ae%e3%81%ab%e8%8b%a6%e6%88%a6%e3%81%97%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/07/myirのアカウントを有効化するのに苦戦した話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3212",
+      "type": "post",
+      "title": "【Wharenui Harikoa というmatariki関係のイベントを楽しんだよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/wharenui-harikoa-%e3%81%a8%e3%81%84%e3%81%86matariki%e9%96%a2%e4%bf%82%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/07/wharenui-harikoa-というmatariki関係のイベントを見てきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3223",
+      "type": "post",
+      "title": "モノクロームメビウスというゲームをプレイしたよ",
+      "oldUrl": "https://xainome.blog/%e3%83%a2%e3%83%8e%e3%82%af%e3%83%ad%e3%83%bc%e3%83%a0%e3%83%a1%e3%83%93%e3%82%a6%e3%82%b9%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2025/07/モノクロームメビウスというゲームをプレイした/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3232",
+      "type": "post",
+      "title": "【Self-contained付きの中古車を購入したよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/self-contained%e4%bb%98%e3%81%8d%e3%81%ae%e4%b8%ad%e5%8f%a4%e8%bb%8a%e3%82%92%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e8%b3%bc%e5%85%a5%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2025/07/self-contained付きの中古車をニュージーランドで購入した/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3248",
+      "type": "post",
+      "title": "【Baristaスクールに行ってラテアートの作り方を学んできたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/barista%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%92%e5%8f%97%e3%81%91%e3%81%a6%e5%8d%92%e6%a5%ad%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/07/baristaコースを受けて卒業してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3259",
+      "type": "post",
+      "title": "【Hamilton Gardenで色んなコンセプトガーデンを見に行ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/hamilton-garden%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e8%89%b2%e3%82%93%e3%81%aa%e3%82%b3%e3%83%b3%e3%82%bb%e3%83%97%e3%83%88%e3%81%ae%e3%82%ac%e3%83%bc%e3%83%87%e3%83%b3%e3%82%92%e8%a6%8b%e3%81%a6/",
+      "contentFile": "content/posts/2025/07/hamilton-gardenに行って色んなコンセプトのガーデンを見て/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3273",
+      "type": "post",
+      "title": "Prison Escape Simulator: Dig Outをプレイしたよ",
+      "oldUrl": "https://xainome.blog/prison-escape-simulator-dig-out%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/08/prison-escape-simulator-dig-outをプレイしたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3291",
+      "type": "post",
+      "title": "【南島ロードトリップ~ ネット、シャワー、ベッドやガスの準備~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e5%8d%97%e5%b3%b6%e3%81%ab%e5%90%91%e3%81%91%e3%81%a6%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97%e3%82%92%e5%a7%8b%e3%82%81%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/08/南島に向けてロードトリップを始めたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3297",
+      "type": "post",
+      "title": "【南島ロードトリップ~ Taupo, Palmerston North, Wellington~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-taupo-palmerston-north-wellington/",
+      "contentFile": "content/posts/2025/08/ロードトリップ-taupo-palmerston-north-wellington/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3319",
+      "type": "post",
+      "title": "【南島ロードトリップ~ ウェリントンからInterislanderで南島に車で移動~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%82%a6%e3%82%a7%e3%83%aa%e3%83%b3%e3%83%88%e3%83%b3%e3%81%8b%e3%82%89interislander%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e5%8d%97%e5%b3%b6%e3%81%be%e3%81%a7%e7%a7%bb%e5%8b%95%e3%81%97%e3%81%9f/",
+      "contentFile": "content/posts/2025/08/ウェリントンからinterislanderを使って南島まで移動した/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3330",
+      "type": "post",
+      "title": "【Waitomo Cavesで光る虫たちを観察しながら洞窟探索】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/waitomo-caves%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e6%9a%97%e3%81%84%e6%b4%9e%e7%aa%9f%e3%81%ae%e5%85%89%e3%82%8b%e8%99%ab%e3%81%9f%e3%81%a1%e3%82%92%e8%a6%8b%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/08/waitomo-cavesに行って暗い洞窟の光る虫たちを見てきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3342",
+      "type": "post",
+      "title": "【Real Gunsでショットガンや対物ライフルを撃ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88%e3%82%ac%e3%83%b3%e3%82%84%e5%af%be%e7%89%a9%e3%83%a9%e3%82%a4%e3%83%95%e3%83%ab%e3%82%92%e6%92%83%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/08/ショットガンや対物ライフルを撃ってきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3352",
+      "type": "post",
+      "title": "【DarkSkyProjeckでテカポ湖の星空】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/darkskyprojeck%e3%81%a7%e3%83%86%e3%82%ab%e3%83%9d%e6%b9%96%e3%81%ae%e6%98%9f%e7%a9%ba%e3%82%92%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/09/darkskyprojeckでテカポ湖の星空を満喫してきたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3363",
+      "type": "post",
+      "title": "【ニュージーランドで車のパーツを修理】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7%e8%bb%8a%e3%81%ae%e4%bf%ae%e7%90%86%e3%82%92%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f/",
+      "contentFile": "content/posts/2025/09/ニュージーランドで車の修理をすることになった/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3370",
+      "type": "post",
+      "title": "【Chicken farmで清掃の仕事をしているよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%aechicken-farm%e3%81%a7%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88/",
+      "contentFile": "content/posts/2025/09/ニュージーランドのchicken-farmで仕事をしているよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3378",
+      "type": "post",
+      "title": "【南島ロードトリップ~ Picton, Blenheim, Nelsonまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e5%8d%97%e5%b3%b6%e3%81%a7%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-picton-blenheim-nelson/",
+      "contentFile": "content/posts/2025/09/南島でのロードトリップ-picton-blenheim-nelson/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3395",
+      "type": "post",
+      "title": "【南島ロードトリップ~ Motueka, Takaka, Farewell Spitまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e5%8d%97%e5%b3%b6%e3%81%a7%e3%81%ae%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-motueka-takaka-farewell-spit%e3%81%be%e3%81%a7/",
+      "contentFile": "content/posts/2025/09/南島でのロードトリップ-motueka-takaka-farewell-spitまで/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3416",
+      "type": "post",
+      "title": "【南島ロードトリップ~ NelsonからFox Glacierまで~】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e5%8d%97%e5%b3%b6%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-nelson%e3%81%8b%e3%82%89fox-glacier%e3%81%be%e3%81%a7/",
+      "contentFile": "content/posts/2025/09/南島ロードトリップ-nelsonからfox-glacierまで/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3442",
+      "type": "post",
+      "title": "【Monument Valley】｜パズルゲーム × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/monument-valley%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/10/monument-valleyというゲームをプレイしてみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3459",
+      "type": "post",
+      "title": "【Wanakaで観光地巡り】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/wanaka%e3%81%a7%e3%81%be%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%a0%e3%82%89%e3%81%a0%e3%82%89%e3%81%a8%e9%81%8e%e3%81%94%e3%81%97%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/10/wanakaでまったりだらだらと過ごした話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3475",
+      "type": "post",
+      "title": "【Mars First Logistics】｜物運びゲーム × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/mars-first-logistics%e3%82%92%e9%81%8a%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%82%88/",
+      "contentFile": "content/posts/2025/10/mars-first-logisticsを遊んでいるよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3492",
+      "type": "post",
+      "title": "【農家は Replace() されました】｜プログラミングゲーム × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%8c%e8%be%b2%e5%ae%b6%e3%81%af-replace-%e3%81%95%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f%e3%80%8d%e3%81%a7%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%92%e6%a5%bd%e3%81%97/",
+      "contentFile": "content/posts/2025/10/「農家は-replace-されました」でプログラミングを楽し/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3504",
+      "type": "post",
+      "title": "【WWOOFでデイリーファーム体験】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/wwoof%e3%82%921%e3%81%8b%e6%9c%88%e3%81%bb%e3%81%a9%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/10/wwoofを1か月ほど試してみたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3517",
+      "type": "post",
+      "title": "【Peonyファームでピッキング作業】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/peony-farm%e3%81%a7%e3%83%94%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%ae%e4%bb%95%e4%ba%8b%e3%82%92%e5%a7%8b%e3%82%81%e3%81%9f%e3%82%88/",
+      "contentFile": "content/posts/2025/11/peony-farmでピッキングの仕事を始めたよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3525",
+      "type": "post",
+      "title": "【Christchurchでの飲食店3か所】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90christchurch%e3%81%a7%e3%81%ae%e9%a3%b2%e9%a3%9f%e5%ba%973%e3%81%8b%e6%89%80%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1%e8%aa%9e%e5%8a%9b%e3%82%a2%e3%83%83/",
+      "contentFile": "content/posts/2025/11/【christchurchでの飲食店3か所】｜ワーホリ-in-nz-x-英語力アッ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3549",
+      "type": "post",
+      "title": "【期限切れWOFの更新】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e6%9c%9f%e9%99%90%e5%88%87%e3%82%8cwof%e3%81%ae%e6%9b%b4%e6%96%b0%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1%e8%aa%9e%e5%8a%9b%e3%82%a2%e3%83%83%e3%83%97/",
+      "contentFile": "content/posts/2025/11/【期限切れwofの更新】｜ワーホリ-in-nz-x-英語力アップ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3568",
+      "type": "post",
+      "title": "【Peonyファームジョブでピッキング】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90peony%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%b8%e3%83%a7%e3%83%96%e3%81%a7%e3%83%94%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2025/11/【peonyファームジョブでピッキング】｜ワーホリ-in-nz-x/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3582",
+      "type": "post",
+      "title": "【NZのCave Streamで命がけの探索】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/cave-stream%e3%81%a7%e6%ad%bb%e3%81%ab%e3%81%8b%e3%81%91%e3%81%9f%e8%a9%b1/",
+      "contentFile": "content/posts/2025/11/cave-streamで死にかけた話/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3597",
+      "type": "post",
+      "title": "【GoogleのCybersecurityをCourseraで学ぶ】｜IT × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90google%e3%81%aecybersecurity%e3%82%92coursera%e3%81%a7%e5%ad%a6%e3%81%b6%e3%80%91%ef%bd%9cit-x-%e8%8b%b1%e8%aa%9e%e5%8a%9b%e3%82%a2%e3%83%83%e3%83%97%ef%bc%8fielts%e5%af%be%e7%ad%96/",
+      "contentFile": "content/posts/2025/12/【googleのcybersecurityをcourseraで学ぶ】｜it-x-英語力アップ／ielts対策/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3610",
+      "type": "post",
+      "title": "【フィッシング(phishing)詐欺をGoogleのクイズで学ぶ】｜IT × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0phishing%e8%a9%90%e6%ac%ba%e3%82%92google%e3%81%ae%e3%82%af%e3%82%a4%e3%82%ba%e3%81%a7%e5%ad%a6%e3%81%b6%e3%80%91%ef%bd%9cit-x/",
+      "contentFile": "content/posts/2025/12/【フィッシングphishing詐欺をgoogleのクイズで学ぶ】｜it-x/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3631",
+      "type": "post",
+      "title": "【Career Dreamerでやりたいことや仕事を探してみよう】｜雑談 × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90career-dreamer%e3%81%a7%e3%82%84%e3%82%8a%e3%81%9f%e3%81%84%e3%81%93%e3%81%a8%e3%82%84%e4%bb%95%e4%ba%8b%e3%82%92%e6%8e%a2%e3%81%97%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%e3%80%91%ef%bd%9c/",
+      "contentFile": "content/posts/2025/12/【career-dreamerでやりたいことや仕事を探してみよう】｜/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3654",
+      "type": "post",
+      "title": "【ハウスキーピングの仕事をTekapoでしてるよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%8f%e3%82%a6%e3%82%b9%e3%82%ad%e3%83%bc%e3%83%94%e3%83%b3%e3%82%b0%e3%81%ae%e4%bb%95%e4%ba%8b%e3%82%92tekapo%e3%81%a7%e3%81%97%e3%81%a6%e3%82%8b%e3%82%88%e3%80%91%ef%bd%9c%e3%83%af/",
+      "contentFile": "content/posts/2025/12/【ハウスキーピングの仕事をtekapoでしてるよ】｜ワ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3664",
+      "type": "post",
+      "title": "【歯医者に行って虫歯か確認した話】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e6%ad%af%e5%8c%bb%e8%80%85%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e8%99%ab%e6%ad%af%e3%81%8b%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%9f%e8%a9%b1%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-i/",
+      "contentFile": "content/posts/2025/12/【歯医者に行って虫歯か確認した話】｜ワーホリ-i/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3673",
+      "type": "post",
+      "title": "Outholdというタワーディフェンスの実績コンプ",
+      "oldUrl": "https://xainome.blog/outhold%e3%81%a8%e3%81%84%e3%81%86%e3%82%bf%e3%83%af%e3%83%bc%e3%83%87%e3%82%a3%e3%83%95%e3%82%a7%e3%83%b3%e3%82%b9%e3%81%ae%e5%ae%9f%e7%b8%be%e3%82%b3%e3%83%b3%e3%83%97/",
+      "contentFile": "content/posts/2026/01/outholdというタワーディフェンスの実績コンプ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3701",
+      "type": "post",
+      "title": "【ニュージーランドの最南端の絶景スポット(slope point)に行ったよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e6%9c%80%e5%8d%97%e7%ab%af%e3%81%ae%e7%b5%b6%e6%99%af%e3%82%b9%e3%83%9d%e3%83%83%e3%83%88slope-point/",
+      "contentFile": "content/posts/2026/01/【ニュージーランドの最南端の絶景スポットslope-point/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3720",
+      "type": "post",
+      "title": "【ニュージーランドでengine oilとengine filterを交換とタイヤの空気入れをしてきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e3%81%a7engine-oil%e3%81%a8engine-filter%e3%82%92%e4%ba%a4%e6%8f%9b%e3%81%a8%e3%82%bf%e3%82%a4%e3%83%a4%e3%81%ae/",
+      "contentFile": "content/posts/2026/01/【ニュージーランドでengine-oilとengine-filterを交換とタイヤの/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3734",
+      "type": "post",
+      "title": "【QueenstownのLugeをめいいっぱい満喫してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90queenstown%e3%81%aeluge%e3%82%92%e3%82%81%e3%81%84%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84%e6%ba%80%e5%96%ab%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc/",
+      "contentFile": "content/posts/2026/01/【queenstownのlugeをめいいっぱい満喫してきたよ】｜ワー/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3749",
+      "type": "post",
+      "title": "【ExploreTekapoでHousekeeperとreceptionで働いているよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90exploretekapo%e3%81%a7housekeeper%e3%81%a8reception%e3%81%a7%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1/",
+      "contentFile": "content/posts/2026/02/【exploretekapoでhousekeeperとreceptionで働いているよ】｜ワーホリ-in-nz-x-英/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3757",
+      "type": "post",
+      "title": "【一時帰国でのtransitや検閲で焦った話】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e4%b8%80%e6%99%82%e5%b8%b0%e5%9b%bd%e3%81%a7%e3%81%aetransit%e3%82%84%e6%a4%9c%e9%96%b2%e3%81%a7%e7%84%a6%e3%81%a3%e3%81%9f%e8%a9%b1%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in/",
+      "contentFile": "content/posts/2026/02/【一時帰国でのtransitや検閲で焦った話】｜ワーホリ-in/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3847",
+      "type": "post",
+      "title": "Strange Seedというキメラを作成して強くなるアクションゲームの実績をコンプしたよ",
+      "oldUrl": "https://xainome.blog/strange-seed%e3%81%a8%e3%81%84%e3%81%86%e3%82%ad%e3%83%a1%e3%83%a9%e3%82%92%e4%bd%9c%e6%88%90%e3%81%97%e3%81%a6%e5%bc%b7%e3%81%8f%e3%81%aa%e3%82%8b%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "contentFile": "content/posts/2026/02/strange-seedというキメラを作成して強くなるアクション/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3861",
+      "type": "post",
+      "title": "Strange seedというゲームのスキンの場所を書いていくよ",
+      "oldUrl": "https://xainome.blog/strange-seed%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e3%82%b9%e3%82%ad%e3%83%b3%e3%81%ae%e5%a0%b4%e6%89%80%e3%82%92%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%84%e3%81%8f%e3%82%88/",
+      "contentFile": "content/posts/2026/02/strange-seedというゲームのスキンの場所を書いていくよ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3934",
+      "type": "post",
+      "title": "【Arrowtownで観光地とお店をめぐる】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90arrowtown%e3%81%a7%e8%a6%b3%e5%85%89%e5%9c%b0%e3%81%a8%e3%81%8a%e5%ba%97%e3%82%92%e3%82%81%e3%81%90%e3%82%8b%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1/",
+      "contentFile": "content/posts/2026/03/【arrowtownで観光地とお店をめぐる】｜ワーホリ-in-nz-x-英/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3962",
+      "type": "post",
+      "title": "【Mt.CookでSealy Tarns Viewpointに行ってきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90mt-cook%e3%81%a7sealy-tarns-viewpoint%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%88%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1%e8%aa%9e/",
+      "contentFile": "content/posts/2026/03/【mt-cookでsealy-tarns-viewpointに行ってきたよ】｜ワーホリ-in-nz-x-英語/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3981",
+      "type": "post",
+      "title": "【Tekapo Springでリラックスして旅の疲れを取ろう】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90tekapo-spring%e3%81%a7%e3%83%aa%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9%e3%81%97%e3%81%a6%e6%97%85%e3%81%ae%e7%96%b2%e3%82%8c%e3%82%92%e5%8f%96%e3%82%8d%e3%81%86%e3%80%91%ef%bd%9c%e3%83%af/",
+      "contentFile": "content/posts/2026/03/【tekapo-springでリラックスして旅の疲れを取ろう】｜ワ/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "3990",
+      "type": "post",
+      "title": "【Katiki周りで観光しながらアシカをみたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90katiki%e5%91%a8%e3%82%8a%e3%81%a7%e8%a6%b3%e5%85%89%e3%81%97%e3%81%aa%e3%81%8c%e3%82%89%e3%82%a2%e3%82%b7%e3%82%ab%e3%82%92%e3%81%bf%e3%81%9f%e3%82%88%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc/",
+      "contentFile": "content/posts/2026/04/【katiki周りで観光しながらアシカをみたよ】｜ワー/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4004",
+      "type": "post",
+      "title": "【裁判所や警察署から請求書が来たり車の修理で貯金が減った話】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e8%a3%81%e5%88%a4%e6%89%80%e3%82%84%e8%ad%a6%e5%af%9f%e7%bd%b2%e3%81%8b%e3%82%89%e8%ab%8b%e6%b1%82%e6%9b%b8%e3%81%8c%e6%9d%a5%e3%81%9f%e3%82%8a%e8%bb%8a%e3%81%ae%e4%bf%ae%e7%90%86%e3%81%a7/",
+      "contentFile": "content/posts/2026/04/【裁判所や警察署から請求書が来たり車の修理で/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4015",
+      "type": "post",
+      "title": "【Brewster Hutまで登って更に氷河の近くまでハイキングしに行ったよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90brewster-hut%e3%81%be%e3%81%a7%e7%99%bb%e3%81%a3%e3%81%a6%e6%9b%b4%e3%81%ab%e6%b0%b7%e6%b2%b3%e3%81%ae%e8%bf%91%e3%81%8f%e3%81%be%e3%81%a7%e3%83%8f%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0/",
+      "contentFile": "content/posts/2026/04/【brewster-hutまで登って更に氷河の近くまでハイキング/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4029",
+      "type": "post",
+      "title": "【オーストラリアのワーキングホリデービザの申請してきたよ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2%e3%81%ae%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%9b%e3%83%aa%e3%83%87%e3%83%bc%e3%83%93%e3%82%b6%e3%82%92%e7%94%b3/",
+      "contentFile": "content/posts/2026/05/【オーストラリアのワーキングホリデービザを申/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4052",
+      "type": "post",
+      "title": "【ExploreTekapoで5か月働いた感想】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90exploretekapo%e3%81%a75%e3%81%8b%e6%9c%88%e5%83%8d%e3%81%84%e3%81%9f%e6%84%9f%e6%83%b3%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x-%e8%8b%b1%e8%aa%9e%e5%8a%9b%e3%82%a2/",
+      "contentFile": "content/posts/2026/05/【exploretekapoで5か月働いた感想】｜ワーホリ-in-nz-x-英語力ア/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4061",
+      "type": "post",
+      "title": "【HanmerSpringsでリラックスしながらプールを楽しむ】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90hanmersprings%e3%81%a7%e3%83%aa%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9%e3%81%97%e3%81%aa%e3%81%8c%e3%82%89%e3%83%97%e3%83%bc%e3%83%ab%e3%82%92%e6%a5%bd%e3%81%97%e3%82%80%e3%80%91%ef%bd%9c/",
+      "contentFile": "content/posts/2026/05/【hanmerspringsでリラックスしながらプールを楽しむ】｜/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4076",
+      "type": "post",
+      "title": "【ロードトリップ ~ Arthurs pass から Tiamruまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-arthurs-pass-%e3%81%8b%e3%82%89-tiamru%e3%81%be%e3%81%a7%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/06/roadtrip-athurs-pass-to-timaru/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4088",
+      "type": "post",
+      "title": "【ロードトリップ ~ Timaru から Oamaruまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-timaru-%e3%81%8b%e3%82%89-oamaru%e3%81%be%e3%81%a7%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/06/roadtrip-timaru-to-oamaru/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4157",
+      "type": "post",
+      "title": "【Trade meを利用して車を売却した話】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90trade-me%e3%82%92%e5%88%a9%e7%94%a8%e3%81%97%e3%81%a6%e8%bb%8a%e3%82%92%e5%a3%b2%e5%8d%b4%e3%81%97%e3%81%9f%e8%a9%b1%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/06/sell-car-trade-me/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4175",
+      "type": "post",
+      "title": "WordPressからHugoへ移行中！GitとCloudflare Pagesで無料運営に挑戦",
+      "oldUrl": "https://xainome.blog/wordpress%e3%81%8b%e3%82%89hugo%e3%81%b8%e7%a7%bb%e8%a1%8c%e4%b8%ad%ef%bc%81git%e3%81%a8cloudflare-pages%e3%81%a7%e7%84%a1%e6%96%99%e9%81%8b%e5%96%b6%e3%81%ab%e6%8c%91%e6%88%a6/",
+      "contentFile": "content/posts/2026/06/wordpress-hugo-migration-git-cloudflare-pages/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4187",
+      "type": "post",
+      "title": "CodexでHugoサイトを効率化！AIコーディングで移行作業を自動化",
+      "oldUrl": "https://xainome.blog/codex%e3%81%a7hugo%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e5%8a%b9%e7%8e%87%e5%8c%96%ef%bc%81ai%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%a7%e7%a7%bb%e8%a1%8c%e4%bd%9c%e6%a5%ad%e3%82%92/",
+      "contentFile": "content/posts/2026/06/codex-hugo-site-migration/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4198",
+      "type": "post",
+      "title": "WordPressからHugoへ！GitHubとCloudflare Pagesで無料ブログを公開する手順",
+      "oldUrl": "https://xainome.blog/wordpress%e3%81%8b%e3%82%89hugo%e3%81%b8%ef%bc%81github%e3%81%a8cloudflare-pages%e3%81%a7%e7%84%a1%e6%96%99%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%85%ac%e9%96%8b%e3%81%99%e3%82%8b%e6%89%8b%e9%a0%86/",
+      "contentFile": "content/posts/2026/07/wordpress-hugo-github-cloudflare-pages-guide/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4234",
+      "type": "post",
+      "title": "【ロードトリップ ~ Oamaru から Dunedinまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-oamaru-%e3%81%8b%e3%82%89-dunedin%e3%81%be%e3%81%a7%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/07/roadtrip-oamaru-to-dunedin/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4248",
+      "type": "post",
+      "title": "【ロードトリップ ~ Milford Soundへ行って分かった注意点】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-milford-sound%e3%81%b8%e8%a1%8c%e3%81%a3%e3%81%a6%e5%88%86%e3%81%8b%e3%81%a3%e3%81%9f%e6%b3%a8%e6%84%8f%e7%82%b9%e3%80%91/",
+      "contentFile": "content/posts/2026/07/milford-sound-roadtrip-tips/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4255",
+      "type": "post",
+      "title": "【ロードトリップ ~ QueenstownからOkaritoまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-queenstown%e3%81%8b%e3%82%89okarito%e3%81%be%e3%81%a7%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/08/roadtrip-queenstown-to-okarito/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4269",
+      "type": "post",
+      "title": "【絨毯を洗うゲーム】攻略・実績コンプ｜効率的な進め方とレビュー",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e7%b5%a8%e6%af%af%e3%82%92%e6%b4%97%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%80%91%e6%94%bb%e7%95%a5%e3%83%bb%e5%ae%9f%e7%b8%be%e3%82%b3%e3%83%b3%e3%83%97%ef%bd%9c%e5%8a%b9%e7%8e%87%e7%9a%84/",
+      "contentFile": "content/posts/2026/08/carpet-cleaning-game-achievements/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4283",
+      "type": "post",
+      "title": "【Staffer Retro: 超能力推理クエスト】というゲームの実績コンプをしたよ",
+      "oldUrl": "https://xainome.blog/%e3%80%90staffer-retro-%e8%b6%85%e8%83%bd%e5%8a%9b%e6%8e%a8%e7%90%86%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e3%80%91%e3%81%a8%e3%81%84%e3%81%86%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e5%ae%9f%e7%b8%be/",
+      "contentFile": "content/posts/2026/08/staffer-retro-achievements/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4298",
+      "type": "post",
+      "title": "【トゥコニ：森の見守り人】攻略・実績コンプ｜効率的な進め方とレビュー",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%88%e3%82%a5%e3%82%b3%e3%83%8b%ef%bc%9a%e6%a3%ae%e3%81%ae%e8%a6%8b%e5%ae%88%e3%82%8a%e4%ba%ba%e3%80%91%e6%94%bb%e7%95%a5%e3%83%bb%e5%ae%9f%e7%b8%be%e3%82%b3%e3%83%b3%e3%83%97%ef%bd%9c/",
+      "contentFile": "content/posts/2026/08/tukoni-achievements/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4316",
+      "type": "post",
+      "title": "【必殺！メガ子パンチ！】攻略・実績コンプ｜効率的な進め方とレビュー",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e5%bf%85%e6%ae%ba%ef%bc%81%e3%83%a1%e3%82%ac%e5%ad%90%e3%83%91%e3%83%b3%e3%83%81%ef%bc%81%e3%80%91%e6%94%bb%e7%95%a5%e3%83%bb%e5%ae%9f%e7%b8%be%e3%82%b3%e3%83%b3%e3%83%97%ef%bd%9c%e5%8a%b9/",
+      "contentFile": "content/posts/2026/08/mega-ko-punch-achievements/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4339",
+      "type": "post",
+      "title": "【ロードトリップ ~ OkaritoからHokitika,Pictonまで】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-okarito%e3%81%8b%e3%82%89hokitikapicton%e3%81%be%e3%81%a7%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b%e3%83%aa-in-nz-x/",
+      "contentFile": "content/posts/2026/09/roadtrip-okarito-hokitika-picton/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4358",
+      "type": "post",
+      "title": "Cloudflare PagesからWorkersへ移行する手順",
+      "oldUrl": "https://xainome.blog/cloudflare-pages%e3%81%8b%e3%82%89workers%e3%81%b8%e7%a7%bb%e8%a1%8c%e3%81%99%e3%82%8b%e6%89%8b%e9%a0%86/",
+      "contentFile": "content/posts/2026/09/cloudflare-pages-to-workers/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4367",
+      "type": "post",
+      "title": "【スイスイ株式会社】掃除して稼いで会社を育てるインクリメントゲームを遊んでみた",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e3%82%b9%e3%82%a4%e3%82%b9%e3%82%a4%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%80%91%e6%8e%83%e9%99%a4%e3%81%97%e3%81%a6%e7%a8%bc%e3%81%84%e3%81%a7%e4%bc%9a%e7%a4%be%e3%82%92%e8%82%b2%e3%81%a6/",
+      "contentFile": "content/posts/2026/09/sludgineers-review/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4376",
+      "type": "post",
+      "title": "【Staffer Case】超能力がある世界で証拠の矛盾を探す推理ゲームを紹介するよ",
+      "oldUrl": "https://xainome.blog/%e3%80%90staffer-case%e3%80%91%e8%b6%85%e8%83%bd%e5%8a%9b%e3%81%8c%e3%81%82%e3%82%8b%e4%b8%96%e7%95%8c%e3%81%a7%e8%a8%bc%e6%8b%a0%e3%81%ae%e7%9f%9b%e7%9b%be%e3%82%92%e6%8e%a2%e3%81%99%e6%8e%a8/",
+      "contentFile": "content/posts/2026/09/staffer-case-review/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4386",
+      "type": "post",
+      "title": "ちいかわの映画を4DXで見た感想｜かわいいだけじゃない魅力をネタバレを避けつつ紹介",
+      "oldUrl": "https://xainome.blog/%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%ae%e6%98%a0%e7%94%bb%e3%82%924dx%e3%81%a7%e8%a6%8b%e3%81%9f%e6%84%9f%e6%83%b3%ef%bd%9c%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e3%81%a0%e3%81%91%e3%81%98/",
+      "contentFile": "content/posts/2026/09/ちいかわの映画を見た感想/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4391",
+      "type": "post",
+      "title": "地域おこし協力隊の鳥獣対策担当に！3年間の目標と月15日稼働の働き方",
+      "oldUrl": "https://xainome.blog/%e5%9c%b0%e5%9f%9f%e3%81%8a%e3%81%93%e3%81%97%e5%8d%94%e5%8a%9b%e9%9a%8a%e3%81%ae%e9%b3%a5%e7%8d%a3%e5%af%be%e7%ad%96%e6%8b%85%e5%bd%93%e3%81%ab%ef%bc%813%e5%b9%b4%e9%96%93%e3%81%ae%e7%9b%ae%e6%a8%99/",
+      "contentFile": "content/posts/2026/10/chiikiokoshi-wildlife-control/index.md",
+      "match": "exact-title"
+    },
+    {
+      "id": "4395",
+      "type": "post",
+      "title": "献血に初めて行って400mL献血をしてきた｜当日の流れと体験談",
+      "oldUrl": "https://xainome.blog/%e7%8c%ae%e8%a1%80%e3%81%ab%e5%88%9d%e3%82%81%e3%81%a6%e8%a1%8c%e3%81%a3%e3%81%a6400ml%e7%8c%ae%e8%a1%80%e3%82%92%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%ef%bd%9c%e5%bd%93%e6%97%a5%e3%81%ae%e6%b5%81/",
+      "contentFile": "content/posts/2026/10/初めての献血400ml/index.md",
+      "match": "reviewed-content"
+    },
+    {
+      "id": "4402",
+      "type": "post",
+      "title": "【北島ロードトリップ ~ Wellingtonの博物館, Tepapa】｜ワーホリ in NZ × 英語力アップ／IELTS対策",
+      "oldUrl": "https://xainome.blog/%e3%80%90%e5%8c%97%e5%b3%b6%e3%83%ad%e3%83%bc%e3%83%89%e3%83%88%e3%83%aa%e3%83%83%e3%83%97-wellington%e3%81%ae%e5%8d%9a%e7%89%a9%e9%a4%a8-tepapa%e3%80%91%ef%bd%9c%e3%83%af%e3%83%bc%e3%83%9b/",
+      "contentFile": "content/posts/2026/10/roadtrip-north-island-wellington-museum/index.md",
+      "match": "reviewed-content"
+    }
+  ]
+}

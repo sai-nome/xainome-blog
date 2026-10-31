@@ -2,11 +2,13 @@
   "scripts": {
     "test:games": "node --test \"scripts/games/*.test.cjs\"",
     "test:game": "npm run test:games",
-    "build": "hugo --minify --cleanDestinationDir",
+    "build": "hugo --minify --cleanDestinationDir && node scripts/redirects/build.mjs",
     "deploy": "wrangler deploy",
-    "dev": "wrangler dev"
+    "dev": "wrangler dev",
+    "test:redirects": "node --test scripts/redirects/redirects.test.cjs"
   },
   "devDependencies": {
-    "wrangler": "^4.128.0"
+    "wrangler": "^4.128.0",
+    "miniflare": "5.20260831.0-alpha"
   }
 }
