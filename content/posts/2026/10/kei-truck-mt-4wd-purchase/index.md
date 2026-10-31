@@ -7,10 +7,10 @@ draft: false
 slug: "kei-truck-mt-4wd-purchase"
 ShowToc: true
 cover:
-  image: "images/kei-truck-front.webp"
-  alt: "購入した白い軽トラの正面。ナンバープレートは加工済み"
+  image: "images/Dolphin’s Joyful Kei Truck Purchase.png"
+  alt: "MT・4WDの軽トラ購入を喜ぶイルカのイラスト"
   relative: true
-  hiddenInSingle: true
+  hiddenInSingle: false
 categories:
   - "雑談"
 tags:
