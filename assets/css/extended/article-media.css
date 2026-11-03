@@ -9,3 +9,24 @@
   max-width: 420px;
   margin-inline: auto;
 }
+
+/* Home workout article: keep images readable and proportional. */
+.md-content .home-workout-media img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+.md-content .home-workout-photo img {
+  width: 640px;
+}
+
+.md-content .home-workout-phone img {
+  width: 360px;
+}
+
+.entry-cover img[src*="dolphin-home-workout-cover"] {
+  max-width: 640px;
+  height: auto;
+  margin-inline: auto;
+}
