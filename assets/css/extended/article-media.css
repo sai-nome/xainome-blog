@@ -30,3 +30,25 @@
   height: auto;
   margin-inline: auto;
 }
+
+/* Kyoto travel article: preserve the full photo and limit portrait height. */
+.md-content .kyoto-trip-media img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+.md-content .kyoto-trip-landscape img {
+  width: 720px;
+}
+
+.md-content .kyoto-trip-portrait img {
+  width: auto;
+  max-height: 560px;
+}
+
+.entry-cover img[src*="kyoto-dolphin-cover"] {
+  max-width: 640px;
+  height: auto;
+  margin-inline: auto;
+}
