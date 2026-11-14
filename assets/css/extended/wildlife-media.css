@@ -1,0 +1,76 @@
+/* Wildlife field report: compact portrait photos and an opt-in mosaic reveal. */
+.wildlife-media {
+  width: 360px;
+  max-width: 100%;
+  margin: 28px auto;
+}
+.wildlife-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.wildlife-media figcaption {
+  margin-top: 10px;
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.7;
+}
+.entry-cover img[src*="dolphin-hunting-cover"] {
+  max-width: 640px;
+  height: auto;
+  margin-inline: auto;
+}
+.sensitive-photo-warning {
+  padding: 14px 16px;
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  background: var(--code-bg);
+  font-size: 14px;
+  line-height: 1.8;
+}
+.sensitive-photo-toggle summary {
+  display: block;
+  padding: 0;
+  list-style: none;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.sensitive-photo-toggle summary::-webkit-details-marker { display: none; }
+.sensitive-photo-toggle summary:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 4px;
+}
+.sensitive-photo-frame {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+.sensitive-photo-frame .sensitive-photo-mosaic {
+  image-rendering: pixelated;
+  border-radius: 0;
+}
+.sensitive-photo-frame .sensitive-photo-original {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border-radius: 0;
+}
+.sensitive-photo-toggle[open] .sensitive-photo-original { clip-path: none !important; }
+.sensitive-photo-action {
+  display: block;
+  padding: 12px;
+  text-align: center;
+  background: var(--code-bg);
+  color: var(--primary);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.7;
+}
+.sensitive-photo-hide { display: none; }
+.sensitive-photo-toggle[open] .sensitive-photo-show { display: none; }
+.sensitive-photo-toggle[open] .sensitive-photo-hide { display: inline; }
