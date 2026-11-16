@@ -2,13 +2,13 @@
 {{- $preview := .Page.Resources.GetMatch (.Get "preview") -}}
 {{- $id := printf "sensitive-photo-%d" .Ordinal -}}
 {{- if and $photo $preview -}}
-<figure class="wildlife-media sensitive-photo">
-  <p class="sensitive-photo-warning" id="{{ $id }}-warning"><strong>閲覧注意：駆除後の動物の写真です。</strong><br>倒れているシカなどが写っています。動物の部分にモザイクをかけています。苦手な方は表示を解除せず、そのまま読み進めてください。</p>
+<figure class="wildlife-media sensitive-photo{{ with .Get "class" }} {{ . }}{{ end }}">
+  <p class="sensitive-photo-warning" id="{{ $id }}-warning"><strong>{{ .Get "warningTitle" | default "閲覧注意：駆除後の動物の写真です。" }}</strong><br>{{ .Get "warningText" | default "倒れているシカなどが写っています。動物の部分にモザイクをかけています。苦手な方は表示を解除せず、そのまま読み進めてください。" }}</p>
   <details class="sensitive-photo-toggle">
     <summary aria-describedby="{{ $id }}-warning">
       <span class="sensitive-photo-frame">
         <img class="sensitive-photo-mosaic" src="{{ $preview.RelPermalink }}" alt="" aria-hidden="true" width="{{ $photo.Width }}" height="{{ $photo.Height }}" loading="lazy" decoding="async">
-        <img class="sensitive-photo-original" src="{{ $photo.RelPermalink }}" alt="{{ .Get "alt" }}" width="{{ $photo.Width }}" height="{{ $photo.Height }}" loading="lazy" decoding="async" style="clip-path: inset(0 0 42% 0)">
+        <img class="sensitive-photo-original" src="{{ $photo.RelPermalink }}" alt="{{ .Get "alt" }}" width="{{ $photo.Width }}" height="{{ $photo.Height }}" loading="lazy" decoding="async" style="clip-path: {{ if .Get "full" }}inset(100%){{ else }}inset(0 0 42% 0){{ end }}">
       </span>
       <span class="sensitive-photo-action"><span class="sensitive-photo-show">写真をクリックしてモザイクを解除</span><span class="sensitive-photo-hide">もう一度クリックしてモザイクを戻す</span></span>
     </summary>

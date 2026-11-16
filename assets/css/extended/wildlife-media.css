@@ -74,3 +74,27 @@
 .sensitive-photo-hide { display: none; }
 .sensitive-photo-toggle[open] .sensitive-photo-show { display: none; }
 .sensitive-photo-toggle[open] .sensitive-photo-hide { display: inline; }
+
+/* Boar butchering article: compact, proportional photos and cover. */
+.boar-butchering-media,
+.sensitive-photo.boar-butchering-landscape {
+  width: 480px;
+  max-width: 100%;
+  margin: 28px auto;
+}
+.boar-butchering-portrait {
+  width: 300px;
+  max-width: 100%;
+  margin-inline: auto;
+}
+.boar-butchering-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+.entry-cover img[src*="dolphin-boar-butchering-cover"] {
+  max-width: 560px;
+  height: auto;
+  margin-inline: auto;
+}
