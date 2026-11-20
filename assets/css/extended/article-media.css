@@ -52,3 +52,17 @@
   height: auto;
   margin-inline: auto;
 }
+
+/* Godot article: compact screenshots with proportional sizing on mobile. */
+.md-content .godot-dev-screenshot img {
+  width: 640px;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+.entry-cover img[src*="godot-dolphin-cover"] {
+  max-width: 640px;
+  height: auto;
+  margin-inline: auto;
+}
